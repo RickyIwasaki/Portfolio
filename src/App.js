@@ -3,8 +3,8 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Resume from './pages/Resume/Resume';
 import Contacts from './pages/Contacts/Contacts';
 import Footer from './components/Footer/Footer';
-import { RateLimitProvider } from './context/RateLimitContext';
-import RateLimitAlert from './components/RateLimitAlert';
+import { RateLimitProvider } from './components/RateLimit/RateLimitContext';
+import RateLimitAlert from './components/RateLimit/RateLimitAlert';
 
 // Home component 
 const Home = () => (
