@@ -18,7 +18,6 @@ class RateLimiter {
   canMakeRequest(endpoint) {
     const now = Date.now();
     
-    // Initialize timestamp array for this endpoint if it doesn't exist
     if (!this.requestTimestamps[endpoint]) {
       this.requestTimestamps[endpoint] = [];
     }
@@ -28,13 +27,11 @@ class RateLimiter {
       timestamp => now - timestamp < this.timeWindow
     );
     
-    // Check if the number of requests within the time window exceeds the limit
     if (this.requestTimestamps[endpoint].length >= this.maxRequests) {
       console.warn(`Rate limit exceeded for endpoint: ${endpoint}`);
       return false;
     }
     
-    // Add current timestamp to the list
     this.requestTimestamps[endpoint].push(now);
     return true;
   }

@@ -10,7 +10,6 @@ const RateLimitAlert = () => {
   const [visible, setVisible] = useState(false);
   const [activeError, setActiveError] = useState(null);
 
-  // Update alerts when rate limit errors change
   useEffect(() => {
     const errorEntries = Object.entries(rateLimitErrors);
     
@@ -39,7 +38,6 @@ const RateLimitAlert = () => {
     }
   }, [rateLimitErrors]);
 
-  // Hide the alert
   const handleDismiss = () => {
     setVisible(false);
   };

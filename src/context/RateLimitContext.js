@@ -80,7 +80,9 @@ export const RateLimitProvider = ({ children }) => {
   );
 };
 
-// Custom hook to use the rate limit context
+/**
+ * Custom hook to use the rate limit context
+ */
 export const useRateLimit = () => {
   const context = useContext(RateLimitContext);
   if (!context) {

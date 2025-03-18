@@ -2,115 +2,28 @@ import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { jsPDF } from "jspdf";
 import "jspdf-autotable";
 import './Resume.css';
-import enResume from '../../assets/resumes/resume-en.json';
-import jaResume from '../../assets/resumes/resume-ja.json';
-import frResume from '../../assets/resumes/resume-fr.json';
-import esResume from '../../assets/resumes/resume-es.json';
-import zhResume from '../../assets/resumes/resume-zh.json';
-import koResume from '../../assets/resumes/resume-ko.json';
-import ruResume from '../../assets/resumes/resume-ru.json';
-import deResume from '../../assets/resumes/resume-de.json';
-import itResume from '../../assets/resumes/resume-it.json';
-import ptResume from '../../assets/resumes/resume-pt.json';
-import arResume from '../../assets/resumes/resume-ar.json';
-import hiResume from '../../assets/resumes/resume-hi.json';
-import trResume from '../../assets/resumes/resume-tr.json';
-import viResume from '../../assets/resumes/resume-vi.json';
-import thResume from '../../assets/resumes/resume-th.json';
-import plResume from '../../assets/resumes/resume-pl.json';
-import nlResume from '../../assets/resumes/resume-nl.json';
-import svResume from '../../assets/resumes/resume-sv.json';
-import elResume from '../../assets/resumes/resume-el.json';
-import csResume from '../../assets/resumes/resume-cs.json';
-import huResume from '../../assets/resumes/resume-hu.json';
-import roResume from '../../assets/resumes/resume-ro.json';
-import idResume from '../../assets/resumes/resume-id.json';
-import bgResume from '../../assets/resumes/resume-bg.json';
-import daResume from '../../assets/resumes/resume-da.json';
-import ukResume from '../../assets/resumes/resume-uk.json';
-import skResume from '../../assets/resumes/resume-sk.json';
-import hrResume from '../../assets/resumes/resume-hr.json';
-import ltResume from '../../assets/resumes/resume-lt.json';
-import slResume from '../../assets/resumes/resume-sl.json';
-import lvResume from '../../assets/resumes/resume-lv.json';
-import etResume from '../../assets/resumes/resume-et.json';
-import srResume from '../../assets/resumes/resume-sr.json';
-import noResume from '../../assets/resumes/resume-no.json';
-import heResume from '../../assets/resumes/resume-he.json';
-import fiResume from '../../assets/resumes/resume-fi.json';
-import sgResume from '../../assets/resumes/resume-sg.json';
-import ffResume from '../../assets/resumes/resume-ff.json';
-import woResume from '../../assets/resumes/resume-wo.json';
-import siResume from '../../assets/resumes/resume-si.json';
-import mgResume from '../../assets/resumes/resume-mg.json';
-import stResume from '../../assets/resumes/resume-st.json';
-import soResume from '../../assets/resumes/resume-so.json';
-import haResume from '../../assets/resumes/resume-ha.json';
-import smResume from '../../assets/resumes/resume-sm.json';
-import krResume from '../../assets/resumes/resume-kr.json';
-import uzResume from '../../assets/resumes/resume-uz.json';
-import kuResume from '../../assets/resumes/resume-ku.json';
-import brResume from '../../assets/resumes/resume-br.json';
-import tiResume from '../../assets/resumes/resume-ti.json';
-import chResume from '../../assets/resumes/resume-ch.json';
-import cvResume from '../../assets/resumes/resume-cv.json';
-import gvResume from '../../assets/resumes/resume-gv.json';
-import isResume from '../../assets/resumes/resume-is.json';
-import jvResume from '../../assets/resumes/resume-jv.json';
-import foResume from '../../assets/resumes/resume-fo.json';
-import kvResume from '../../assets/resumes/resume-kv.json';
-import bsResume from '../../assets/resumes/resume-bs.json';
-import loResume from '../../assets/resumes/resume-lo.json';
-import quResume from '../../assets/resumes/resume-qu.json';
-import coResume from '../../assets/resumes/resume-co.json';
-import euResume from '../../assets/resumes/resume-eu.json';
-import knResume from '../../assets/resumes/resume-kn.json';
-import fjResume from '../../assets/resumes/resume-fj.json';
-import ssResume from '../../assets/resumes/resume-ss.json';
-import yiResume from '../../assets/resumes/resume-yi.json';
-import kkResume from '../../assets/resumes/resume-kk.json';
-import msResume from '../../assets/resumes/resume-ms.json';
-import tsResume from '../../assets/resumes/resume-ts.json';
-import iuResume from '../../assets/resumes/resume-iu.json';
-import miResume from '../../assets/resumes/resume-mi.json';
-import tyResume from '../../assets/resumes/resume-ty.json';
-import psResume from '../../assets/resumes/resume-ps.json';
-import orResume from '../../assets/resumes/resume-or.json';
-import ugResume from '../../assets/resumes/resume-ug.json';
-import kaResume from '../../assets/resumes/resume-ka.json';
-import mlResume from '../../assets/resumes/resume-ml.json';
-import nrResume from '../../assets/resumes/resume-nr.json';
-import suResume from '../../assets/resumes/resume-su.json';
-import toResume from '../../assets/resumes/resume-to.json';
-import tnResume from '../../assets/resumes/resume-tn.json';
-import nyResume from '../../assets/resumes/resume-ny.json';
-import guResume from '../../assets/resumes/resume-gu.json';
-import saResume from '../../assets/resumes/resume-sa.json';
-import dzResume from '../../assets/resumes/resume-dz.json';
-import eeResume from '../../assets/resumes/resume-ee.json';
-import sdResume from '../../assets/resumes/resume-sd.json';
-import igResume from '../../assets/resumes/resume-ig.json';
-import gaResume from '../../assets/resumes/resume-ga.json';
-import gnResume from '../../assets/resumes/resume-gn.json';
-import ayResume from '../../assets/resumes/resume-ay.json';
-import fyResume from '../../assets/resumes/resume-fy.json';
-import gdResume from '../../assets/resumes/resume-gd.json';
-import snResume from '../../assets/resumes/resume-sn.json';
-import taResume from '../../assets/resumes/resume-ta.json';
-import mkResume from '../../assets/resumes/resume-mk.json';
-import glResume from '../../assets/resumes/resume-gl.json';
-import beResume from '../../assets/resumes/resume-be.json';
-import tlResume from '../../assets/resumes/resume-tl.json';
-import htResume from '../../assets/resumes/resume-ht.json';
-import osResume from '../../assets/resumes/resume-os.json';
-import zuResume from '../../assets/resumes/resume-zu.json';
-import mhResume from '../../assets/resumes/resume-mh.json';
-import tgResume from '../../assets/resumes/resume-tg.json';
-import cyResume from '../../assets/resumes/resume-cy.json';
-import mrResume from '../../assets/resumes/resume-mr.json';
-import veResume from '../../assets/resumes/resume-ve.json';
-import boResume from '../../assets/resumes/resume-bo.json';
-import twResume from '../../assets/resumes/resume-tw.json';
+
+// Import resume data dynamically
+const resumeDataMap = {};
+const languageCodes = [
+  'en', 'ja', 'fr', 'es', 'zh', 'ko', 'ru', 'de', 'it', 'pt', 'ar', 'hi', 'tr', 'vi', 'th',
+  'pl', 'nl', 'sv', 'el', 'cs', 'hu', 'ro', 'id', 'bg', 'da', 'uk', 'sk', 'hr', 'lt', 'sl',
+  'lv', 'et', 'sr', 'no', 'he', 'fi', 'sg', 'ff', 'wo', 'si', 'mg', 'st', 'so', 'ha', 'sm',
+  'kr', 'uz', 'ku', 'br', 'ti', 'ch', 'cv', 'gv', 'is', 'jv', 'fo', 'kv', 'bs', 'lo', 'qu',
+  'co', 'eu', 'kn', 'fj', 'ss', 'yi', 'kk', 'ms', 'ts', 'iu', 'mi', 'ty', 'ps', 'or', 'ug',
+  'ka', 'ml', 'nr', 'su', 'to', 'tn', 'ny', 'gu', 'sa', 'dz', 'ee', 'sd', 'ig', 'ga', 'gn',
+  'ay', 'fy', 'gd', 'sn', 'ta', 'mk', 'gl', 'be', 'tl', 'ht', 'os', 'zu', 'mh', 'tg', 'cy',
+  'mr', 've', 'bo', 'tw'
+];
+
+// Import all resume data files
+languageCodes.forEach(code => {
+  try {
+    resumeDataMap[code] = require(`../../assets/resumes/resume-${code}.json`);
+  } catch (error) {
+    console.warn(`Failed to load resume for language: ${code}`);
+  }
+});
 
 // Resume component styles
 const styles = {
@@ -121,119 +34,6 @@ const styles = {
   technical: 'resume-style-technical',
   compact: 'resume-style-compact',
   elegant: 'resume-style-elegant'
-};
-
-// Map of language codes to resume data
-const resumeDataMap = {
-  'en': enResume,
-  'ja': jaResume,
-  'fr': frResume,
-  'es': esResume,
-  'zh': zhResume,
-  'ko': koResume,
-  'ru': ruResume,
-  'de': deResume,
-  'it': itResume,
-  'pt': ptResume,
-  'ar': arResume, 
-  'hi': hiResume,
-  'tr': trResume,
-  'vi': viResume,
-  'th': thResume,
-  'pl': plResume,
-  'nl': nlResume,
-  'sv': svResume,
-  'el': elResume,
-  'cs': csResume,
-  'hu': huResume,
-  'ro': roResume,
-  'id': idResume,
-  'bg': bgResume,
-  'da': daResume,
-  'uk': ukResume,
-  'sk': skResume,
-  'hr': hrResume,
-  'lt': ltResume,
-  'sl': slResume,
-  'lv': lvResume,
-  'et': etResume,
-  'sr': srResume,
-  'no': noResume,
-  'he': heResume,
-  'fi': fiResume,
-  'sg': sgResume,
-  'ff': ffResume,
-  'wo': woResume,
-  'si': siResume,
-  'mg': mgResume,
-  'st': stResume,
-  'so': soResume,
-  'ha': haResume,
-  'sm': smResume,
-  'kr': krResume,
-  'uz': uzResume,
-  'ku': kuResume,
-  'br': brResume,
-  'ti': tiResume,
-  'ch': chResume,
-  'cv': cvResume,
-  'gv': gvResume,
-  'is': isResume,
-  'jv': jvResume,
-  'fo': foResume,
-  'kv': kvResume,
-  'bs': bsResume,
-  'lo': loResume,
-  'qu': quResume,
-  'co': coResume,
-  'eu': euResume,
-  'kn': knResume,
-  'fj': fjResume,
-  'ss': ssResume,
-  'yi': yiResume,
-  'kk': kkResume,
-  'ms': msResume,
-  'ts': tsResume,
-  'iu': iuResume,
-  'mi': miResume,
-  'ty': tyResume,
-  'ps': psResume,
-  'or': orResume,
-  'ug': ugResume,
-  'ka': kaResume,
-  'ml': mlResume,
-  'nr': nrResume,
-  'su': suResume,
-  'to': toResume,
-  'tn': tnResume,
-  'ny': nyResume,
-  'gu': guResume,
-  'sa': saResume,
-  'dz': dzResume,
-  'ee': eeResume,
-  'sd': sdResume,
-  'ig': igResume,
-  'ga': gaResume,
-  'gn': gnResume,
-  'ay': ayResume,
-  'fy': fyResume,
-  'gd': gdResume,
-  'sn': snResume,
-  'ta': taResume,
-  'mk': mkResume,
-  'gl': glResume,
-  'be': beResume,
-  'tl': tlResume,
-  'ht': htResume,
-  'os': osResume,
-  'zu': zuResume,
-  'mh': mhResume,
-  'tg': tgResume,
-  'cy': cyResume,
-  'mr': mrResume,
-  've': veResume,
-  'bo': boResume,
-  'tw': twResume
 };
 
 // Map of language codes to language names
