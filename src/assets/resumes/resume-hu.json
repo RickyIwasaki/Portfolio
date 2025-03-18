@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Szoftvermérnök",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Tapasztalt szoftverfejlesztő, aki új lehetőséget keres a nagy projektekhez való munkavégzéshez. Érdekelt kód létrehozása vagy hozzáadása mások számára. Úgy gondolom, hogy a tudásom kicsi az internethez képest, ezért nagyon érdekel, hogy más eszközökkel, szolgáltatásokkal, programozási nyelvekkel dolgozzak.",
+  "education": [
+    {
+      "degree": "Szoftvermérnöki bizonyítvány",
+      "school": "Springboard Bootcamp",
+      "dates": "2022-2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, Kalifornia, USA",
+      "dates": "2021-2022"
+    },
+    {
+      "degree": "Középiskolai diploma",
+      "school": "Woodbridge Gimnázium",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2016-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Szoftvermérnök",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2023-2024",
+      "responsibilities": [
+        "Skálázható webalkalmazások megtervezése és megvalósítása a React és a Node.js használatával",
+        "Együttműködött a termékmenedzserekkel a követelmények finomítása és az időben történő szállítás biztosítása érdekében",
+        "Kifejlesztett és karbantartott RESTful API-k webes alkalmazásokhoz",
+        "A feladatok automatizálására és a hatékonyság javítására kifejlesztett szkriptek"
+      ]
+    },
+    {
+      "title": "Teniszedző asszisztens",
+      "company": "Irvine városa",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2014-2019",
+      "responsibilities": [
+        "Tenisztechnikák oktatása 5-10 fős csoportos keretek között",
+        "Tedd szórakoztatóvá és szórakoztatóvá a leckét a játékosok számára",
+        "Felelős a pályán lévő játékosok biztonságáért, különösen a fiatalabb és idősebb játékosok, például a 3 évesek és a 60 évesek biztonságáért"
+      ]
+    },
+    {
+      "title": "Kimenő munkatárs",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2024-2024",
+      "responsibilities": [
+        "Elemek feltöltése a polcon",
+        "Rendelésfelvétel online vásárlók számára",
+        "Csomagolási rendelések szállításhoz",
+        "Megrendelések rakodása a szállítókocsikra",
+        "Segítség a vásárlóknak megtalálni a termékeket az üzletben",
+        "A raktár tisztán tartása és rendezettsége",
+        "Biztonságos és barátságos környezet fenntartása ügyfelei és alkalmazottai számára"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Gépelt",
+      "Piton",
+      "Jáva",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagál",
+      "Node.js",
+      "Expressz",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Dokkmunkás",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "angol",
+      "proficiency": "Bennszülött"
+    },
+    {
+      "name": "japán",
+      "proficiency": "Bennszülött"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfólió",
+      "description": "Egy reszponzív webhely, amely projekteket és készségeket mutat be a modern webes technológiák használatával",
+      "technologies": [
+        "Reagál",
+        "CSS3",
+        "Reszponzív tervezés"
+      ]
+    }
+  ]
+}

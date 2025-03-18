@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Isang Sanay na Software Developer, naghahanap ng bagong pagkakataon na magtrabaho para sa malalaking proyekto. Interesado sa paggawa o pagdaragdag ng code para magamit ng iba. Naniniwala ako na ang aking mga kasanayan ay maliit kumpara sa internet, kaya interesado akong magtrabaho kasama ang iba pang mga tool, serbisyo, programming language.",
+  "education": [
+    {
+      "degree": "Sertipiko ng Software Engineering",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "High School Diploma",
+      "school": "Mataas na Paaralan ng Woodbridge",
+      "location": "Irvine, California, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Naka-architect at nagpatupad ng mga scalable na web application gamit ang React at Node.js",
+        "Nakipagtulungan sa mga tagapamahala ng produkto upang pinuhin ang mga kinakailangan at matiyak ang napapanahong paghahatid",
+        "Binuo at pinapanatili ang mga RESTful API para sa mga web application",
+        "Binuo ang mga script upang i-automate ang mga gawain at pagbutihin ang kahusayan"
+      ]
+    },
+    {
+      "title": "Assistant Tennis Coach",
+      "company": "Lungsod ng Irvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Pagtuturo ng mga diskarte sa tennis sa isang setting ng grupo ng 5-10 manlalaro",
+        "Ginagawang masaya at intertaining ang aralin para sa mga manlalaro",
+        "Responsable para sa kaligtasan ng mga manlalaro sa court, lalo na ang mga mas bata at mas matatandang manlalaro, tulad ng 3 taong gulang at 60 taong gulang"
+      ]
+    },
+    {
+      "title": "Outbound Associate",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Nag-restock ng mga item sa istante",
+        "Pagpili ng mga order para sa mga online na customer",
+        "Pag-iimpake ng mga order para sa pagpapadala",
+        "Naglo-load ng mga order sa mga delivery truck",
+        "Pagtulong sa mga customer na mahanap ang mga item sa tindahan",
+        "Pagpapanatiling malinis at maayos ang bodega",
+        "Pagpapanatiling ligtas at magiliw na kapaligiran para sa mga customer at empleyado"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "sawa",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Magreact",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Ingles",
+      "proficiency": "Katutubo"
+    },
+    {
+      "name": "Hapon",
+      "proficiency": "Katutubo"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Isang tumutugon na website na nagpapakita ng mga proyekto at kasanayan gamit ang mga modernong teknolohiya sa web",
+      "technologies": [
+        "Magreact",
+        "CSS3",
+        "Tumutugon na Disenyo"
+      ]
+    }
+  ]
+}

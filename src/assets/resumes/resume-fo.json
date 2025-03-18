@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Ivasaki",
+  "title": "Ritbúnaðarverkfrøðingur",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Royndur ritbúnaðarmennari, sum søkir nýggjan møguleika at arbeiða fyri stórum verkætlanum. Áhugi í at gera ella leggja kodu til onnur at brúka. Eg trúgvi, at mínir førleikar eru lítlir í mun til internetið, so eg havi stóran áhuga í at arbeiða við øðrum tólum, tænastum, forritanarmálum.",
+  "education": [
+    {
+      "degree": "Prógv í ritbúnaðarverkfrøði",
+      "school": "Fremribretti Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Háskúlin í Kalifornia í Fullerton",
+      "location": "Fullerton, Kalifornia, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Miðnámsskúlaprógv",
+      "school": "Miðnámsskúlin í Woodbridge",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ritbúnaðarverkfrøðingur",
+      "company": "MS-ØKI LLC.",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arkitekterað og sett í verk skalerbar vevforrit við at brúka React og Node.js",
+        "Samstarvað við vøruleiðarar um at fínpussa krøv og tryggja tíðarhóskandi avhending",
+        "Ment og viðlíkahald RESTful API'ir til vevforrit",
+        "Mennt skriftir til at sjálvvirka uppgávur og betra um effektivitetin"
+      ]
+    },
+    {
+      "title": "Hjálpartennisvenjari",
+      "company": "Býurin Irvine",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Undirvísing í tennisteknikki í bólki við 5-10 leikarum",
+        "At gera undirvísingina stuttliga og stuttliga fyri spælararnar",
+        "Ábyrgd av trygdini hjá leikarunum á vøllinum, serliga teimum yngru og eldru leikarunum, sum 3 ára gomul og 60 ára gomul"
+      ]
+    },
+    {
+      "title": "Útgangandi samstarvsfelagi",
+      "company": "Amazon Frískt",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Endurgoymsla av lutum á hillini",
+        "Heinta bíleggingar til netkundar",
+        "Pakki bíleggingar til frakt",
+        "Lasta bíleggingar á avhendingarvognarnar",
+        "At hjálpa kundum at finna lutir í handlinum",
+        "At halda goymsluna reina og skipaða",
+        "At halda eitt trygt og vinarligt umhvørvi fyri kundar og starvsfólk"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaSkript",
+      "Skrift",
+      "Píton",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagera",
+      "Knútur.js",
+      "Snarboð",
+      "Django",
+      "JSpurningur"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google skýpallur"
+    ],
+    "databases": [
+      "Eftirgrein",
+      "MínSQL",
+      "Kassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Enskt",
+      "proficiency": "Upprunaligur"
+    },
+    {
+      "name": "Japanskt",
+      "proficiency": "Upprunaligur"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mappa",
+      "description": "Ein svarandi heimasíða, sum vísir fram verkætlanir og førleikar við nútímans vevtøkni",
+      "technologies": [
+        "Reagera",
+        "CSS3.",
+        "Svarandi sniðgeving"
+      ]
+    }
+  ]
+}

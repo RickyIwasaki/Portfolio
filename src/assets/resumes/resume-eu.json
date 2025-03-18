@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software Ingeniaria",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Eskarmentu handiko software garatzailea, proiektu handietarako lan egiteko aukera berrien bila. Besteek erabiltzeko kodea sortzeko edo gehitzeko interesa duzu. Nire gaitasunak internetekin alderatuta txikiak direla uste dut, beraz, beste tresna, zerbitzu, programazio lengoaia batzuekin lan egitea oso interesatzen zait.",
+  "education": [
+    {
+      "degree": "Softwarearen Ingeniaritza Ziurtagiria",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Fullertongo Kaliforniako Estatuko Unibertsitatea",
+      "location": "Fullerton, Kalifornia, AEB",
+      "dates": "2021-2022"
+    },
+    {
+      "degree": "Batxilergoko Diploma",
+      "school": "Woodbridge Batxilergoa",
+      "location": "Irvine, Kalifornia, AEB",
+      "dates": "2016-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Ingeniaria",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornia, AEB",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Web aplikazio eskalagarriak arkitektu eta inplementatu React eta Node.js erabiliz",
+        "Produktu-kudeatzaileekin lankidetzan aritu da eskakizunak hobetzeko eta entrega puntuala ziurtatzeko",
+        "Web aplikazioetarako RESTful APIak garatu eta mantendu",
+        "Zereginak automatizatzeko eta eraginkortasuna hobetzeko script-ak garatu ditu"
+      ]
+    },
+    {
+      "title": "Tenis entrenatzaile laguntzailea",
+      "company": "Irvine hiria",
+      "location": "Irvine, Kalifornia, AEB",
+      "dates": "2014-2019",
+      "responsibilities": [
+        "Tenisaren teknikak irakastea 5-10 jokalariz osatutako taldean",
+        "Ikasgaia dibertigarria eta entretenigarria izatea jokalarientzat",
+        "Kantxako jokalarien segurtasunaz arduratzen da, batez ere jokalari gazte eta helduenak, 3 urtekoak eta 60 urtekoak bezala."
+      ]
+    },
+    {
+      "title": "Irteerako Elkargoa",
+      "company": "Amazon Freskoa",
+      "location": "Irvine, Kalifornia, AEB",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Apalategiko elementuak birsortzea",
+        "Lineako bezeroentzako eskaerak biltzea",
+        "Bidalketa eskaerak paketatzea",
+        "Eskaerak bidalketa kamioietan kargatzea",
+        "Bezeroei dendan gauzak aurkitzen laguntzea",
+        "Biltegia garbi eta antolatuta mantentzea",
+        "Bezeroentzako eta langileentzako ingurune seguru eta atsegina mantentzea"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Erreakzionatu",
+      "Node.js",
+      "Adierazi",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "ingelesa",
+      "proficiency": "Bertakoa"
+    },
+    {
+      "name": "japoniarra",
+      "proficiency": "Bertakoa"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolioa",
+      "description": "Webgune responsive bat, web teknologia modernoak erabiliz proiektuak eta trebetasunak erakusten dituena",
+      "technologies": [
+        "Erreakzionatu",
+        "CSS3",
+        "Responsive Design"
+      ]
+    }
+  ]
+}

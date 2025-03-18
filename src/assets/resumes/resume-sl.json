@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Programski inženir",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Izkušen razvijalec programske opreme, ki išče nove priložnosti za delo pri velikih projektih. Zanima me ustvarjanje ali dodajanje kode za uporabo drugih. Menim, da so moja znanja majhna v primerjavi z internetom, zato me zelo zanima delo z drugimi orodji, storitvami, programskimi jeziki.",
+  "education": [
+    {
+      "degree": "Certifikat programskega inženiringa",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Kalifornijska državna univerza Fullerton",
+      "location": "Fullerton, Kalifornija, ZDA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Srednješolsko spričevalo",
+      "school": "Srednja šola Woodbridge",
+      "location": "Irvine, Kalifornija, ZDA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Programski inženir",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornija, ZDA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arhitekturno in implementirano razširljive spletne aplikacije z uporabo React in Node.js",
+        "Sodeloval z vodji izdelkov, da bi izboljšali zahteve in zagotovili pravočasno dostavo",
+        "Razvit in vzdrževan RESTful API-ji za spletne aplikacije",
+        "Razvite skripte za avtomatizacijo nalog in izboljšanje učinkovitosti"
+      ]
+    },
+    {
+      "title": "Pomočnik teniškega trenerja",
+      "company": "Mesto Irvine",
+      "location": "Irvine, Kalifornija, ZDA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Poučevanje teniških tehnik v skupini 5-10 igralcev",
+        "Naj bo lekcija zabavna in zabavna za igralce",
+        "Odgovoren za varnost igralcev na igrišču, še posebej mlajših in starejših igralcev, kot so 3-letniki in 60-letniki"
+      ]
+    },
+    {
+      "title": "Izhodni sodelavec",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornija, ZDA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Obnova artiklov na polici",
+        "Zbiranje naročil za spletne stranke",
+        "Pakiranje naročil za pošiljanje",
+        "Nalaganje naročil na dostavna vozila",
+        "Pomoč strankam pri iskanju artiklov v trgovini",
+        "Vzdrževanje skladišča čisto in urejeno",
+        "Ohranjanje varnega in prijaznega okolja za stranke in zaposlene"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagiraj",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "angleščina",
+      "proficiency": "Native"
+    },
+    {
+      "name": "japonska",
+      "proficiency": "Native"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfelj",
+      "description": "Odzivno spletno mesto, ki prikazuje projekte in znanja z uporabo sodobnih spletnih tehnologij",
+      "technologies": [
+        "Reagiraj",
+        "CSS3",
+        "Odzivno oblikovanje"
+      ]
+    }
+  ]
+}

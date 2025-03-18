@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Injineli yesoftware",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Umphuhlisi weSoftware onamava, ofuna ithuba elitsha lokusebenzela iiprojekthi ezinkulu. Unomdla ekudaleni okanye ekongezeni ikhowudi ukuze abanye bayisebenzise. Ndiyakholelwa ukuba izakhono zam zincinci xa kuthelekiswa ne-intanethi, ngoko ke ndinomdla kakhulu ekusebenzeni nezinye izixhobo, iinkonzo, iilwimi zeprogram.",
+  "education": [
+    {
+      "degree": "Isiqinisekiso sobuNjineli beSoftware",
+      "school": "Ikampu yeBhootboard yaseSpringboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "IYunivesithi yaseCalifornia State yaseFullerton",
+      "location": "Fullerton, eCalifornia, eU.SA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Idiploma yeSikolo samaBanga aPhakamileyo",
+      "school": "Isikolo samabanga aphakamileyo saseWoodbridge",
+      "location": "Irvine, eCalifornia, eU.SA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Injineli yesoftware",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, eCalifornia, eU.SA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Yakhiwe kwaye yaphunyezwa usetyenziso lwewebhu olunokwehla kusetyenziswa iReact kunye neNode.js",
+        "Ukusebenzisana nabaphathi beemveliso ukucokisa iimfuno kunye nokuqinisekisa ukuhanjiswa kwangexesha",
+        "Kuphuhliswe kwaye kugcinwe i-RESTful APIs kwizicelo zewebhu",
+        "Izikripthi eziphuhlisiwe ukuze zizenzele imisebenzi kunye nokuphucula ukusebenza kakuhle"
+      ]
+    },
+    {
+      "title": "Umqeqeshi weTennis oNcedisayo",
+      "company": "Isixeko sase-Irvine",
+      "location": "Irvine, eCalifornia, eU.SA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Ukufundisa ubuchule bentenetya kwisethingi yeqela labadlali aba-5-10",
+        "Ukwenza isifundo sibe mnandi kwaye sibe nolonwabo kubadlali",
+        "Inoxanduva lokhuseleko lwabadlali enkundleni, ngakumbi abadlali abancinci nabadala, abafana nabaneminyaka emi-3 kunye nabaneminyaka engama-60 ubudala."
+      ]
+    },
+    {
+      "title": "Umhlobo Wangaphandle",
+      "company": "Amazon Fresh",
+      "location": "Irvine, eCalifornia, eU.SA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Ukubuyisela izinto kwishelufu",
+        "Ukukhetha iiodolo zabathengi be-intanethi",
+        "Ukupakisha iiodolo zokuthumela ngenqanawa",
+        "Ilayisha iiodolo kwiilori zokuhambisa",
+        "Ukunceda abathengi bafumane izinto evenkileni",
+        "Ukugcina indawo yokugcina icocekile kwaye icwangcisiwe",
+        "Ukugcina imeko ekhuselekileyo nenobubele kubathengi nabasebenzi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Inhlwathi",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Uphendule",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "I-PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "IsiNgesi",
+      "proficiency": "Umthonyama"
+    },
+    {
+      "name": "IsiJaphani",
+      "proficiency": "Umthonyama"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ipotfoliyo",
+      "description": "Iwebhusayithi ephendulayo ebonisa iiprojekthi kunye nezakhono usebenzisa itekhnoloji yewebhu yanamhlanje",
+      "technologies": [
+        "Uphendule",
+        "CSS3",
+        "Uyilo oluphendulayo"
+      ]
+    }
+  ]
+}

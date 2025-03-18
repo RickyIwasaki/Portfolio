@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Ingénieur logiciel",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Defarkatu losisel bu am xam-xam, di wër occasion bu bees ngir liggéey ci projet yu mag. Dama bëgga sos wala yokk kode ngir ñeneen ñi jëfandikoo ko. Dama jàpp ni sama xam-xam tuuti la soo koy méngale ak internet, moo tax dama bëgg lool liggéey ak yeneen jumtukaay, serwiis, làkki prograam.",
+  "education": [
+    {
+      "degree": "Sàrtifikaa di Ingénieur logiciel",
+      "school": "Bootcamp de trampolin",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Daara bu kawe bu Fullerton",
+      "location": "Fullerton, Californie, Etats Unis",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diplôme de lycée",
+      "school": "Daara bu kawe bu Woodbridge",
+      "location": "Irvine, Californie, Etats Unis",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ingénieur logiciel",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Californie, Etats Unis",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Defar nañu ba noppi samp ay aplikaasioŋu web yuñ mëna escaleer ci React ak Node.js",
+        "Liggéeyandoo ak kilifay produit yi ngir setal li ñuy laaj te mëna joxe ci waxtu wi war",
+        "Defar ak toppatoo RESTful APIs ngir aplikaasioŋu web",
+        "Defar nañu ay script ngir otomatise ay liggéey ak gëna dëgaral"
+      ]
+    },
+    {
+      "title": "Jàppalekatu Anterneer Tennis",
+      "company": "Dëkk bu Irvine",
+      "location": "Irvine, Californie, Etats Unis",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Jàngale pexem tennis ci biir kuréel gu am 5 ba 10 joueur",
+        "Fexe ba njàng mi neex te neex joueur yi",
+        "Responsable ci kaaraange joueur yi ci biir terrain bi, rawatina joueur yu ndaw yi ak mag ñi, lu ci melni 3 at ak 60 at"
+      ]
+    },
+    {
+      "title": "Associate buy dem",
+      "company": "Amazon bu bees",
+      "location": "Irvine, Californie, Etats Unis",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Delloosi mbir yi ci kaw etaser bi",
+        "Tann komànd ngir kiliyaan yi ci net bi",
+        "Komànd ngir yobbu",
+        "Yab komànd yi ci kamioŋ yiy yóbbu",
+        "Dimbali kiliyaan yi ñu gis mbir yi ci butig bi",
+        "Fexe ba depo bi set te rafet",
+        "Fexe am barab bu wóor te neex kiliyaan yi ak liggéeykat yi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaSkript",
+      "TipeSkript",
+      "Piton",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Fësal",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google niir"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "SamaSQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Angale",
+      "proficiency": "Judd"
+    },
+    {
+      "name": "japonais",
+      "proficiency": "Judd"
+    }
+  ],
+  "projects": [
+    {
+      "name": "portfëy",
+      "description": "Sitweb buy tontu, di wane ay projet ak ay xam-xam ci jëfandikoo xaralay web yu bees",
+      "technologies": [
+        "React",
+        "CSS3",
+        "Design buy tontu"
+      ]
+    }
+  ]
+}

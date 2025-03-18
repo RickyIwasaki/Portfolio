@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Enginyer de programari",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Desenvolupador de programari amb experiència, busca noves oportunitats per treballar per a grans projectes. Interessat a crear o afegir codi per a altres usuaris. Crec que les meves habilitats són petites en comparació amb Internet, així que estic molt interessat a treballar amb altres eines, serveis i llenguatges de programació.",
+  "education": [
+    {
+      "degree": "Certificat d'enginyeria del programari",
+      "school": "Bootcamp de Springboard",
+      "dates": "2022-2023"
+    },
+    {
+      "school": "Universitat Estatal de Califòrnia de Fullerton",
+      "location": "Fullerton, Califòrnia, Estats Units",
+      "dates": "2021-2022"
+    },
+    {
+      "degree": "Diploma de Batxillerat",
+      "school": "Woodbridge High School",
+      "location": "Irvine, Califòrnia, Estats Units",
+      "dates": "2016-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Enginyer de programari",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Califòrnia, Estats Units",
+      "dates": "2023-2024",
+      "responsibilities": [
+        "Dissenyat i implementat aplicacions web escalables mitjançant React i Node.js",
+        "Col·laborar amb els gestors de producte per afinar els requisits i garantir el lliurament puntual",
+        "Desenvolupament i manteniment d'API RESTful per a aplicacions web",
+        "S'han desenvolupat scripts per automatitzar tasques i millorar l'eficiència"
+      ]
+    },
+    {
+      "title": "Entrenador adjunt de tennis",
+      "company": "Ciutat d'Irvine",
+      "location": "Irvine, Califòrnia, Estats Units",
+      "dates": "2014-2019",
+      "responsibilities": [
+        "Ensenyament de tècniques de tennis en grup de 5-10 jugadors",
+        "Fer que la lliçó sigui divertida i entretinguda per als jugadors",
+        "Responsable de la seguretat dels jugadors a la pista, especialment dels jugadors més joves i grans, com els de 3 anys i els de 60 anys."
+      ]
+    },
+    {
+      "title": "Associat de sortida",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Califòrnia, Estats Units",
+      "dates": "2024-2024",
+      "responsibilities": [
+        "Reposició d'articles a la prestatgeria",
+        "Recollida de comandes per a clients en línia",
+        "Embalatge de comandes per a l'enviament",
+        "Càrrega de comandes als camions de lliurament",
+        "Ajudar els clients a trobar articles a la botiga",
+        "Mantenir el magatzem net i organitzat",
+        "Mantenir un entorn segur i amigable per als clients i empleats"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reacciona",
+      "Node.js",
+      "Expressar",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Anglès",
+      "proficiency": "Nadiu"
+    },
+    {
+      "name": "japonès",
+      "proficiency": "Nadiu"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cartera",
+      "description": "Un lloc web responsive que mostra projectes i habilitats que utilitzen tecnologies web modernes",
+      "technologies": [
+        "Reacciona",
+        "CSS3",
+        "Disseny responsive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Ingegnere di software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Un sviluppatore di software espertu, chì cerca una nova opportunità per travaglià per grandi prughjetti. Interessatu à creà o aghjunghje codice per l'altri à aduprà. Credu chì e mo cumpetenze sò chjuche cumparatu cù l'internet, cusì sò assai interessatu à travaglià cù altre arnesi, servizii, lingue di prugrammazione.",
+  "education": [
+    {
+      "degree": "Certificatu di Ingegneria di u Software",
+      "school": "Bootcamp di Springboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University di Fullerton",
+      "location": "Fullerton, California, U.S.A",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma di liceu",
+      "school": "Woodbridge High School",
+      "location": "Irvine, California, U.S.A",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ingegnere di software",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, U.S.A",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Architettu è implementatu applicazioni web scalabili cù React è Node.js",
+        "Collaboratu cù i gestori di produttu per raffinà e esigenze è assicurà a consegna puntuale",
+        "Sviluppatu è mantenutu API RESTful per applicazioni web",
+        "Scripts sviluppati per automatizà e attività è migliurà l'efficienza"
+      ]
+    },
+    {
+      "title": "Assistant coach di tennis",
+      "company": "Cità di Irvine",
+      "location": "Irvine, California, U.S.A",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Insegnamentu di tecniche di tennis in un gruppu di 5-10 ghjucatori",
+        "Facendu a lezione divertente è intrattenimentu per i ghjucatori",
+        "Rispunsevuli di a sicurità di i ghjucatori nantu à u tribunale, in particulare i ghjucatori più ghjovani è anziani, cum'è 3 anni è 60 anni."
+      ]
+    },
+    {
+      "title": "Associatu in uscita",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, U.S.A",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking articuli nantu à u scaffale",
+        "Coglie ordini per i clienti in linea",
+        "Ordini di imballaggio per spedizione",
+        "Caricà ordini nantu à i camioni di consegna",
+        "Aiutà i clienti à truvà articuli in a tenda",
+        "Mantene u magazzinu pulitu è urganizatu",
+        "Mantene un ambiente sicuru è amichevule per i clienti è l'impiegati"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagisce",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Inglese",
+      "proficiency": "Nativu"
+    },
+    {
+      "name": "Ghjappunese",
+      "proficiency": "Nativu"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Un situ web reattivu chì mostra prughjetti è cumpetenze chì utilizanu tecnulugia web muderni",
+      "technologies": [
+        "Reagisce",
+        "CSS3",
+        "Design Responsive"
+      ]
+    }
+  ]
+}

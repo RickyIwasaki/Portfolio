@@ -1,0 +1,121 @@
+{
+  "name": "Riki Iwasaki",
+  "title": "Moenjenere wa Serweboleta",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Motlhabolodi wa Software yo o nang le Maitemogelo, yo o batlang tshono e ntšhwa ya go direla diporojeke tse dikgolo. O na le kgatlhego ya go tlhama kgotsa go tsenya khoutu gore ba bangwe ba e dirise. Ke dumela gore bokgoni jwa me bo bonnye fa bo bapisiwa le inthanete, ka jalo ke na le kgatlhego e kgolo ya go dira le didirisiwa tse dingwe, ditirelo, dipuo tsa go dira diporokeramo.",
+  "education": [
+    {
+      "degree": "Setifikeiti sa Boenjenere jwa Serweboleta",
+      "school": "Kampa ya Bootboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Yunibesithi ya Puso ya California ya Fullerton",
+      "location": "Fullerton, kwa California, kwa U.S.A.",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Dipoloma ya Sekolo se Segolo",
+      "school": "Sekolo se Segolo sa Woodbridge",
+      "location": "Irvine, kwa California, kwa U.S.A.",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Moenjenere wa Serweboleta",
+      "company": "MS-LEFELO LLC.",
+      "location": "Irvine, kwa California, kwa U.S.A.",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Go tlhamilwe le go tsenngwa tirisong ditiriso tsa webo tse di kgonang go lekanyediwa go dirisiwa React le Node.js",
+        "Tirisanommogo le batsamaisi ba dikumo go tokafatsa ditlhokego le go netefatsa gore di gorosiwa ka nako",
+        "Go tlhamilwe le go tlhokomelwa di-API tsa RESTful tsa ditiriso tsa webo",
+        "Go tlhamilwe dikwalwa tsa go dira ditiro ka go itirisa le go tokafatsa bokgoni jwa tsone"
+      ]
+    },
+    {
+      "title": "Mothusa-Mokatisi wa Thenese",
+      "company": "Toropo ya Irvine",
+      "location": "Irvine, kwa California, kwa U.S.A.",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Go ruta dithekeniki tsa thenese mo setlhopheng sa batshameki ba le 5-10",
+        "Go dira gore thuto e nne monate le go itumedisa batshameki",
+        "O na le maikarabelo a pabalesego ya batshameki mo lebaleng, bogolo jang batshameki ba ba botlana le ba bagolo, jaaka ba dingwaga di le 3 le ba dingwaga di le 60"
+      ]
+    },
+    {
+      "title": "Modirisani yo o tswang",
+      "company": "Amazon Foreše",
+      "location": "Irvine, kwa California, kwa U.S.A.",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Go busetsa dilwana mo shelofong",
+        "Go tlhopha diotara tsa dikhasetomara tsa mo inthaneteng",
+        "Go paka diotara tsa thomelo",
+        "Go pega diotara mo dilloring tsa thomelo",
+        "Go thusa dikhasetomara go bona dilwana mo lebentleleng",
+        "Go boloka bobolokelo bo le phepa e bile bo rulagantswe sentle",
+        "Go boloka tikologo e e babalesegileng le e e botsalano ya bareki le badiri"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaSekeripiti",
+      "Mofuta wa Sekwalwa",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Tsiboga",
+      "Noutu.js",
+      "Tlhagisa",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Polatefomo ya Google kwa Marung"
+    ],
+    "databases": [
+      "SQL ya morago",
+      "SQL ya me",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Seesimane",
+      "proficiency": "Semelafa"
+    },
+    {
+      "name": "Sejapane",
+      "proficiency": "Semelafa"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Photefolio",
+      "description": "Webosaete e e tsibogang e e bontshang diporojeke le bokgoni ka go dirisa dithekenoloji tsa segompieno tsa webo",
+      "technologies": [
+        "Tsiboga",
+        "CSS3",
+        "Moakanyetso o o Tsibogang"
+      ]
+    }
+  ]
+}

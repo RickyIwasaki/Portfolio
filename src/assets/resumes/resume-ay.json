@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki sat jilataw ukham luräna",
+  "title": "Ingeniero de Software ukan irnaqiri",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Mä Yatxatat Software Desarrollador, machaq oportunidad thaqhasa jach’a proyectos ukanakataki. Mayninakan apnaqañapatakix código lurañ jan ukax yapxatañ munapxi. Nayax amuyta yatiñanakajax jisk’akiwa internet ukar uñtasita, ukatwa yaqha herramientas, servicios, programación arunakamp irnaqañx walpun munta.",
+  "education": [
+    {
+      "degree": "Certificado de Ingeniería de Software ukampi",
+      "school": "Ukax mä juk’a pachanakanwa",
+      "dates": "2022 - 2023 marakama"
+    },
+    {
+      "school": "California markan jach’a yatiqañ utapax Fullerton markankiwa",
+      "location": "Fullerton, California, Estados Unidos markanwa jakasïna",
+      "dates": "2021 - 2022 marakama"
+    },
+    {
+      "degree": "Diploma de Escuela Secundaria ukat juk’ampinaka",
+      "school": "Woodbridge jach’a yatiqañ utan yatiqawayta",
+      "location": "Irvine, California, Estados Unidos markanwa jakasïna",
+      "dates": "2016 - 2021 marakama"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ingeniero de Software ukan irnaqiri",
+      "company": "MS-ZONE LLC ukax mä juk’a pachanakanwa.",
+      "location": "Irvine, California, Estados Unidos markanwa jakasïna",
+      "dates": "2023 - 2024 marakama",
+      "responsibilities": [
+        "React ukat Node.js uka apnaqasa aplicaciones web escalables ukanakax arquitectura ukat phuqhachatawa",
+        "Mayt’awinaka suma uñjañataki ukhamaraki pachaparu puriyañataki yänaka apnaqirinakampi chikt’ata",
+        "RESTful APIs ukanakax web ukan apnaqañatakiw lurasi ukatx uñjatarakiwa",
+        "Scripts ukanakax lurawinakat automáticamente ukat juk’amp suma lurañanak lurañatakiw lurasiwayi"
+      ]
+    },
+    {
+      "title": "Tenis ukan yanapiripawa",
+      "company": "Irvine markanwa jikxatasïna",
+      "location": "Irvine, California, Estados Unidos markanwa jakasïna",
+      "dates": "2014 - 2019 marakama",
+      "responsibilities": [
+        "Técnicas de tenis ukanaka yatichaña mä qutuchawi 5-10 anatirinakampi",
+        "Yatichäwix anatirinakatakix kusiskañawa ukat kusist’añatakiwa",
+        "Cancha ukan anatirinakan jan kuna jan walt’äwinakap uñjañapataki, juk’ampis sullka ukhamarak jilïr anatirinaka, 3 marani ukhamarak 60 maraninaka ukhama"
+      ]
+    },
+    {
+      "title": "Asociado Salida ukax mä juk’a pachanakanwa",
+      "company": "Amazon Fresh ukax mä jach’a uñacht’äwiwa",
+      "location": "Irvine, California, Estados Unidos markanwa jakasïna",
+      "dates": "2024 - 2024 marakama",
+      "responsibilities": [
+        "Estante ukan yänakap wasitat uchaña",
+        "Internet tuqin aljirinakatakix pedidonak apthapiña",
+        "Ukax mä orden de envío ukatakiw",
+        "Pedidonak apañ camionanakar apkataña",
+        "Aljirinakax tienda ukan yänak jikxatañ yanapt’aña",
+        "Almacén q’uma ukat suma wakicht’at uñjaña",
+        "Mä jan kuna usuni ukhamaraki suma uñt’ata pachana aljirinakataki ukhamaraki irnaqirinakataki"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript ukax mä juk’a pachanakanwa",
+      "TypeScript ukax mä juk’a pachanakanwa",
+      "Python ukax mä juk’a pachanakanwa",
+      "Java markanxa",
+      "C++ ukat juk’ampinaka",
+      "SQL ukax mä juk’a pachanakanwa"
+    ],
+    "frameworks": [
+      "Ukham lurasajj ukham lurañamawa",
+      "Nodo.js ukax mä juk’a pachanakanwa",
+      "Arsuña",
+      "Django ukax mä juk’a pachanakanwa",
+      "JQuery ukax mä juk’a pachanakanwa"
+    ],
+    "tools": [
+      "Git ukax mä juk’a pachanakanwa",
+      "Docker ukax mä juk’a pachanakanwa",
+      "AWS ukax mä juk’a pachanakanwa",
+      "Jenkins sat jilataw ukham luräna",
+      "Google Cloud Plataforma ukax mä jach’a uñacht’äwiwa"
+    ],
+    "databases": [
+      "PostgreSQL ukax mä juk’a pachanakanwa",
+      "MySQL ukax mä juk’a pachanakanwa",
+      "Cassandra kullakajj ukhamänwa"
+    ]
+  },
+  "languages": [
+    {
+      "name": "inklisa",
+      "proficiency": "Natiwu"
+    },
+    {
+      "name": "Japonés aru",
+      "proficiency": "Natiwu"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cartera ukax mä jach’a uñacht’äwiwa",
+      "description": "Mä sitio web respuesta ukax proyectos ukat yatiñanak uñacht’ayi, jichha pacha tecnologías web ukanakamp apnaqasa",
+      "technologies": [
+        "Ukham lurasajj ukham lurañamawa",
+        "CSS3",
+        "Diseño Responsivo ukax mä juk’a pachanakanwa"
+      ]
+    }
+  ]
+}

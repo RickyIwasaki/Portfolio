@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Inxhinier Softuerësh",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Një Zhvillues Softuerësh me përvojë, duke kërkuar mundësi të reja për të punuar për projekte të mëdha. I interesuar në krijimin ose shtimin e kodit që të tjerët ta përdorin. Besoj se aftësitë e mia janë të vogla në krahasim me internetin, ndaj jam shumë i interesuar të punoj me mjete të tjera, shërbime, gjuhë programimi.",
+  "education": [
+    {
+      "degree": "Certifikata e Inxhinierisë Softuerike",
+      "school": "Kampi i nisjes së trampolinës",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Universiteti Shtetëror i Kalifornisë në Fullerton",
+      "location": "Fullerton, Kaliforni, Shtetet e Bashkuara",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diplomë e shkollës së mesme",
+      "school": "Shkolla e mesme Woodbridge",
+      "location": "Irvine, Kalifornia, Shtetet e Bashkuara",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Inxhinier Softuerësh",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kaliforni, Shtetet e Bashkuara",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arkitektuar dhe implementuar aplikacione ueb të shkallëzuar duke përdorur React dhe Node.js",
+        "Bashkëpunoi me menaxherët e produkteve për të përmirësuar kërkesat dhe për të siguruar shpërndarjen në kohë",
+        "Zhvilluar dhe mirëmbajtur API-të RESTful për aplikacionet në internet",
+        "Skriptet e zhvilluara për të automatizuar detyrat dhe për të përmirësuar efikasitetin"
+      ]
+    },
+    {
+      "title": "Ndihmës trajneri i tenisit",
+      "company": "Qyteti i Irvine",
+      "location": "Irvine, Kalifornia, Shtetet e Bashkuara",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Mësimi i teknikave të tenisit në një grup prej 5-10 lojtarësh",
+        "Duke e bërë mësimin argëtues dhe argëtues për lojtarët",
+        "Përgjegjës për sigurinë e lojtarëve në fushë, veçanërisht lojtarët më të rinj dhe më të vjetër, si 3 vjeç dhe 60 vjeç"
+      ]
+    },
+    {
+      "title": "Bashkëpunëtor i jashtëm",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornia, Shtetet e Bashkuara",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Rimbushja e artikujve në raft",
+        "Zgjedhja e porosive për klientët online",
+        "Paketimi i porosive për transport",
+        "Ngarkimi i porosive në kamionët e dorëzimit",
+        "Ndihmoni klientët të gjejnë artikuj në dyqan",
+        "Mbajtja e magazinës të pastër dhe të organizuar",
+        "Mbajtja e një mjedisi të sigurt dhe miqësor për klientët dhe punonjësit"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagoni",
+      "Nyja.js",
+      "shprehin",
+      "Xhango",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Doker",
+      "AWS",
+      "Jenkins",
+      "Platforma e resë kompjuterike të Google"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "anglisht",
+      "proficiency": "Vendas"
+    },
+    {
+      "name": "japoneze",
+      "proficiency": "Vendas"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portofoli",
+      "description": "Një faqe interneti e përgjegjshme që shfaq projekte dhe aftësi duke përdorur teknologji moderne të internetit",
+      "technologies": [
+        "Reagoni",
+        "CSS3",
+        "Dizajn i përgjegjshëm"
+      ]
+    }
+  ]
+}

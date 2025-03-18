@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Moenjiniere oa Software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Moetsi oa Software ea nang le boiphihlelo, ea batlang monyetla o mocha oa ho sebeletsa merero e meholo. O khahlehela ho theha kapa ho eketsa khoutu hore ba bang ba e sebelise. Ke lumela hore tsebo ea ka e nyenyane ha e bapisoa le marang-rang, kahoo ke thahasella haholo ho sebetsa le lisebelisoa tse ling, litšebeletso, lipuo tsa mananeo.",
+  "education": [
+    {
+      "degree": "Setifikeiti sa Boenjiniere ba Software",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Univesithi ea California State ea Fullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma ea Sekolo se Phahameng",
+      "school": "Sekolo se Phahameng sa Woodbridge",
+      "location": "Irvine, California, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Moenjiniere oa Software",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "E etselitsoe le ho kenya ts'ebetsong lits'ebetso tsa marang-rang tse ka senyehang ka ho sebelisa React le Node.js",
+        "E sebelisana 'moho le batsamaisi ba lihlahisoa ho ntlafatsa litlhoko le ho netefatsa hore ho tsamaisoa ka nako",
+        "E ntlafalitse le ho hlokomeloa RESTful APIs bakeng sa lits'ebetso tsa tepo",
+        "Lingoliloeng tse ntlafalitsoeng ho iketsetsa mesebetsi le ho ntlafatsa ts'ebetso"
+      ]
+    },
+    {
+      "title": "Motlatsi oa Mokoetlisi oa Tennis",
+      "company": "Motse oa Irvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Ho ruta mekhoa ea tennis ka sehlopha sa libapali tse 5-10",
+        "Ho etsa hore thuto e be monate le monate bakeng sa libapali",
+        "E ikarabella bakeng sa polokeho ea libapali tsa lebaleng, haholo libapali tse nyane le tse kholo, joalo ka bana ba lilemo tse 3 le ba lilemo li 60."
+      ]
+    },
+    {
+      "title": "Motsoalle ea Tsoelang Pele",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Ho khutlisetsa lintho ka shelofong",
+        "Ho khetha liodara bakeng sa bareki ba inthaneteng",
+        "Litaelo tsa ho paka bakeng sa ho romelloa",
+        "Ho kenya liodara ka har'a literaka tse tsamaisang thepa",
+        "Ho thusa bareki ho fumana lintho ka lebenkeleng",
+        "Ho boloka ntlo ea polokelo e hloekile ebile e hlophisehile",
+        "Ho boloka tikoloho e bolokehileng le e mosa bakeng sa bareki le basebetsi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Senyesemane",
+      "proficiency": "Naha"
+    },
+    {
+      "name": "Sejapane",
+      "proficiency": "Naha"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Webosaete e arabelang e bonts'a merero le litsebo tse sebelisang theknoloji ea sejoale-joale ea webo",
+      "technologies": [
+        "React",
+        "CSS3",
+        "Moqapi o Arabang"
+      ]
+    }
+  ]
+}

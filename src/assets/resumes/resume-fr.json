@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Ingénieur logiciel",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Développeur logiciel expérimenté, à la recherche d'une nouvelle opportunité de travailler sur des projets d'envergure. Intéressé par la création ou l'ajout de code utilisable par d'autres. Mes compétences étant limitées par rapport à Internet, je suis très intéressé par l'utilisation d'autres outils, services et langages de programmation.",
+  "education": [
+    {
+      "degree": "Certificat d'ingénierie logicielle",
+      "school": "Bootcamp Springboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Université d'État de Californie à Fullerton",
+      "location": "Fullerton, Californie, États-Unis",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diplôme d'études secondaires",
+      "school": "Lycée de Woodbridge",
+      "location": "Irvine, Californie, États-Unis",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ingénieur logiciel",
+      "company": "MS-ZONE SARL.",
+      "location": "Irvine, Californie, États-Unis",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Conception et mise en œuvre d'applications Web évolutives à l'aide de React et Node.js",
+        "Collaboré avec les chefs de produit pour affiner les exigences et assurer une livraison dans les délais",
+        "Développé et maintenu des API RESTful pour les applications Web",
+        "Scripts développés pour automatiser les tâches et améliorer l'efficacité"
+      ]
+    },
+    {
+      "title": "Entraîneur adjoint de tennis",
+      "company": "Ville d'Irvine",
+      "location": "Irvine, Californie, États-Unis",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Enseignement des techniques de tennis en groupe de 5 à 10 joueurs",
+        "Rendre la leçon amusante et divertissante pour les joueurs",
+        "Responsable de la sécurité des joueurs sur le terrain, en particulier des joueurs plus jeunes et plus âgés, comme les enfants de 3 ans et les sexagénaires"
+      ]
+    },
+    {
+      "title": "Associé sortant",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Californie, États-Unis",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Réapprovisionnement des articles en rayon",
+        "Préparation des commandes pour les clients en ligne",
+        "Emballage des commandes pour l'expédition",
+        "Chargement des commandes sur les camions de livraison",
+        "Aider les clients à trouver des articles dans le magasin",
+        "Garder l'entrepôt propre et organisé",
+        "Maintenir un environnement sûr et convivial pour les clients et les employés"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Manuscrit",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Réagir",
+      "Node.js",
+      "Exprimer",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Plateforme Google Cloud"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandre"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Anglais",
+      "proficiency": "Indigène"
+    },
+    {
+      "name": "japonais",
+      "proficiency": "Indigène"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portefeuille",
+      "description": "Un site Web réactif présentant des projets et des compétences utilisant des technologies Web modernes",
+      "technologies": [
+        "Réagir",
+        "CSS3",
+        "Conception réactive"
+      ]
+    }
+  ]
+}

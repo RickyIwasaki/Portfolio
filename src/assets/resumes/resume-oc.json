@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Engenhaire de logicials",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Un desvolopaire de logicials experimentat, en cèrca de novèlas oportunitats de trabalhar per de grands projèctes. Interessat a crear o apondre de còde per que d'autres l'utilizen. Cresi que mas competéncias son pichonas comparadas a internet, doncas soi fòrça interessat a trabalhar amb d'autras aisinas, servicis, lengatges de programacion.",
+  "education": [
+    {
+      "degree": "Certificat d'engenharia logicial",
+      "school": "Trampolí Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Universitat Estatala de Califòrnia de Fullerton",
+      "location": "Fullerton, Califòrnia, EUA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diplòma de licèu",
+      "school": "Licèu Woodbridge",
+      "location": "Irvine, Califòrnia, EUA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Engenhaire de logicials",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Califòrnia, EUA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arquitectèt e implementat d'aplicacions web escalables en utilizant React e Node.js",
+        "Collaborat amb los gestionaris de produch per afinar las exigéncias e assegurar la liurason oportuna",
+        "Desvolopèt e mantengut d'APIs RESTful per d'aplicacions web",
+        "Desvolopats d'escripts per automatizar las tòcas e melhorar l'eficiéncia"
+      ]
+    },
+    {
+      "title": "Entrenador assistent de tennis",
+      "company": "Vila d'Irvine",
+      "location": "Irvine, Califòrnia, EUA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Ensenhament de tecnicas de tennis dins un encastre de grop de 5-10 jogaires",
+        "Rendre la leiçon divertida e divertida pels jogaires",
+        "Responsable de la seguretat dels jogaires sul terren, mai que mai los jogaires mai joves e mai vièlhs, coma los de 3 ans e los de 60 ans"
+      ]
+    },
+    {
+      "title": "Associat de sortida",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Califòrnia, EUA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocar los articles sus l'estanquièr",
+        "Reculhir de comandas pels clients en linha",
+        "Embalatge de comandas per l'expedicion",
+        "Cargament de comandas suls camions de remesa",
+        "Ajudar los clients a trobar d'articles dins la botiga",
+        "Manténer l'entrepòt net e organizat",
+        "Manténer un environament segur e amical pels clients e emplegats"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagir",
+      "Node.js",
+      "Exprimir",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Plataforma Google Cloud"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "anglés",
+      "proficiency": "Nadiu"
+    },
+    {
+      "name": "Japonés",
+      "proficiency": "Nadiu"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Un sit web responsiu que mòstra de projèctes e de competéncias en utilizant de tecnologias web modèrnas",
+      "technologies": [
+        "Reagir",
+        "CSS3",
+        "Dessenh responsiu"
+      ]
+    }
+  ]
+}

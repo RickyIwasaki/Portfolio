@@ -1,0 +1,121 @@
+{
+  "name": "Liki ʻIuasaki",
+  "title": "Polokalama fakakomipiuta",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Ko ha Tokotaha Fakatupulaki Polokalama Fakakomipiuta Taukei, kumi ha faingamalie fo'ou ke ngaue ki he ngaahi poloseki lalahi. Mahu'inga'ia 'i hono fa'u pe tanaki atu ha code ke ngaue'aki 'e he ni'ihi kehe. 'Oku ou tui 'oku si'isi'i 'eku taukei 'i hono fakafehoanaki ki he 'initaneti, ko ia 'oku ou fu'u manako ke ngaue mo e ngaahi me'angaue kehe, ngaahi ngaue, ngaahi lea fakapolokalama.",
+  "education": [
+    {
+      "degree": "Tohi Fakamo'oni Ako 'Enisinia Polokalama",
+      "school": "Bootcamp 'o e Palakipoe",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "ʻUnivēsiti ʻo e Siteiti ʻo Kalefōniá ʻi Fuletoní",
+      "location": "Fuletoni, Kalefōnia, ʻAmelika.",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Tipiloma mei he Ako Māʻolungá",
+      "school": "ʻApiako Māʻolunga ʻo Uotipiliki",
+      "location": "ʻIlaini, Kalefōnia, ʻAmelika.",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Polokalama fakakomipiuta",
+      "company": "MS-SONE LLC.",
+      "location": "ʻIlaini, Kalefōnia, ʻAmelika.",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Na'e fa'u mo fakahoko 'a e ngaahi polokalama uepi scalable 'o faka'aonga'i 'a e React mo e Node.js .",
+        "Fengaue'aki mo e kau pule 'o e koloa ke fakalelei'i 'a e ngaahi fie ma'u mo fakapapau'i 'oku tu'uaki taimi totonu .",
+        "Fakatupulaki mo tauhi 'a e RESTful APIs ki he ngaahi polokalama 'i he uepi .",
+        "Fakatupulaki 'a e ngaahi tohi ke faka'otometiki 'a e ngaahi ngaue mo fakalelei'i 'a e ola lelei ."
+      ]
+    },
+    {
+      "title": "Tokoni Faiako Tenisi",
+      "company": "Kolo ʻo ʻIlavini",
+      "location": "ʻIlaini, Kalefōnia, ʻAmelika.",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Ko hono ako'i 'o e ngaahi founga tenisi 'i ha kulupu 'o e kau va'inga 'e toko 5-10 .",
+        "Ko hono ngaohi 'o e lesoni ke fakafiefia mo fakafiefia ki he kau va'inga .",
+        "Fatongia ki he malu 'o e kau va'inga 'i he mala'e, tautautefito ki he kau va'inga kei talavou mo lalahi, hange ko e kau ta'u 3 mo e kau ta'u 60"
+      ]
+    },
+    {
+      "title": "Kautaha ki tu'a",
+      "company": "Amazon Fo'ou",
+      "location": "ʻIlaini, Kalefōnia, ʻAmelika.",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Toe fakatoka 'o e ngaahi me'a 'i he fata",
+        "Ko hono to'o 'o e ngaahi 'ota ki he kau kasitoma 'i he 'initaneti",
+        "Ngaahi 'ota fakafonu ki he uta",
+        "Ko hono uta 'o e ngaahi 'ota ki he ngaahi loli tu'uaki koloa",
+        "Tokoni ki he kau kasitomaá ke nau kumi ha ngaahi meʻa ʻi he falekoloá",
+        "Ko hono tauhi ʻo e fale tukuʻanga koloá ke maʻa mo fokotuʻutuʻu lelei .",
+        "Tauhi ha 'atakai malu mo anga fakakaume'a ki he kau kasitomaa mo e kau ngaue ."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "SavaSikilipiti",
+      "Faʻahinga Tohi",
+      "Paitoni",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Tali",
+      "Nouti.js",
+      "Fakahā",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Senikini",
+      "Tu'unga 'o e 'Ao 'o e Google"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Ko ʻekuSQL",
+      "Kasanitā"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Lea Faka-Pilitānia",
+      "proficiency": "Fakafonua"
+    },
+    {
+      "name": "Siapani",
+      "proficiency": "Fakafonua"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Poatefolio",
+      "description": "Ko ha uepisaiti tali 'oku ne fakahaa'i 'a e ngaahi poloseki mo e ngaahi taukei 'o faka'aonga'i 'a e ngaahi tekinolosia 'o e uepi fakaonopooni .",
+      "technologies": [
+        "Tali",
+        "CSS3.",
+        "Fa'u tali"
+      ]
+    }
+  ]
+}

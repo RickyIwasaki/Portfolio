@@ -1,0 +1,121 @@
+{
+  "name": "瑞奇·岩崎",
+  "title": "软件工程师",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "经验丰富的软件开发人员，正在寻找从事大型项目的新机会。有兴趣创建或添加代码供他人使用。我认为我的技能与互联网相比很小，所以我对使用其他工具、服务和编程语言非常感兴趣。",
+  "education": [
+    {
+      "degree": "软件工程证书",
+      "school": "Springboard 训练营",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "加州州立大学富勒顿分校",
+      "location": "美国加利福尼亚州富勒顿",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "高中文凭",
+      "school": "伍德布里奇高中",
+      "location": "美国加利福尼亚州尔湾",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "软件工程师",
+      "company": "MS-ZONE 有限责任公司",
+      "location": "美国加利福尼亚州尔湾",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "使用 React 和 Node.js 构建并实现可扩展的 Web 应用程序",
+        "与产品经理协作，细化需求并确保及时交付",
+        "开发并维护 Web 应用程序的 RESTful API",
+        "开发脚本来自动化任务并提高效率"
+      ]
+    },
+    {
+      "title": "助理网球教练",
+      "company": "尔湾市",
+      "location": "美国加利福尼亚州尔湾",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "在 5-10 名球员的小组环境中教授网球技巧",
+        "让课程变得有趣并让玩家受益",
+        "负责球场上球员的安全，特别是年轻和年长的球员，比如3岁和60岁的球员"
+      ]
+    },
+    {
+      "title": "出站助理",
+      "company": "亚马逊生鲜",
+      "location": "美国加利福尼亚州尔湾",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "重新进货",
+        "为线上客户挑选订单",
+        "包装订单以备运输",
+        "将订单装载到送货卡车上",
+        "帮助顾客在商店中找到商品",
+        "保持仓库整洁有序",
+        "为客户和员工保持安全友好的环境"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "反应",
+      "Node.js",
+      "表达",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "詹金斯",
+      "谷歌云平台"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "卡桑德拉"
+    ]
+  },
+  "languages": [
+    {
+      "name": "英语",
+      "proficiency": "本国的"
+    },
+    {
+      "name": "日本人",
+      "proficiency": "本国的"
+    }
+  ],
+  "projects": [
+    {
+      "name": "文件夹",
+      "description": "一个响应式网站，使用现代网络技术展示项目和技能",
+      "technologies": [
+        "反应",
+        "CSS3",
+        "响应式设计"
+      ]
+    }
+  ]
+}

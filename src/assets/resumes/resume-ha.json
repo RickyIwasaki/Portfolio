@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Injiniyan Software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "ƙwararren Mai Haɓaka Software, yana neman sabon damar yin aiki don manyan ayyuka. Ina sha'awar ƙirƙira ko ƙara lamba don wasu su yi amfani da su. Na yi imani basirata kadan ne idan aka kwatanta da intanet, don haka ina sha'awar aiki tare da wasu kayan aiki, ayyuka, harsunan shirye-shirye.",
+  "education": [
+    {
+      "degree": "Takaddar Injiniya Software",
+      "school": "Bootcamp na bazara",
+      "dates": "2022-2023"
+    },
+    {
+      "school": "Jami'ar Jihar California ta Fullerton",
+      "location": "Fullerton, California, Amurika",
+      "dates": "2021-2022"
+    },
+    {
+      "degree": "Diploma na Sakandare",
+      "school": "Woodbridge High School",
+      "location": "Irvine, California, Amurika",
+      "dates": "2016-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Injiniyan Software",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, Amurika",
+      "dates": "2023-2024",
+      "responsibilities": [
+        "Ƙirƙira da aiwatar da aikace-aikacen gidan yanar gizo masu ƙima ta amfani da React da Node.js",
+        "Haɗin kai tare da manajojin samfur don daidaita buƙatun da tabbatar da isar da lokaci",
+        "API ɗin RESTful da aka haɓaka kuma ana kiyaye su don aikace-aikacen yanar gizo",
+        "Ƙirƙirar rubutun don sarrafa ayyuka da haɓaka aiki"
+      ]
+    },
+    {
+      "title": "Mataimakin Kocin Tennis",
+      "company": "Birnin Irvine",
+      "location": "Irvine, California, Amurika",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Koyar da dabarun wasan tennis a cikin rukuni na 'yan wasa 5-10",
+        "Sanya darasi mai daɗi da nishadantarwa ga ƴan wasa",
+        "Mai alhakin kare lafiyar ’yan wasa a kotu, musamman kanana da manya, kamar masu shekara 3 da 60."
+      ]
+    },
+    {
+      "title": "Abokin Waje",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, Amurika",
+      "dates": "2024-2024",
+      "responsibilities": [
+        "Mayar da abubuwa akan shiryayye",
+        "Zabar oda don abokan cinikin kan layi",
+        "odar shirya kaya don jigilar kaya",
+        "Ana loda oda akan manyan motocin dakon kaya",
+        "Taimakawa abokan ciniki samun abubuwa a cikin shagon",
+        "Tsaftace sito da tsari",
+        "Tsayar da yanayi mai aminci da abokantaka ga abokan ciniki da ma'aikata"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Maida martani",
+      "Node.js",
+      "Bayyana",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Turanci",
+      "proficiency": "Dan ƙasa"
+    },
+    {
+      "name": "Jafananci",
+      "proficiency": "Dan ƙasa"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fayil",
+      "description": "Gidan yanar gizo mai amsawa wanda ke nuna ayyuka da ƙwarewa ta amfani da fasahar yanar gizo na zamani",
+      "technologies": [
+        "Maida martani",
+        "CSS3",
+        "Zane Mai Amsa"
+      ]
+    }
+  ]
+}

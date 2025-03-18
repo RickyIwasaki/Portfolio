@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Inisinia Polokalama",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "O se Atina'e Polokalama Fa'apitoa, saili avanoa fou e galue ai mo galuega tetele. E fiafia e fai pe fa'aopoopo le code mo isi e fa'aoga. Ou te talitonu o oʻu tomai e laʻititi pe a faʻatusatusa i le initaneti, o lea ou te matua fiafia ai e galue ma isi meafaigaluega, tautua, gagana faʻatulagaina.",
+  "education": [
+    {
+      "degree": "Polokalama Inisinia Tusipasi",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Kalefonia Setete Iunivesite o Fullerton",
+      "location": "Fullerton, Kalefonia, ISA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Tipiloma a'oga Maualuga",
+      "school": "Aoga Maualuga a Woodbridge",
+      "location": "Irvine, Kalefonia, ISA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Inisinia Polokalama",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalefonia, ISA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Fa'ata'ita'i ma fa'atino ni talosaga i luga ole laiga e fa'aogaina le React ma le Node.js",
+        "Galulue faʻatasi ma pule o oloa e faʻaleleia manaʻoga ma faʻamautinoa le taimi e tuʻuina atu ai",
+        "Atia'e ma fa'atumauina RESTful APIs mo 'upega tafa'ilagi",
+        "Atia'e tusitusiga e fa'autometi galuega ma fa'aleleia lelei"
+      ]
+    },
+    {
+      "title": "Faiaoga Tenisi Lagolago",
+      "company": "Aai o Irvine",
+      "location": "Irvine, Kalefonia, ISA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Aoaoina o metotia tenisi i se seti vaega e 5-10 tagata taaalo",
+        "Fa'afiafiaina le lesona ma fa'afiafiaga mo le au ta'aalo",
+        "E nafa ma le saogalemu o tama taaalo i luga o le malae, aemaise lava tama taaalo laiti ma matutua, pei o le 3 tausaga ma le 60 tausaga le matutua."
+      ]
+    },
+    {
+      "title": "Fesoasoani i fafo",
+      "company": "Amazon Fou",
+      "location": "Irvine, Kalefonia, ISA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Toe teu oloa i luga o le fata",
+        "Filifilia o poloaiga mo tagata fa'atau i luga ole laiga",
+        "Fa'aputuina oka mo felauaiga",
+        "O le utaina o poloaiga i luga o loli e momoli ai",
+        "Fesoasoani i tagata fa'atau e su'e mea i totonu o le faleoloa",
+        "Tausia o le faleteuoloa ia mama ma faatulaga lelei",
+        "Tausia o se siosiomaga saogalemu ma faauo mo tagata faʻatau ma tagata faigaluega"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Javascript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Tali atu",
+      "Node.js",
+      "Fa'ailoa",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Igilisi",
+      "proficiency": "Tagatanuu"
+    },
+    {
+      "name": "Iapani",
+      "proficiency": "Tagatanuu"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Ose upegatafa'ilagi talitali e fa'aalia ai galuega ma tomai e fa'aogaina ai tekonolosi fa'aonaponei",
+      "technologies": [
+        "Tali atu",
+        "CSS3",
+        "Fuafuaga Talitonu"
+      ]
+    }
+  ]
+}

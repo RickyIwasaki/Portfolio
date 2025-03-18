@@ -1,0 +1,121 @@
+{
+  "name": "Ricky",
+  "title": "Taata papa'i hoho'a",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Te imi nei te hoê taata hamani hoho'a aravihi i te mau rave'a apî no te rave i te ohipa no te mau opuaraa rahi. Te anaanatae nei au i te hamani e aore râ, i te faaô atu i te mau waehere no vetahi ê ia faaohipa. Te ti'aturi nei au e, e mea iti roa to'u aravihi ia faaauhia i te itenati, no reira, te anaanatae nei au i te rave i te ohipa e te tahi atu mau rave'a, mau taviniraa, e te mau reo faanahoraa.",
+  "education": [
+    {
+      "degree": "Tiwhikete no te rave'a hamaniraa tauihaa",
+      "school": "Bootcamp",
+      "dates": "2022 – 2023"
+    },
+    {
+      "school": "Te fare haapiiraa tuatoru no te hau no Kalifonia",
+      "location": "Fullerton, Kalifonia, Hau Amui no Marite",
+      "dates": "2021 – 2022"
+    },
+    {
+      "degree": "Diploma no te fare haapiiraa tuarua",
+      "school": "Woodbridge Haapiiraa Teitei",
+      "location": "Irvine, Kalifonia, Hau Amui no Marite",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Taata papa'i hoho'a",
+      "company": "MS-TUHAA LLC.",
+      "location": "Irvine, Kalifonia, Hau Amui no Marite",
+      "dates": "2023 – 2024",
+      "responsibilities": [
+        "Ua papa'ihia e ua faaohipahia te mau rave'a Itenati ma te faaohipa i te React e te Node.js",
+        "No te haamaitai i te mau titauraa e no te haapapu i te hooraa i te taime au, ua rave amuihia te ohipa e te feia faatere o te mau tao'a",
+        "Ua hamanihia e ua tape'ahia te mau RESTful API no te mau faaohiparaa i te itenati",
+        "Ua hamanihia mai te mau papa'iraa no te faatere i te mau ohipa e no te haamaitai i te aravihi"
+      ]
+    },
+    {
+      "title": "Tauturu faaineine tennis",
+      "company": "Te oire no Irvine",
+      "location": "Irvine, Kalifonia, Hau Amui no Marite",
+      "dates": "2014 – 2019",
+      "responsibilities": [
+        "Te haapiiraa i te mau rave'a tennis i roto i te hoê pŭpŭ e 5-10 feia hauti",
+        "Te faariroraa i te haapiiraa ei mea arearea e te arearea no te feia hauti",
+        "Te hopoi'a no te parururaa i te feia hauti i ni'a i te tiribuna, te feia hauti apî ihoa râ e te feia paari, mai te mau tamarii e 3 matahiti e te 60 matahiti"
+      ]
+    },
+    {
+      "title": "Hoa i rapae",
+      "company": "Amazon apî",
+      "location": "Irvine, Kalifonia, Hau Amui no Marite",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Te faaho'i-faahou-raa mai i te mau tao'a i ni'a i te vairaa",
+        "Te ma'itiraa i te mau faaueraa no te feia hoo tao'a i ni'a i te itenati",
+        "Te mau faaueraa no te tonoraa",
+        "Te hopoiraa i te mau faaueraa i nia i te mau pereoo tarahu",
+        "Te tautururaa i te feia hoo ia imi i te mau tao'a i roto i te fare toa",
+        "Te tapearaa i te fare vairaa tauihaa ia mâ e ia faanaho-maitai-hia",
+        "Te tape'araa i te hoê vahi paruruhia e te auhoa no te feia hoo tao'a e te feia rave ohipa"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Te papa'iraa Java",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Pahono",
+      "Node.js",
+      "Āre'a",
+      "Django",
+      "JUiraa"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Tahua Google"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "To'uSQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Anglais",
+      "proficiency": "Ia 'oa'oa i tō 'oe mahana fānaura'a 'āpī"
+    },
+    {
+      "name": "Tiapani",
+      "proficiency": "Ia 'oa'oa i tō 'oe mahana fānaura'a 'āpī"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pūpū",
+      "description": "Te hoê tahua itenati e faaite ra i te mau opuaraa e te mau aravihi ma te faaohipa i te mau rave'a aravihi apî",
+      "technologies": [
+        "Pahono",
+        "CSS3",
+        "Hoho'a pahonoraa"
+      ]
+    }
+  ]
+}

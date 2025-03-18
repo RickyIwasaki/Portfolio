@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Inginer software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Un dezvoltator de software cu experiență, care caută noi oportunități de a lucra pentru proiecte mari. Sunteți interesat să creați sau să adăugați cod pentru ca alții să-l folosească. Cred că abilitățile mele sunt mici în comparație cu internetul, așa că sunt foarte interesat să lucrez cu alte instrumente, servicii, limbaje de programare.",
+  "education": [
+    {
+      "degree": "Certificat de inginerie software",
+      "school": "Bootcamp Springboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Universitatea de Stat din California din Fullerton",
+      "location": "Fullerton, California, SUA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma de liceu",
+      "school": "Liceul Woodbridge",
+      "location": "Irvine, California, SUA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Inginer software",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, SUA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Proiectat și implementat aplicații web scalabile folosind React și Node.js",
+        "Colaborarea cu managerii de produs pentru a rafina cerințele și a asigura livrarea la timp",
+        "Dezvoltarea și întreținerea API-urilor RESTful pentru aplicații web",
+        "Scripturi dezvoltate pentru automatizarea sarcinilor și îmbunătățirea eficienței"
+      ]
+    },
+    {
+      "title": "Antrenor asistent de tenis",
+      "company": "Orașul Irvine",
+      "location": "Irvine, California, SUA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Predarea tehnicilor de tenis într-un cadru de grup de 5-10 jucători",
+        "Făcând lecția distractivă și distractivă pentru jucători",
+        "Responsabil pentru siguranța jucătorilor de pe teren, în special a jucătorilor mai tineri și mai în vârstă, cum ar fi cei de 3 ani și cei de 60 de ani"
+      ]
+    },
+    {
+      "title": "Asociat de ieșire",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, SUA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Reaprovizionarea articolelor pe raft",
+        "Preluarea comenzilor pentru clienții online",
+        "Ambalare comenzi pentru expediere",
+        "Încărcarea comenzilor pe camioanele de livrare",
+        "Ajutați clienții să găsească articole în magazin",
+        "Menținerea depozitului curat și organizat",
+        "Păstrarea unui mediu sigur și prietenos pentru clienți și angajați"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Piton",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reacţiona",
+      "Node.js",
+      "Expres",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docher",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "engleză",
+      "proficiency": "Nativ"
+    },
+    {
+      "name": "japonez",
+      "proficiency": "Nativ"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portofoliu",
+      "description": "Un site web receptiv care prezintă proiecte și abilități care utilizează tehnologii web moderne",
+      "technologies": [
+        "Reacţiona",
+        "CSS3",
+        "Design receptiv"
+      ]
+    }
+  ]
+}

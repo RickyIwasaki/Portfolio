@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Innealtóir Bogearraí",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Forbróir Bogearraí le Taithí, ag lorg deiseanna nua oibriú ar thionscadail mhóra. Suim agat i gcód a chruthú nó a chur leis le húsáid ag daoine eile. Creidim go bhfuil mo scileanna beag i gcomparáid leis an idirlíon, mar sin tá an-suim agam a bheith ag obair le huirlisí eile, seirbhísí agus teangacha ríomhchlárúcháin.",
+  "education": [
+    {
+      "degree": "Deimhniú Innealtóireacht Bogearraí",
+      "school": "Bootcamp Springboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Ollscoil Stáit California i Fullerton",
+      "location": "Fullerton, California, Stáit Aontaithe Mheiriceá",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Dioplóma Ardscoil",
+      "school": "Ardscoil Dhroichead na Coille",
+      "location": "Irvine, California, Stáit Aontaithe Mheiriceá",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Innealtóir Bogearraí",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, Stáit Aontaithe Mheiriceá",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Feidhmchláir ghréasáin inscálaithe a ailtireacht agus a chur i bhfeidhm ag baint úsáide as React agus Node.js",
+        "Comhoibrigh le bainisteoirí táirgí chun ceanglais a bheachtú agus chun seachadadh tráthúil a chinntiú",
+        "Forbraíodh agus chothaigh APIanna RESTful le haghaidh feidhmchláir ghréasáin",
+        "Forbraíodh scripteanna chun tascanna a uathoibriú agus éifeachtúlacht a fheabhsú"
+      ]
+    },
+    {
+      "title": "Oiliúnóir Cúnta Leadóige",
+      "company": "Cathair Irbhinn",
+      "location": "Irvine, California, Stáit Aontaithe Mheiriceá",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Teicnící leadóige a mhúineadh i suíomh grúpa de 5-10 imreoir",
+        "An ceacht a dhéanamh spraoiúil agus suimiúil do na himreoirí",
+        "Freagrach as sábháilteacht na n-imreoirí ar an gcúirt, go háirithe na himreoirí níos óige agus níos sine, cosúil le daoine 3 bliana d'aois agus 60 bliain d'aois"
+      ]
+    },
+    {
+      "title": "Comhlach Amach",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, Stáit Aontaithe Mheiriceá",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Míreanna a athstocáil ar an tseilf",
+        "Orduithe piocadh do chustaiméirí ar líne",
+        "Orduithe pacála le haghaidh loingseoireachta",
+        "Orduithe a lódáil ar na trucailí seachadta",
+        "Cabhrú le custaiméirí teacht ar earraí sa siopa",
+        "An stóras a choinneáil glan agus eagraithe",
+        "Timpeallacht shábháilte agus chairdiúil a choinneáil do chustaiméirí agus d’fhostaithe"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "CineálScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Imoibriú",
+      "Nód.js",
+      "Sloinn",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Béarla",
+      "proficiency": "Dúchasach"
+    },
+    {
+      "name": "Seapánach",
+      "proficiency": "Dúchasach"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Punann",
+      "description": "Suíomh Gréasáin sofhreagrach a thaispeánann tionscadail agus scileanna ag baint úsáide as teicneolaíochtaí gréasáin nua-aimseartha",
+      "technologies": [
+        "Imoibriú",
+        "CSS3",
+        "Dearadh Sofhreagrach"
+      ]
+    }
+  ]
+}

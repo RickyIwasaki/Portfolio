@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki, omuwandiisi w’ebitabo",
+  "title": "Yinginiya wa Sofutiweya",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Omukugu mu kukola Software, anoonya omukisa omupya okukolera pulojekiti ennene. Oyagala okukola oba okwongerako code abalala basobole okukozesa. Nzikiriza nti obukugu bwange butono bw’ogeraageranya ne yintaneeti, kale njagala nnyo okukola n’ebikozesebwa ebirala, empeereza, ennimi za pulogulaamu.",
+  "education": [
+    {
+      "degree": "Satifikeeti ya Yinginiya wa Sofutiweya",
+      "school": "Bootcamp ya Springboard",
+      "dates": "2022 - 2023. Empaka zino"
+    },
+    {
+      "school": "Yunivasite y’essaza ly’e California e Fullerton",
+      "location": "Fullerton, mu California, Amerika",
+      "dates": "2021 - 2022. Empaka zino"
+    },
+    {
+      "degree": "Dipuloma ya Siniya",
+      "school": "Essomero lya Woodbridge High School",
+      "location": "Irvine, California, Amerika",
+      "dates": "2016 - 2021 mu nsi yonna"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Yinginiya wa Sofutiweya",
+      "company": "Kkampuni ya MS-ZONE LLC.",
+      "location": "Irvine, California, Amerika",
+      "dates": "2023 - 2024 mu mwaka gwa 2024",
+      "responsibilities": [
+        "Yazimba n’okussa mu nkola enkola za web ezisobola okulinnyisibwa nga ekozesa React ne Node.js",
+        "Yakolagana n’abaddukanya ebintu okulongoosa ebyetaago n’okulaba nga bituusibwa mu budde",
+        "Yakola era n'alabirira RESTful APIs ez'enkola za web",
+        "Yakola scripts okukola emirimu mu ngeri ey’otoma n’okutumbula obulungi"
+      ]
+    },
+    {
+      "title": "Omuyambi w’omutendesi wa Tennis",
+      "company": "Ekibuga Irvine",
+      "location": "Irvine, California, Amerika",
+      "dates": "2014 - 2019 mu nsi yonna",
+      "responsibilities": [
+        "Okusomesa obukodyo bwa ttena mu kibinja ky’abazannyi 5-10",
+        "Okufuula omusomo ogw’essanyu n’okusanyusa abazannyi",
+        "Avunaanyizibwa ku bukuumi bw’abazannyi ku kkooti naddala abazannyi abato n’abakulu, ng’abaana ab’emyaka 3 n’emyaka 60"
+      ]
+    },
+    {
+      "title": "Omukwanaganya ow’ebweru",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, Amerika",
+      "dates": "2024 - 2024 mu mwaka gwa 2024",
+      "responsibilities": [
+        "Okuzzaawo ebintu ku sselefu",
+        "Okulonda orders eri bakasitoma abali ku yintaneeti",
+        "Okupakinga orders okusindika",
+        "Okutikka order ku loole ezitwala ebintu",
+        "Okuyamba bakasitoma okuzuula ebintu mu dduuka",
+        "Okukuuma sitoowa nga nnyonjo era nga ntegeke",
+        "Okukuuma embeera ennungi era ey’omukwano eri bakasitoma n’abakozi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python (Python) nga bwe kiri",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Ddala",
+      "Node.js",
+      "Okutegeeza",
+      "Django",
+      "JQuery nga bwe kiri"
+    ],
+    "tools": [
+      "Git",
+      "Docker wa Docker",
+      "AWS",
+      "Jenkins",
+      "Omukutu gwa Google Cloud"
+    ],
+    "databases": [
+      "PostgreSQL nga bwe kiri",
+      "MySQL",
+      "Cassandra, omusajja omulala"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Olungereeza",
+      "proficiency": "Obuwangwa"
+    },
+    {
+      "name": "Olujapani",
+      "proficiency": "Obuwangwa"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ekiwandiiko ekiyitibwa Portfolio",
+      "description": "Omukutu oguddamu ogulaga pulojekiti n’obukugu nga tukozesa tekinologiya w’omukutu ogw’omulembe",
+      "technologies": [
+        "Ddala",
+        "CSS3",
+        "Design eddaamu"
+      ]
+    }
+  ]
+}

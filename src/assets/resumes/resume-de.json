@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Ein erfahrener Softwareentwickler sucht eine neue Chance, an großen Projekten mitzuarbeiten. Ich bin daran interessiert, Code für andere zu erstellen oder zu ergänzen. Ich glaube, meine Kenntnisse sind im Vergleich zum Internet eher gering, daher bin ich sehr daran interessiert, mit anderen Tools, Diensten und Programmiersprachen zu arbeiten.",
+  "education": [
+    {
+      "degree": "Software Engineering-Zertifikat",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, Kalifornien, Vereinigte Staaten",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Abitur",
+      "school": "Woodbridge High School",
+      "location": "Irvine, Kalifornien, Vereinigte Staaten",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornien, Vereinigte Staaten",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Entwarf und implementierte skalierbare Webanwendungen mit React und Node.js",
+        "Zusammenarbeit mit Produktmanagern zur Verfeinerung der Anforderungen und Sicherstellung einer pünktlichen Lieferung",
+        "Entwickelte und pflegte RESTful-APIs für Webanwendungen",
+        "Entwickelte Skripte zur Automatisierung von Aufgaben und Verbesserung der Effizienz"
+      ]
+    },
+    {
+      "title": "Assistenztrainer im Tennis",
+      "company": "Stadt Irvine",
+      "location": "Irvine, Kalifornien, Vereinigte Staaten",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Unterrichten von Tennistechniken in einer Gruppe von 5–10 Spielern",
+        "Den Unterricht für die Spieler unterhaltsam und unterhaltsam gestalten",
+        "Verantwortlich für die Sicherheit der Spieler auf dem Platz, insbesondere der jüngeren und älteren Spieler, wie 3-Jährige und 60-Jährige"
+      ]
+    },
+    {
+      "title": "Outbound-Mitarbeiter",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornien, Vereinigte Staaten",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Auffüllen der Regale",
+        "Kommissionieren von Bestellungen für Online-Kunden",
+        "Verpacken von Bestellungen für den Versand",
+        "Verladen der Bestellungen auf die Lieferwagen",
+        "Kunden beim Finden von Artikeln im Geschäft unterstützen",
+        "Das Lager sauber und ordentlich halten",
+        "Schaffen einer sicheren und freundlichen Umgebung für Kunden und Mitarbeiter"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Typoskript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagieren",
+      "Node.js",
+      "Äußern",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Englisch",
+      "proficiency": "Einheimisch"
+    },
+    {
+      "name": "japanisch",
+      "proficiency": "Einheimisch"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Eine responsive Website, die Projekte und Fähigkeiten unter Verwendung moderner Webtechnologien präsentiert",
+      "technologies": [
+        "Reagieren",
+        "CSS3",
+        "Responsives Design"
+      ]
+    }
+  ]
+}

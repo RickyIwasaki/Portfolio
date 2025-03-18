@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Mjukvaruingenjör",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "En erfaren mjukvaruutvecklare som söker nya möjligheter att arbeta för stora projekt. Intresserad av att skapa eller lägga till kod som andra kan använda. Jag tror att mina kunskaper är små jämfört med internet, så jag är väldigt intresserad av att arbeta med andra verktyg, tjänster, programmeringsspråk.",
+  "education": [
+    {
+      "degree": "Software Engineering certifikat",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, Kalifornien, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Gymnasieexamen",
+      "school": "Woodbridge High School",
+      "location": "Irvine, Kalifornien, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Mjukvaruingenjör",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornien, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arkitekterade och implementerade skalbara webbapplikationer med hjälp av React och Node.js",
+        "Samarbetade med produktchefer för att förfina kraven och säkerställa snabb leverans",
+        "Utvecklat och underhållit RESTful API:er för webbapplikationer",
+        "Utvecklade skript för att automatisera uppgifter och förbättra effektiviteten"
+      ]
+    },
+    {
+      "title": "Assisterande tennistränare",
+      "company": "Staden Irvine",
+      "location": "Irvine, Kalifornien, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Undervisning i tennisteknik i grupp med 5-10 spelare",
+        "Gör lektionen rolig och underhållande för spelarna",
+        "Ansvarig för säkerheten för spelarna på banan, speciellt de yngre och äldre spelarna, som 3-åringar och 60-åringar"
+      ]
+    },
+    {
+      "title": "Outbound Associate",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornien, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Fylla på varor på hyllan",
+        "Plocka beställningar för onlinekunder",
+        "Packa beställningar för frakt",
+        "Laddar beställningar på lastbilarna",
+        "Hjälper kunder att hitta varor i butiken",
+        "Hålla lagret rent och organiserat",
+        "Att hålla en säker och vänlig miljö för kunder och anställda"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagera",
+      "Node.js",
+      "Uttrycka",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Hamnarbetare",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "engelska",
+      "proficiency": "Inföding"
+    },
+    {
+      "name": "japanska",
+      "proficiency": "Inföding"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfölj",
+      "description": "En responsiv webbplats som visar upp projekt och färdigheter med hjälp av modern webbteknologi",
+      "technologies": [
+        "Reagera",
+        "CSS3",
+        "Responsiv design"
+      ]
+    }
+  ]
+}

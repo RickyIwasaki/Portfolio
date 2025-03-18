@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Ijinour meziantoù",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Un diorroer meziantoù barrek, o klask un digarez nevez da labourat evit raktresoù bras. Dedennet gant krouiñ pe ouzhpennañ kod evit ma c'hallfe tud all implijout. Krediñ a ran eo bihan ma barregezhioù e-keñver internet, setu ma'z on dedennet-bras gant labourat gant ostilhoù, servijoù, yezhoù programmiñ all.",
+  "education": [
+    {
+      "degree": "Testeni ijinouriezh meziantoù",
+      "school": "Kamp-degemer Trampolin",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Skol-veur Stad Kalifornia Fullerton",
+      "location": "Fullerton, Kalifornia, SUA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diplom lise",
+      "school": "Lise Woodbridge",
+      "location": "Irvine, Kalifornia, SUA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ijinour meziantoù",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornia, SUA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Savet ha lakaet e pleustr arloadoù web a c'haller mentañ gant React ha Node.js",
+        "Kenlabouret gant merourien ar produioù evit reizhañ ar c'houlennoù ha gwarantiñ an degasadennoù a-vremañ",
+        "Diorroet ha miret APIoù RESTful evit arloadoù web",
+        "Skriptoù savet evit emgefreekañ an oberoù ha gwellaat an efedusted"
+      ]
+    },
+    {
+      "title": "Skoazeller tennis",
+      "company": "Kêr Irvine",
+      "location": "Irvine, Kalifornia, SUA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Deskiñ teknikoù tennis en ur strollad 5-10 c'hoarier",
+        "Lakaat ar gentel da vezañ plijus ha plijus evit ar c'hoarierien",
+        "Karget eus surentez ar c'hoarierien war an dachenn, dreist-holl ar c'hoarierien yaouankoc'h ha koshoc'h, evel ar re 3 bloaz hag ar re 60 vloaz"
+      ]
+    },
+    {
+      "title": "Kevread diavaez",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornia, SUA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Adtapout an traoù war an estajer",
+        "Dibab urzhioù evit ar c'hliented enlinenn",
+        "Pakañ ar gourc'hemennoù evit ar c'has",
+        "Kargañ ar gourc'hemennoù war ar c'hamionoù-degas",
+        "Sikour ar c'hliented da gavout traoù er stal",
+        "Mirout an departamant glan hag aozet",
+        "Mirout un endro sur ha plijus evit ar c'hliented hag an implijidi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Skript-skrivañ",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Respont",
+      "Node.js",
+      "Ezteurel",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "saozneg",
+      "proficiency": "Genidik"
+    },
+    {
+      "name": "japaneg",
+      "proficiency": "Genidik"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Ul lec'hienn respontus a ziskouez raktresoù ha barregezhioù o implijout teknologiezhioù web modern",
+      "technologies": [
+        "Respont",
+        "CSS3",
+        "Tresañ respontus"
+      ]
+    }
+  ]
+}

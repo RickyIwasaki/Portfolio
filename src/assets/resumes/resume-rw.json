@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Ingeneri ya software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Inararibonye ya software ikora, ishakisha amahirwe mashya yo gukora imishinga minini. Ushishikajwe no gukora cyangwa kongera kode kubandi bakoresha. Nizera ko ubuhanga bwanjye ari buto ugereranije na enterineti, bityo rero nshishikajwe cyane no gukorana nibindi bikoresho, serivisi, indimi za porogaramu.",
+  "education": [
+    {
+      "degree": "Icyemezo cya software",
+      "school": "Ikibaho cya Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Kaminuza ya Californiya ya Fullerton",
+      "location": "Fullerton, California, Amerika",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Impamyabumenyi y'amashuri yisumbuye",
+      "school": "Ishuri ryisumbuye rya Woodbridge",
+      "location": "Irvine, California, Amerika",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ingeneri ya software",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, Amerika",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Yubatswe kandi ishyirwa mubikorwa porogaramu nini y'urubuga ukoresheje React na Node.js",
+        "Yafatanije n'abashinzwe ibicuruzwa kunonosora ibisabwa no kwemeza gutanga ku gihe",
+        "Yateje imbere kandi ikomeza RESTful APIs kumurongo wurubuga",
+        "Yateje imbere inyandiko zo gutangiza imirimo no kunoza imikorere"
+      ]
+    },
+    {
+      "title": "Umutoza wungirije wa Tennis",
+      "company": "Umujyi wa Irvine",
+      "location": "Irvine, California, Amerika",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Kwigisha tekinike ya tennis mumatsinda igizwe nabakinnyi 5-10",
+        "Gukora isomo bishimishije no kwinezeza kubakinnyi",
+        "Ashinzwe umutekano wabakinnyi mukibuga, cyane cyane abakinnyi bato nabakuze, nkabana 3 nimyaka 60;"
+      ]
+    },
+    {
+      "title": "Kwinjira hanze",
+      "company": "Amazone Fresh",
+      "location": "Irvine, California, Amerika",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Kugarura ibintu ku gipangu",
+        "Guhitamo ibicuruzwa kubakiriya kumurongo",
+        "Gupakira ibicuruzwa byoherezwa",
+        "Gutwara ibicuruzwa ku makamyo yo kugemura",
+        "Gufasha abakiriya kubona ibintu mububiko",
+        "Kugira isuku mu bubiko",
+        "Kugumana umutekano kandi wuje urugwiro kubakiriya n'abakozi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Ubwoko bw'inyandiko",
+      "Python",
+      "Java",
+      "C ++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reba",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Igicu"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Icyongereza",
+      "proficiency": "Kavukire"
+    },
+    {
+      "name": "Ikiyapani",
+      "proficiency": "Kavukire"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Urubuga rusubiza rwerekana imishinga nubuhanga ukoresheje tekinoroji igezweho",
+      "technologies": [
+        "Reba",
+        "CSS3",
+        "Igishushanyo mbonera"
+      ]
+    }
+  ]
+}

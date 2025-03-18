@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Innleadair bathar-bog",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Neach-leasachaidh bathar-bog eòlach, a’ sireadh cothrom ùr a bhith ag obair airson pròiseactan mòra. Ùidh ann a bhith a’ cruthachadh no a’ cur còd ris airson daoine eile a chleachdadh. Tha mi a’ creidsinn gu bheil na sgilean agam beag an taca ris an eadar-lìn, agus mar sin tha ùidh mhòr agam ann a bhith ag obair le innealan, seirbheisean, cànanan prògramaidh eile.",
+  "education": [
+    {
+      "degree": "Teisteanas innleadaireachd bathar-bog",
+      "school": "Bootcamp Springboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Oilthigh Stàite California ann am Fullerton",
+      "location": "Fullerton, Calafòrnia, Na Stàitean Aonaichte air a 'mhapa air-loidhne",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Dioplòma Àrd-sgoil",
+      "school": "Àrd-sgoil Woodbridge",
+      "location": "Irbhinn, Calafòrnia, Na Stàitean Aonaichte air a 'mhapa air-loidhne",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Innleadair bathar-bog",
+      "company": "MS-ZONE LLC.",
+      "location": "Irbhinn, Calafòrnia, Na Stàitean Aonaichte air a 'mhapa air-loidhne",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Ailtireachd agus cuir an gnìomh tagraidhean lìn scalable a’ cleachdadh React agus Node.js",
+        "Co-obraich le manaidsearan toraidh gus riatanasan ùrachadh agus dèanamh cinnteach à lìbhrigeadh ann an deagh àm",
+        "Leasaich agus chùm iad APIan RESTful airson tagraidhean lìn",
+        "Leasaich sgriobtaichean gus gnìomhan a dhèanamh fèin-ghluasadach agus èifeachdas adhartachadh"
+      ]
+    },
+    {
+      "title": "Coidse Teanas Cuideachaidh",
+      "company": "Cathair Irbhinn",
+      "location": "Irbhinn, Calafòrnia, Na Stàitean Aonaichte air a 'mhapa air-loidhne",
+      "dates": "2014-2019",
+      "responsibilities": [
+        "Teagasg dòighean teanas ann an suidheachadh buidhne de 5-10 cluicheadairean",
+        "Dèan an leasan spòrsail agus inntinneach dha na cluicheadairean",
+        "Uallach airson sàbhailteachd chluicheadairean air a’ chùirt, gu sònraichte na cluicheadairean as òige agus nas sine, leithid clann 3 bliadhna agus 60 bliadhna a dh'aois"
+      ]
+    },
+    {
+      "title": "Com-pàirtiche a-muigh",
+      "company": "Amazon Fresh",
+      "location": "Irbhinn, Calafòrnia, Na Stàitean Aonaichte air a 'mhapa air-loidhne",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Ath-shuidheachadh stuthan air an sgeilp",
+        "Taghadh òrdughan airson luchd-ceannach air-loidhne",
+        "Òrdughan pacaidh airson luingearachd",
+        "Luchdaich a-nuas òrduighean air trucaichean",
+        "A’ cuideachadh luchd-ceannach stuthan a lorg anns a’ bhùth",
+        "A 'cumail an taigh-bathair glan agus eagraichte",
+        "A’ cumail àrainneachd shàbhailte is chàirdeil dha luchd-ceannach agus luchd-obrach"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "React",
+      "Nod.js",
+      "Cuir an cèill",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docair",
+      "AWS",
+      "Jenkins",
+      "Àrd-ùrlar Google Cloud"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Sasannach",
+      "proficiency": "Dùthchasach"
+    },
+    {
+      "name": "Iapanach",
+      "proficiency": "Dùthchasach"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pasgan",
+      "description": "Làrach-lìn fhreagarrach a’ taisbeanadh phròiseactan agus sgilean a’ cleachdadh teicneòlasan lìn an latha an-diugh",
+      "technologies": [
+        "React",
+        "CSS3",
+        "Dealbhadh freagairteach"
+      ]
+    }
+  ]
+}

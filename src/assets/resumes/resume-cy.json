@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Peiriannydd Meddalwedd",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Datblygwr Meddalwedd Profiadol, yn chwilio am gyfle newydd i weithio i brosiectau mawr. Diddordeb mewn creu neu ychwanegu cod i eraill ei ddefnyddio. Rwy'n credu bod fy sgiliau yn fach o gymharu â'r rhyngrwyd, felly mae gennyf ddiddordeb mawr mewn gweithio gydag offer, gwasanaethau, ieithoedd rhaglennu eraill.",
+  "education": [
+    {
+      "degree": "Tystysgrif Peirianneg Meddalwedd",
+      "school": "Bwtcamp Sbardun",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Prifysgol Talaith California yn Fullerton",
+      "location": "Fullerton, Califfornia, Unol Daleithiau America",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma Ysgol Uwchradd",
+      "school": "Ysgol Uwchradd Woodbridge",
+      "location": "Irvine, Califfornia, Unol Daleithiau America",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Peiriannydd Meddalwedd",
+      "company": "MS-PARTH LLC.",
+      "location": "Irvine, Califfornia, Unol Daleithiau America",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Pensaernïo a gweithredu cymwysiadau gwe graddadwy gan ddefnyddio React a Node.js",
+        "Cydweithio â rheolwyr cynnyrch i fireinio gofynion a sicrhau darpariaeth amserol",
+        "Datblygu a chynnal APIs RESTful ar gyfer cymwysiadau gwe",
+        "Datblygu sgriptiau i awtomeiddio tasgau a gwella effeithlonrwydd"
+      ]
+    },
+    {
+      "title": "Hyfforddwr Tennis Cynorthwyol",
+      "company": "Dinas Irvine",
+      "location": "Irvine, Califfornia, Unol Daleithiau America",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Addysgu technegau tennis mewn lleoliad grŵp o 5-10 chwaraewr",
+        "Gwneud y wers yn hwyl ac yn ddiddorol i'r chwaraewyr",
+        "Yn gyfrifol am ddiogelwch y chwaraewyr ar y cwrt, yn enwedig y chwaraewyr iau a hŷn, fel rhai 3 oed a rhai 60 oed"
+      ]
+    },
+    {
+      "title": "Cydymaith Allan",
+      "company": "Amazon Ffres",
+      "location": "Irvine, Califfornia, Unol Daleithiau America",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Ailstocio eitemau ar y silff",
+        "Dewis archebion ar gyfer cwsmeriaid ar-lein",
+        "Archebion pacio ar gyfer cludo",
+        "Llwytho archebion ar y tryciau dosbarthu",
+        "Helpu cwsmeriaid i ddod o hyd i eitemau yn y siop",
+        "Cadw'r warws yn lân ac yn drefnus",
+        "Cadw amgylchedd diogel a chyfeillgar i'r cwsmeriaid a'r gweithwyr"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Ymateb",
+      "Node.js",
+      "Mynegwch",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Dociwr",
+      "AWS",
+      "Jenkins",
+      "Llwyfan Cwmwl Google"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Saesneg",
+      "proficiency": "Brodorol"
+    },
+    {
+      "name": "Japaneaidd",
+      "proficiency": "Brodorol"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portffolio",
+      "description": "Gwefan ymatebol yn arddangos prosiectau a sgiliau gan ddefnyddio technolegau gwe modern",
+      "technologies": [
+        "Ymateb",
+        "CSS3",
+        "Dyluniad Ymatebol"
+      ]
+    }
+  ]
+}

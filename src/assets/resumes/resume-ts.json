@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Muinjhiniyere wa Software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Mutumbuluxi wa Software loyi a nga na Ntokoto, loyi a lavaka nkarhi wuntshwa wo tirhela tiphurojeke letikulu. Ku tsakela ku tumbuluxa kumbe ku engetela khodi leswaku van’wana va yi tirhisa. Ndzi tshemba leswaku vuswikoti bya mina i byintsongo loko byi pimanisiwa na inthanete, hikokwalaho ndzi tsakela swinene ku tirha na switirhisiwa swin’wana, vukorhokeri, tindzimi ta minongonoko.",
+  "education": [
+    {
+      "degree": "Xitifikheti xa Vuinjhiniyere bya Software",
+      "school": "Xihlovo xa Bootcamp",
+      "dates": "2022 - 2023. Ndzi ta ku nyika yini"
+    },
+    {
+      "school": "Yunivhesiti ya Mfumo ya California ya Fullerton",
+      "location": "Fullerton, eCalifornia, le U.S.A",
+      "dates": "2021 - 2022. Ndzi ta ku nyika yini"
+    },
+    {
+      "degree": "Diploma ya Xikolo xa le Henhla",
+      "school": "Xikolo xa le Henhla xa Woodbridge",
+      "location": "Irvine, eCalifornia, le U.S.A",
+      "dates": "2016 - 2021. Xitsonga"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Muinjhiniyere wa Software",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, eCalifornia, le U.S.A",
+      "dates": "2023 - 2024. Ndzi ta ku nyika yini",
+      "responsibilities": [
+        "Ku akiwe no tirhisa switirhisiwa swa webu leswi ringaniseriwaka hi ku tirhisa React na Node.js",
+        "Ku tirhisana na vafambisi va swikumiwa ku antswisa swilaveko na ku tiyisisa ku rhumeriwa hi nkarhi",
+        "Ku tumbuluxiwile no hlayisiwa ti-API ta RESTful ta switirhisiwa swa webu",
+        "Ku tumbuluxiwile swikripti ku endla leswaku mintirho yi tirha hi ku tirhisa michini na ku antswisa vukorhokeri"
+      ]
+    },
+    {
+      "title": "Mupfuni wa Muleteri wa Thenisi",
+      "company": "Doroba ra Irvine",
+      "location": "Irvine, eCalifornia, le U.S.A",
+      "dates": "2014 - 2019. Xitsonga",
+      "responsibilities": [
+        "Ku dyondzisa tithekiniki ta thenisi eka ntlawa wa vatlangi va 5-10",
+        "Ku endla leswaku dyondzo yi tsakisa no tsakisa vatlangi",
+        "Vutihlamuleri bya vuhlayiseki bya vatlangi ekhoto, ngopfu ngopfu vatlangi lavatsongo na lavakulu, ku fana na vana va malembe ya 3 na va malembe ya 60"
+      ]
+    },
+    {
+      "title": "Muhlanganisi wa le Handle",
+      "company": "Amazon Fresh ya xirhendzevutani",
+      "location": "Irvine, eCalifornia, le U.S.A",
+      "dates": "2024 - 2024. Ndzi ta ku nyika yini",
+      "responsibilities": [
+        "Ku tlhela ku vekiwa swilo leswi nga exifelefini",
+        "Ku hlawula tioda ta vaxavi va le ka inthanete",
+        "Ku paka tioda ta ku rhumeriwa",
+        "Ku layicha tioda eka tilori to yisa swilo",
+        "Ku pfuna vaxavi ku kuma swilo exitolo",
+        "Ku hlayisa ndhawu yo hlayisela swilo yi basile naswona yi hlelekile",
+        "Ku hlayisa ndhawu leyi hlayisekeke na xinghana eka vaxavi na vatirhi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Xitlhokovetselo xa JavaScript",
+      "TypeScript",
+      "Xifaniso xa Python",
+      "Java",
+      "C++",
+      "SQL ya SQL"
+    ],
+    "frameworks": [
+      "Angula",
+      "Node.js",
+      "Tihlamusela",
+      "Django",
+      "JXivutiso xa Xivutiso"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Pulatifomo ya Google Cloud"
+    ],
+    "databases": [
+      "PostgreSQL ya le ndzhaku",
+      "MySQL ya mina",
+      "Cassandra na yena"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Xinghezi",
+      "proficiency": "Rikwavo"
+    },
+    {
+      "name": "Xijapani",
+      "proficiency": "Rikwavo"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Photifoliyo",
+      "description": "Webusayiti leyi hlamulaka leyi kombisaka tiphurojeke na vuswikoti hi ku tirhisa thekinoloji ya webu ya manguva lawa",
+      "technologies": [
+        "Angula",
+        "CSS3",
+        "Dizayini leyi Hlamulaka"
+      ]
+    }
+  ]
+}

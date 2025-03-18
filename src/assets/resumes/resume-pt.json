@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Engenheiro de Software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Um Desenvolvedor de Software Experiente, buscando novas oportunidades para trabalhar em grandes projetos. Interessado em criar ou adicionar código para outros usarem. Acredito que minhas habilidades são pequenas comparadas à internet, então estou muito interessado em trabalhar com outras ferramentas, serviços, linguagens de programação.",
+  "education": [
+    {
+      "degree": "Certificado de Engenharia de Software",
+      "school": "Bootcamp de trampolim",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Universidade Estadual da Califórnia em Fullerton",
+      "location": "Fullerton, Califórnia, EUA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma do ensino médio",
+      "school": "Escola Secundária Woodbridge",
+      "location": "Irvine, Califórnia, EUA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Engenheiro de Software",
+      "company": "Empresa: MS-ZONE LLC.",
+      "location": "Irvine, Califórnia, EUA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arquitetou e implementou aplicações web escaláveis usando React e Node.js",
+        "Colaborou com gerentes de produto para refinar requisitos e garantir entrega pontual",
+        "Desenvolveu e manteve APIs RESTful para aplicações web",
+        "Desenvolveu scripts para automatizar tarefas e melhorar a eficiência"
+      ]
+    },
+    {
+      "title": "Treinador Assistente de Tênis",
+      "company": "Cidade de Irvine",
+      "location": "Irvine, Califórnia, EUA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Ensinar técnicas de tênis em um ambiente de grupo de 5 a 10 jogadores",
+        "Tornando a aula divertida e interessante para os jogadores",
+        "Responsável pela segurança dos jogadores em quadra, especialmente os jogadores mais jovens e mais velhos, como crianças de 3 anos e idosos de 60 anos"
+      ]
+    },
+    {
+      "title": "Associado de saída",
+      "company": "Amazon Fresco",
+      "location": "Irvine, Califórnia, EUA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Reabastecendo itens na prateleira",
+        "Seleção de pedidos para clientes online",
+        "Embalagem de pedidos para envio",
+        "Carregando pedidos nos caminhões de entrega",
+        "Ajudando os clientes a encontrar itens na loja",
+        "Manter o armazém limpo e organizado",
+        "Manter um ambiente seguro e amigável para clientes e funcionários"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Pitão",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagir",
+      "Node.js",
+      "Expressar",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Estivador",
+      "AWS",
+      "Jenkins",
+      "Plataforma Google Cloud"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Inglês",
+      "proficiency": "Nativo"
+    },
+    {
+      "name": "japonês",
+      "proficiency": "Nativo"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfólio",
+      "description": "Um site responsivo que mostra projetos e habilidades usando tecnologias web modernas",
+      "technologies": [
+        "Reagir",
+        "CSS3",
+        "Design responsivo"
+      ]
+    }
+  ]
+}

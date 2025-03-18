@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Programvareingeniør",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "En erfaren programvareutvikler som søker nye muligheter til å jobbe for store prosjekter. Interessert i å lage eller legge til kode som andre kan bruke. Jeg tror mine ferdigheter er små sammenlignet med internett, så jeg er veldig interessert i å jobbe med andre verktøy, tjenester, programmeringsspråk.",
+  "education": [
+    {
+      "degree": "Software Engineering sertifikat",
+      "school": "Springboard Bootcamp",
+      "dates": "2022–2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021–2022"
+    },
+    {
+      "degree": "Videregående vitnemål",
+      "school": "Woodbridge videregående skole",
+      "location": "Irvine, California, USA",
+      "dates": "2016–2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Programvareingeniør",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023–2024",
+      "responsibilities": [
+        "Arkitekterte og implementerte skalerbare webapplikasjoner ved hjelp av React og Node.js",
+        "Samarbeidet med produktsjefer for å avgrense krav og sikre rettidig levering",
+        "Utviklet og vedlikeholdt RESTful APIer for webapplikasjoner",
+        "Utviklet skript for å automatisere oppgaver og forbedre effektiviteten"
+      ]
+    },
+    {
+      "title": "Assisterende tennistrener",
+      "company": "Byen Irvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014–2019",
+      "responsibilities": [
+        "Undervisning i tennisteknikker i en gruppe på 5-10 spillere",
+        "Gjøre leksjonen morsom og underholdende for spillerne",
+        "Ansvarlig for sikkerheten til spillerne på banen, spesielt de yngre og eldre spillerne, som 3 åringer og 60 åringer"
+      ]
+    },
+    {
+      "title": "Utgående medarbeider",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, USA",
+      "dates": "2024–2024",
+      "responsibilities": [
+        "Etterfylle varer i hyllen",
+        "Plukke bestillinger for nettkunder",
+        "Pakke bestillinger for frakt",
+        "Laster bestillinger på varebilene",
+        "Hjelper kunder med å finne varer i butikken",
+        "Holde lageret rent og organisert",
+        "Holde et trygt og vennlig miljø for kunder og ansatte"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagere",
+      "Node.js",
+      "Uttrykke",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "engelsk",
+      "proficiency": "Innfødt"
+    },
+    {
+      "name": "japansk",
+      "proficiency": "Innfødt"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portefølje",
+      "description": "Et responsivt nettsted som viser frem prosjekter og ferdigheter ved bruk av moderne nettteknologi",
+      "technologies": [
+        "Reagere",
+        "CSS3",
+        "Responsivt design"
+      ]
+    }
+  ]
+}

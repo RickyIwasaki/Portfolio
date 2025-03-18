@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Mpamorona rindrambaiko efa za-draharaha, mitady fahafahana vaovao hiasa amin'ny tetikasa lehibe. Liana amin'ny famoronana na manampy kaody ho an'ny hafa hampiasaina. Mino aho fa kely ny fahaizako raha oharina amin'ny Internet, ka tena liana amin'ny fiaraha-miasa amin'ny fitaovana hafa, serivisy, fiteny fandaharana aho.",
+  "education": [
+    {
+      "degree": "Taratasy momba ny Engineering Software",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, Kalifornia, Etazonia",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diplaoma ambony",
+      "school": "Woodbridge High School",
+      "location": "Irvine, Kalifornia, Etazonia",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornia, Etazonia",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Namboarina sy nampihatra rindranasa an-tranonkala miendrika mampiasa React sy Node.js",
+        "Niara-niasa tamin'ny mpitantana ny vokatra hanatsara ny fepetra takiana sy hiantohana ny fandefasana ara-potoana",
+        "Namboarina sy nitazona API RESTful ho an'ny fampiharana tranonkala",
+        "Namboarina sora-baventy hanamboatra asa sy hanatsara ny fahombiazany"
+      ]
+    },
+    {
+      "title": "Mpanazatra tenisy mpanampy",
+      "company": "Ny tanànan'i Irvine",
+      "location": "Irvine, Kalifornia, Etazonia",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Mampianatra teknika tenisy amin'ny sehatra vondrona misy mpilalao 5-10",
+        "Mampifaly sy mampiala voly ny lesona ho an'ny mpilalao",
+        "Tompon’andraikitra amin’ny fiarovana ny mpilalao eny amin’ny kianja, indrindra ireo mpilalao zandriny sy lehibe, toy ny 3 taona sy 60 taona."
+      ]
+    },
+    {
+      "title": "Outbound Associate",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornia, Etazonia",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Famerenana ny entana ao amin'ny talantalana",
+        "Mifidy kaomandy ho an'ny mpanjifa an-tserasera",
+        "Famandrihana entana ho an'ny fandefasana",
+        "Mametraka kaomandy amin'ny kamiao mpanatitra",
+        "Manampy ny mpanjifa hahita entana ao amin'ny fivarotana",
+        "Ny fitazonana ny trano fitehirizana ho madio sy milamina",
+        "Ny fitazonana tontolo iainana azo antoka sy sariaka ho an'ny mpanjifa sy ny mpiasa"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Maneho Hevitra",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "anglisy",
+      "proficiency": "teratany"
+    },
+    {
+      "name": "Anarana",
+      "proficiency": "teratany"
+    }
+  ],
+  "projects": [
+    {
+      "name": "portfolio-",
+      "description": "Tranonkala mandray andraikitra mampiseho tetikasa sy fahaiza-manao mampiasa ny teknolojian'ny tranonkala maoderina",
+      "technologies": [
+        "Maneho Hevitra",
+        "CSS3",
+        "Famolavolana mamaly"
+      ]
+    }
+  ]
+}

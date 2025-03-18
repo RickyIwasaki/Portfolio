@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Endezyarê Nivîsbariyê",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Pêşdebirek Nermalava Bi Tecrube, li fersendek nû digere ku ji bo projeyên mezin bixebite. Eleqedar in ku ji bo kesên din bikar bînin kodê biafirînin an lê zêde bikin. Ez bawer dikim ku jêhatîyên min li gorî înternetê piçûk in, ji ber vê yekê ez pir eleqedar im ku bi amûrên din, karûbar, zimanên bernamekirinê re bixebitim.",
+  "education": [
+    {
+      "degree": "Sertîfîkaya Endezyariya Nermalavê",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Zanîngeha Dewleta California ya Fullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Dîplomaya Dibistana Bilind",
+      "school": "Dibistana Bilind a Woodbridge",
+      "location": "Irvine, California, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Endezyarê Nivîsbariyê",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Bi karanîna React û Node.js serîlêdanên webê yên berbelavkirî ava kirin û bicîh kirin",
+        "Bi rêveberên hilberan re hevkarî kir ku hewcedariyên paqij bike û radestkirina biwext peyda bike",
+        "Ji bo serîlêdanên webê API-yên RESTful pêşve xistin û domandin",
+        "Skrîptên pêşkeftî ji bo otomatîkkirina peywiran û baştirkirina karîgeriyê"
+      ]
+    },
+    {
+      "title": "Alîkarê Coach Tenîsê",
+      "company": "Bajarê Irvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Hînkirina teknîkên tenîsê di nav komek 5-10 lîstikvanan de",
+        "Dersê ji bo lîstikvanan xweş û balkêş dikin",
+        "Berpirsiyar ji ewlehiya lîstikvanan li dadgehê, nemaze lîstikvanên ciwan û mezin, mîna 3 salî û 60 salî"
+      ]
+    },
+    {
+      "title": "Hevkarê Derveyî",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking tiştên li ser refikê",
+        "Hilbijartina fermanan ji bo xerîdarên serhêl",
+        "Ji bo barkirinê fermanên pakkirinê",
+        "Barkirina fermanan li kamyonên radestkirinê",
+        "Alîkariya xerîdar dike ku tiştan li firotgehê bibînin",
+        "Pargîdaniya paqij û birêxistinkirî ye",
+        "Ji bo xerîdar û karmendan jîngehek ewledar û dostane biparêzin"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Bersivkirin",
+      "Node.js",
+      "Îfadekirin",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Îngilîzî",
+      "proficiency": "Welatî"
+    },
+    {
+      "name": "Japonî",
+      "proficiency": "Welatî"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Malperek bersivdar ku proje û jêhatîbûnên bi karanîna teknolojiyên tevnvî yên nûjen nîşan dide",
+      "technologies": [
+        "Bersivkirin",
+        "CSS3",
+        "Design Responsive"
+      ]
+    }
+  ]
+}

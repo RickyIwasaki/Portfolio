@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Kaihanga Pūmanawa",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "He Kaiwhakawhanake Pūmanawa Tohunga, e rapu huarahi hou ki te mahi mo nga kaupapa nui. He hiahia ki te hanga, ki te taapiri waehere ma etahi atu hei whakamahi. E whakapono ana ahau he iti noa aku pukenga ki te ipurangi, no reira e tino hiahia ana ahau ki te mahi me etahi atu taputapu, ratonga, reo hotaka.",
+  "education": [
+    {
+      "degree": "Tiwhikete Hangarau Pūmanawa",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Te Whare Wananga o California State o Fullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Tiwhikete Kura Tuarua",
+      "school": "Te Kura Tuarua o Woodbridge",
+      "location": "Irvine, California, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Kaihanga Pūmanawa",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "I hangaia me te whakatinana i nga tono tukutuku tauineine ma te whakamahi i te React me te Node.js",
+        "I mahi tahi me nga kaiwhakahaere hua ki te whakamahine i nga whakaritenga me te whakarite i te tuku tika",
+        "I whakawhanakehia me te pupuri i nga API RESTful mo nga tono tukutuku",
+        "I whakawhanakehia nga tuhinga hei whakaaunoa i nga mahi me te whakapai ake i te pai"
+      ]
+    },
+    {
+      "title": "Kaiāwhina Kaiako Tennis",
+      "company": "Pa o Irvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Te whakaako i nga tikanga tenehi i roto i te huinga roopu e 5-10 nga kaitakaro",
+        "Ko te mahi ngahau me te whakangahau mo nga kaitakaro",
+        "Ko te kawenga mo te haumaru o nga kaitakaro i runga i te kooti, ina koa ko nga kaitakaro taiohi me nga pakeke, penei i te 3 tau me te 60 tau."
+      ]
+    },
+    {
+      "title": "Kaihoahoa ki waho",
+      "company": "Amazon Hou",
+      "location": "Irvine, California, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Te whakahou i nga taonga kei runga i te papa",
+        "Te tiki ota mo nga kaihoko ipurangi",
+        "Ko nga ota taake mo te tuku",
+        "Te uta ota ki runga i nga taraka tuku",
+        "Te awhina i nga kaihoko ki te rapu taonga i roto i te toa",
+        "Te pupuri i te ma me te whakarite i te whare putunga",
+        "Te pupuri i te taiao haumaru me te hoa mo nga kaihoko me nga kaimahi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Tauhohe",
+      "Node.js",
+      "Whakaaturia",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Ko Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Ingarihi",
+      "proficiency": "Maori"
+    },
+    {
+      "name": "Hapanihi",
+      "proficiency": "Maori"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Kōpaki",
+      "description": "He paetukutuku whakautu e whakaatu ana i nga kaupapa me nga pukenga e whakamahi ana i nga hangarau tukutuku hou",
+      "technologies": [
+        "Tauhohe",
+        "CSS3",
+        "Hoahoa Whakautu"
+      ]
+    }
+  ]
+}

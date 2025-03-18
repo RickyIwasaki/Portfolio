@@ -1,24 +1,41 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import Resume from './pages/Resume/Resume';
+import { RateLimitProvider } from './context/RateLimitContext';
+import RateLimitAlert from './components/RateLimitAlert';
+
+// Home component 
+const Home = () => (
+  <div>
+    <h1>Ricky Iwasaki</h1>
+    <p>Welcome to my portfolio!</p>
+  </div>
+);
+
+// Resume page will be imported from a separate file once we create it
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <RateLimitProvider>
+      <Router>
+        <div className="App">
+          <nav className="main-nav">
+            <ul>
+              <li><Link to="/">Home</Link></li>
+              <li><Link to="/resume">Resume</Link></li>
+            </ul>
+          </nav>
+
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/resume" element={<Resume />} />
+          </Routes>
+          
+          {/* Rate limit alert component */}
+          <RateLimitAlert />
+        </div>
+      </Router>
+    </RateLimitProvider>
   );
 }
 

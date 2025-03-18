@@ -1,0 +1,121 @@
+{
+  "name": "Riki Iwasaki",
+  "title": "Injeniyeri wa porogaramu",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Umuhinga mu bijanye n’ugutegura porogarama, arondera akaryo gashasha ko gukorera imigambi minini. Gushimishwa no kurema canke kwongerako kode kugira abandi bayikoreshe. Nizera ko ubuhinga bwanje ari buto ugereranije na internet, rero ndakunda cane gukorana n’ibindi bikoresho, ibikorwa, indimi zo gukora porogarama.",
+  "education": [
+    {
+      "degree": "Icemezo c'ubuhinga bwa mudasobwa",
+      "school": "Ikambi y'imyimenyerezo y'urubaho",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Kaminuza ya Leta ya California",
+      "location": "Fullerton, muri Kaliforuniya, muri Leta Zunze Ubumwe za Amerika.",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Icemezo c'amashure yisumbuye",
+      "school": "Ishure ryisumbuye rya Woodbridge",
+      "location": "Irvine, muri Kaliforuniya, muri Leta Zunze Ubumwe za Amerika.",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Injeniyeri wa porogaramu",
+      "company": "MS-AKARERE LLC.",
+      "location": "Irvine, muri Kaliforuniya, muri Leta Zunze Ubumwe za Amerika.",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Ubwubatsi n'ugushirwa mu ngiro kw'ibikorwa vy'urubuga bishobora guhindurwa hakoreshejwe React na Node.js",
+        "Yakoranye n'abarongozi b'ibicuruzwa kugira ngo batunganye ibisabwa no kumenya ko bishikirizwa ku gihe",
+        "Yateguye kandi ibungabunga RESTful APIs ku bikorwa vy'urubuga",
+        "Yateguye inyandiko zo gukora ibikorwa vy'ubuhinga no kwongereza ubushobozi"
+      ]
+    },
+    {
+      "title": "Umumenyereza w'umupira w'amaguru",
+      "company": "Igisagara ca Irvine",
+      "location": "Irvine, muri Kaliforuniya, muri Leta Zunze Ubumwe za Amerika.",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Kwigisha ubuhinga bwo gukina tennis mu mugwi w'abakinyi 5-10",
+        "Gutuma icigwa kiryoha kandi kigashimisha abakinyi",
+        "Ujejwe umutekano w’abakinyi bari ku kibuga, cane cane abakinyi bato n’abakuze, nk’abafise imyaka 3 n’abafise imyaka 60"
+      ]
+    },
+    {
+      "title": "Umufatanyabikorwa wo hanze",
+      "company": "Amazon nshasha",
+      "location": "Irvine, muri Kaliforuniya, muri Leta Zunze Ubumwe za Amerika.",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Gusubiramwo ibintu ku ruhande",
+        "Gutora amategeko y'abaguzi bo kuri internet",
+        "Gupakira amategeko yo kohereza",
+        "Gushira amategeko ku bikamyo bitwara ibintu",
+        "Gufasha abakiriya kuronka ibintu mu iduka",
+        "Gutuma ububiko buguma busukuye kandi butunganijwe",
+        "Kubungabunga ahantu heza kandi h'ubugenzi ku bakiriya n'abakozi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Ubwoko bw'inyandiko",
+      "Insinya",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Gusubiza",
+      "Urudodo.js",
+      "Vyerekana",
+      "Jango",
+      "Ikibazo"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Urubuga rwa Google"
+    ],
+    "databases": [
+      "Inyuma ya SQL",
+      "SQL yanje",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Ikirundi",
+      "proficiency": "Kavukire"
+    },
+    {
+      "name": "Ikiyapani",
+      "proficiency": "Kavukire"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ibitabo",
+      "description": "Urubuga rwishura rwerekana imigambi n'ubuhinga hakoreshejwe ubuhinga bwa none",
+      "technologies": [
+        "Gusubiza",
+        "CSS3",
+        "Inyishu y'umugambi"
+      ]
+    }
+  ]
+}

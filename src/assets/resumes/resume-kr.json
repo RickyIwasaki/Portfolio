@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Cidama nzundu manhajabe",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Software Developer ilmuma, dama bəlin cidawa kura-kuraro cidatəye majin. Code tando au yira am gadeye faidatəro hangal gənatə. Wuye tǝmangǝna nzundunyi dǝ gana internet ro ratallǝgǝmiya, adǝye sǝkǝ zauro awowa gade-gade cidatǝro mǝradǝngǝna, cidawa, tǝlamma programmingbe.",
+  "education": [
+    {
+      "degree": "Shada Nzundu Softwarebe",
+      "school": "Kambǝram Bootboardbe",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Jamiya kəriye Californiabe",
+      "location": "Fullerton, Kalifornia, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma mowonti kurabe",
+      "school": "Moworonti kura Woodbridgebe",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Cidama nzundu manhajabe",
+      "company": "MS-NASǝ LLC.",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Fasaltə-a kuru faidatə-a ngaltəram webbe React-a Node.js-a faidatəlan",
+        "Manaja karewabe'a kəllata məradəwa yasa'a kuru loktun gənatə'a tawattəgəro",
+        "RESTful APIs tando kuru nzəliwo faidatə webbe nankaro",
+        "Scripts tando cidawa otomatikro diwo-a kuru cida ngalwotəgə-aro"
+      ]
+    },
+    {
+      "title": "Banama Kochi Tennisbe",
+      "company": "Bərni Irvinebe",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Nzunduwa tennisbe gultəgə suro kufu biskewu 5-10",
+        "Darasədəga bikkewudəro kəjiro diwo kuru tamtamma",
+        "Sambisoro nəlefa biskewube kəla sharaben, musammanno biskewu gana-a kura-a, misallo am saa 3-a saa 60-a"
+      ]
+    },
+    {
+      "title": "Karapka Diyabe",
+      "company": "Amazon bǝlin",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Karewa waltəm gənatə kəla shelfben",
+        "Kam yiwomaso intanettedǝro awo gǝnatǝye gota",
+        "Amari njibe gǝnatǝbe",
+        "Kawudowa suro moto kura-kuradǝro gǝnatǝ",
+        "Yiwomaso banazə karewa sutodən mazayin",
+        "Fato karewa gǝnatǝyedǝ kadawu baro gǝnatǝ",
+        "Na nəlefabe-a nəm ngəla-a luwayamaso-a cidawu-aro gənatə"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Ruwo Javabe",
+      "Jili Ruwobe",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Jaawuwa",
+      "Node.js",
+      "Njirtə",
+      "Jango",
+      "JKoro"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Fasal Googlebe"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "nasara",
+      "proficiency": "Ngawarma"
+    },
+    {
+      "name": "Japan",
+      "proficiency": "Ngawarma"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fotfoliwo",
+      "description": "Website do cidawa-a nzunduwa-a fəlejinma nzundu zamanbe faidatəlan",
+      "technologies": [
+        "Jaawuwa",
+        "CSS3",
+        "Zaye Jaawuwa"
+      ]
+    }
+  ]
+}

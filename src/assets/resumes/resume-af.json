@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Sagteware-ingenieur",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "'n Ervare sagteware-ontwikkelaar, op soek na nuwe geleentheid om vir groot projekte te werk. Stel belang om kode te skep of by te voeg vir ander om te gebruik. Ek glo my vaardighede is klein in vergelyking met die internet, so ek stel baie belang daarin om met ander gereedskap, dienste, programmeertale te werk.",
+  "education": [
+    {
+      "degree": "Sagteware-ingenieurswese sertifikaat",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, Kalifornië, VSA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Hoërskool Diploma",
+      "school": "Hoërskool Woodbridge",
+      "location": "Irvine, Kalifornië, VSA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Sagteware-ingenieur",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornië, VSA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Argitek en geïmplementeer skaalbare webtoepassings met behulp van React en Node.js",
+        "Met produkbestuurders saamgewerk om vereistes te verfyn en tydige aflewering te verseker",
+        "Ontwikkel en onderhou RESTful API's vir webtoepassings",
+        "Ontwikkel skrifte om take te outomatiseer en doeltreffendheid te verbeter"
+      ]
+    },
+    {
+      "title": "Assistent tennisafrigter",
+      "company": "Stad Irvine",
+      "location": "Irvine, Kalifornië, VSA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Onderrig van tennistegnieke in 'n groepopset van 5-10 spelers",
+        "Maak die les pret en onderhoudend vir die spelers",
+        "Verantwoordelik vir die veiligheid van die spelers op die baan, veral die jonger en ouer spelers, soos 3-jariges en 60-jariges"
+      ]
+    },
+    {
+      "title": "Uitgaande medewerker",
+      "company": "Amazon vars",
+      "location": "Irvine, Kalifornië, VSA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Hervoorraad items op die rak",
+        "Kies bestellings vir aanlyn kliënte",
+        "Pak bestellings vir versending",
+        "Laai bestellings op die afleweringsvragmotors",
+        "Help klante om items in die winkel te vind",
+        "Hou die pakhuis skoon en georganiseer",
+        "Die handhawing van 'n veilige en vriendelike omgewing vir die kliënte en werknemers"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reageer",
+      "Node.js",
+      "Druk uit",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Wolk-platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Engels",
+      "proficiency": "Inheems"
+    },
+    {
+      "name": "Japannese",
+      "proficiency": "Inheems"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portefeulje",
+      "description": "'n Responsiewe webwerf wat projekte en vaardighede ten toon stel deur moderne webtegnologieë te gebruik",
+      "technologies": [
+        "Reageer",
+        "CSS3",
+        "Responsiewe ontwerp"
+      ]
+    }
+  ]
+}

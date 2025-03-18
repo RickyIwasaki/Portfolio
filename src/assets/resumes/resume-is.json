@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Hugbúnaðarverkfræðingur",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Reyndur hugbúnaðarhönnuður, leitar að nýjum tækifærum til að vinna fyrir stór verkefni. Hef áhuga á að búa til eða bæta við kóða sem aðrir geta notað. Ég tel að kunnátta mín sé lítil miðað við internetið, svo ég hef mikinn áhuga á að vinna með önnur tæki, þjónustu, forritunarmál.",
+  "education": [
+    {
+      "degree": "Hugbúnaðarverkfræðivottorð",
+      "school": "Stökkbretti Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, Kalifornía, Bandaríkin",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Menntaskólapróf",
+      "school": "Woodbridge menntaskólinn",
+      "location": "Irvine, Kalifornía, Bandaríkin",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Hugbúnaðarverkfræðingur",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornía, Bandaríkin",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Byggði og útfærði skalanleg vefforrit með React og Node.js",
+        "Var í samstarfi við vörustjóra til að betrumbæta kröfur og tryggja tímanlega afhendingu",
+        "Þróað og viðhaldið RESTful API fyrir vefforrit",
+        "Þróaði forskriftir til að gera verkefni sjálfvirk og bæta skilvirkni"
+      ]
+    },
+    {
+      "title": "Aðstoðartennisþjálfari",
+      "company": "Borgin Irvine",
+      "location": "Irvine, Kalifornía, Bandaríkin",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Kennsla í tennistækni í 5-10 manna hópum",
+        "Gerir kennslustundina skemmtilega og skemmtilega fyrir leikmennina",
+        "Ber ábyrgð á öryggi leikmanna á vellinum, sérstaklega yngri og eldri leikmanna, eins og 3 ára og 60 ára."
+      ]
+    },
+    {
+      "title": "Félagi á útleið",
+      "company": "Amazon ferskt",
+      "location": "Irvine, Kalifornía, Bandaríkin",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Að endurnýja vörur í hillu",
+        "Velja pantanir fyrir viðskiptavini á netinu",
+        "Pökkunarpantanir fyrir sendingu",
+        "Hleður pöntunum á sendibíla",
+        "Að hjálpa viðskiptavinum að finna vörur í versluninni",
+        "Að halda vöruhúsinu hreinu og skipulögðu",
+        "Að halda öruggu og vinalegu umhverfi fyrir viðskiptavini og starfsmenn"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Bregðast við",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Hafnarmaður",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "ensku",
+      "proficiency": "Innfæddur"
+    },
+    {
+      "name": "japönsku",
+      "proficiency": "Innfæddur"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Eignasafn",
+      "description": "Móttækileg vefsíða sem sýnir verkefni og færni með nútíma veftækni",
+      "technologies": [
+        "Bregðast við",
+        "CSS3",
+        "Móttækileg hönnun"
+      ]
+    }
+  ]
+}

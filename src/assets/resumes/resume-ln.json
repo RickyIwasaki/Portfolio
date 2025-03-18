@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki, oyo azali na mbula 19",
+  "title": "Ingénieur ya Logiciel",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Mokeli ya Logiciel oyo azali na mayele, koluka libaku ya sika ya kosala mpo na misala minene. Intéressé ya ko créer to kobakisa code pona ba misusu ba salela. Nandimi ete mayele na ngai ezali moke soki tokokanisi yango na internet, yango wana nazali na mposa mingi ya kosala na bisaleli mosusu, na misala, minoko ya programmation.",
+  "education": [
+    {
+      "degree": "Certificat ya Ingénierie Logicielle",
+      "school": "Bootcamp ya tableau de ressort",
+      "dates": "2022 - 2023. Ezali ndenge moko"
+    },
+    {
+      "school": "Iniversite ya etúká ya Californie na Fullerton",
+      "location": "Fullerton, na etúká ya Californie, na États-Unis",
+      "dates": "2021 - 2022. Ezali na ntina mingi"
+    },
+    {
+      "degree": "Diplôme ya Eteyelo ya Likolo",
+      "school": "Eteyelo ya ntei ya Woodbridge",
+      "location": "Irvine, na etúká ya Californie, na États-Unis",
+      "dates": "2016 - 2021. Ezali na ntina mingi"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ingénieur ya Logiciel",
+      "company": "MS-ZONE LLC, oyo ezali na kati.",
+      "location": "Irvine, na etúká ya Californie, na États-Unis",
+      "dates": "2023 - 2024. Ezali ndenge moko",
+      "responsibilities": [
+        "Architecture mpe a mettre en œuvre ba applications web évolutives na nzela ya React na Node.js",
+        "Esalaki elongo na bakambi ya biloko mpo na kobongisa masengami mpe kosala ete bopesi biloko na tango esengeli",
+        "Asali mpe abatelaki ba API RESTful mpo na ba applications web",
+        "Ba scripts oyo esali pona ko automatiser ba tâches pe ko améliorer efficacité"
+      ]
+    },
+    {
+      "title": "Mosungi ya Entraîneur ya Tennis",
+      "company": "Engumba ya Irvine",
+      "location": "Irvine, na etúká ya Californie, na États-Unis",
+      "dates": "2014 - 2019. Ezali na ntina mingi",
+      "responsibilities": [
+        "Koteya ba techniques ya tennis na cadre ya groupe ya ba joueurs 5-10",
+        "Kosala ete liteya ezala esengo mpe intertaining mpo na basani",
+        "Responsable ya sécurité ya ba joueurs na terrain, surtout ba joueurs ya mike pe ya minene, lokola ba 3 ans na 60 ans"
+      ]
+    },
+    {
+      "title": "Associé ya libanda",
+      "company": "Amazon Fresh ya sika",
+      "location": "Irvine, na etúká ya Californie, na États-Unis",
+      "dates": "2024 - 2024. Ezali ndenge moko",
+      "responsibilities": [
+        "Kozongisa biloko oyo ezali na etaje",
+        "Kozwa ba commandes pona ba clients en ligne",
+        "Ba commandes ya emballage pona envoi",
+        "Kokɔtisa ba commandes na ba camions ya livraison",
+        "Kosalisa bakiliya bázwa biloko na magazini",
+        "Kobatela depo ezala pɛto mpe ebongisami malamu",
+        "Kobatela enviroment ya sécurité mpe amical mpo na ba clients mpe basali"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript ya kosala",
+      "TypeScript ya kosala",
+      "Python ya kosala",
+      "Java",
+      "C++ na yango",
+      "SQL na yango"
+    ],
+    "frameworks": [
+      "Bosala reaction",
+      "Node.js",
+      "Koloba",
+      "Django",
+      "JQuery na likambo yango"
+    ],
+    "tools": [
+      "Git",
+      "Docker ya Docker",
+      "AWS",
+      "Jenkins, oyo azali",
+      "Plateforme ya Cloud ya Google"
+    ],
+    "databases": [
+      "PostgreSQL ya sima",
+      "MySQL na ngai",
+      "Cassandra mpe azali na likambo yango"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Lingelesi",
+      "proficiency": "Mwana-mboka"
+    },
+    {
+      "name": "Bato ya Japon",
+      "proficiency": "Mwana-mboka"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portefeuille ya mosala",
+      "description": "Site internet oyo ezo répondre oyo ezo lakisa ba projets na ba compétences na nzela ya ba technologies web ya mikolo oyo",
+      "technologies": [
+        "Bosala reaction",
+        "CSS3",
+        "Design oyo ezo répondre"
+      ]
+    }
+  ]
+}

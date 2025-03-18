@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Ingegnere informatico",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Uno sviluppatore software esperto, in cerca di nuove opportunità di lavoro per grandi progetti. Interessato a creare o aggiungere codice da usare per altri. Credo che le mie competenze siano ridotte rispetto a Internet, quindi sono molto interessato a lavorare con altri strumenti, servizi, linguaggi di programmazione.",
+  "education": [
+    {
+      "degree": "Certificato di Ingegneria del Software",
+      "school": "Campo di addestramento trampolino",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Università statale della California di Fullerton",
+      "location": "Fullerton, California, Stati Uniti",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma di scuola superiore",
+      "school": "Scuola superiore di Woodbridge",
+      "location": "Irvine, California, Stati Uniti",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ingegnere informatico",
+      "company": "Società a responsabilità limitata",
+      "location": "Irvine, California, Stati Uniti",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Applicazioni web scalabili progettate e implementate utilizzando React e Node.js",
+        "Collaborato con i product manager per perfezionare i requisiti e garantire la consegna puntuale",
+        "Sviluppato e mantenuto API RESTful per applicazioni web",
+        "Script sviluppati per automatizzare le attività e migliorare l'efficienza"
+      ]
+    },
+    {
+      "title": "Assistente allenatore di tennis",
+      "company": "Città di Irvine",
+      "location": "Irvine, California, Stati Uniti",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Insegnamento delle tecniche del tennis in un gruppo di 5-10 giocatori",
+        "Rendere la lezione divertente e interessante per i giocatori",
+        "Responsabile della sicurezza dei giocatori in campo, in particolare dei giocatori più giovani e più anziani, come i bambini di 3 anni e i sessantenni"
+      ]
+    },
+    {
+      "title": "Associato in uscita",
+      "company": "Amazon fresco",
+      "location": "Irvine, California, Stati Uniti",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Riassortimento degli articoli sullo scaffale",
+        "Raccolta di ordini per clienti online",
+        "Ordini di imballaggio per la spedizione",
+        "Caricamento degli ordini sui camion di consegna",
+        "Aiutare i clienti a trovare gli articoli nel negozio",
+        "Mantenere il magazzino pulito e organizzato",
+        "Mantenere un ambiente sicuro e amichevole per i clienti e i dipendenti"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Javascript",
+      "Dattiloscritto",
+      "Pitone",
+      "Giava",
+      "Il linguaggio C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagire",
+      "Node.js",
+      "Esprimere",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Incitare",
+      "Portare",
+      "Condizioni d'uso",
+      "Genitori",
+      "Piattaforma Google Cloud"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Il mio SQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Inglese",
+      "proficiency": "Nativo"
+    },
+    {
+      "name": "giapponese",
+      "proficiency": "Nativo"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Un sito web reattivo che presenta progetti e competenze utilizzando le moderne tecnologie web",
+      "technologies": [
+        "Reagire",
+        "CSS3",
+        "Design reattivo"
+      ]
+    }
+  ]
+}

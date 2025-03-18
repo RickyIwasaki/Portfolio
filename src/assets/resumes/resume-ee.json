@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki ye nye esia",
+  "title": "Kɔmpiutadziɖoɖowo Ŋuti Mɔ̃ɖaŋudɔwɔla",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Kɔmpiutadziɖoɖowo Dɔwɔla bibi aɖe, si le mɔnukpɔkpɔ yeye dim be yeawɔ dɔ na dɔ gãwo. Etsɔ ɖe le kɔpi wɔwɔ alo etsɔtsɔ kpe ɖe eŋu me be ame bubuwo nazã. Mexɔe se be nye aɖaŋuwo le sue ne wotsɔe sɔ kple internet, eyata metsɔ ɖe le dɔwɔwɔ kple dɔwɔnu bubuwo, dɔwɔnawo, ɖoɖowɔɖi gbegbɔgblɔwo me ŋutɔ.",
+  "education": [
+    {
+      "degree": "Kɔmpiutadziɖoɖowo Ŋuti Ðaseɖigbalẽ",
+      "school": "Springboard ƒe Bootcamp",
+      "dates": "Ƒe 2022 - Ƒe 2023"
+    },
+    {
+      "school": "California Dukɔa ƒe Yunivɛsiti si le Fullerton",
+      "location": "Fullerton, si le California, U.S.A",
+      "dates": "Ƒe 2021 - Ƒe 2022"
+    },
+    {
+      "degree": "Sekɛndrisuku ƒe Diploma",
+      "school": "Woodbridge Sekɛndrisuku",
+      "location": "Irvine, California, U.S.A",
+      "dates": "Ƒe 2016 - Ƒe 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Kɔmpiutadziɖoɖowo Ŋuti Mɔ̃ɖaŋudɔwɔla",
+      "company": "MS-ZONE LLC ƒe dɔwɔƒe.",
+      "location": "Irvine, California, U.S.A",
+      "dates": "Ƒe 2023 - 2024 ƒe ɣleti",
+      "responsibilities": [
+        "Wotrɔ asi le web dɔwɔɖoɖo siwo woate ŋu atrɔ asi le ŋu eye wowɔ wo ŋudɔ to React kple Node.js zazã me",
+        "Wowɔ dɔ aduadu kple adzɔnuwo dzikpɔlawo be woatrɔ asi le nudidiwo ŋu eye woakpɔ egbɔ be woɖo wo ɖe game dzi",
+        "Wowɔ RESTful APIwo na web dɔwɔɖoɖowo eye wolé be na wo",
+        "Woto ŋɔŋlɔdzesiwo vɛ be woatsɔ awɔ dɔwo le wo ɖokui si eye woana dɔwɔwɔ nanyo ɖe edzi"
+      ]
+    },
+    {
+      "title": "Tennis-ƒoƒo ƒe Hehenala ƒe Kpeɖeŋutɔ",
+      "company": "Irvine Dugã me",
+      "location": "Irvine, California, U.S.A",
+      "dates": "Ƒe 2014 - Ƒe 2019",
+      "responsibilities": [
+        "Tennis-ƒoƒo ƒe aɖaŋuwo fiafia le ƒuƒoƒo me si me fefewɔla 5-10 le",
+        "Nusɔsrɔ̃a wɔwɔ wòanye modzakaɖeɖe kple modzakaɖeɖe na fefewɔlawo",
+        "Agbanɔamedzi le fefewɔla siwo le bɔlƒoƒea ƒe dedienɔnɔ ŋu, vevietɔ fefewɔla suewo kple tsitsitɔwo, abe ƒe 3 viwo kple ƒe 60 viwo ene"
+      ]
+    },
+    {
+      "title": "Dɔwɔhati si doa go",
+      "company": "Amazon ƒe Nu yeye",
+      "location": "Irvine, California, U.S.A",
+      "dates": "Ƒe 2024 - Ƒe 2024",
+      "responsibilities": [
+        "Nu siwo le agbalẽdzraɖoƒea gbugbɔgadzra ɖo",
+        "Nudɔdɔwo tiatia na asisi siwo le Internet dzi",
+        "Nudɔdɔwo babla hena wo ɖoɖo ɖe wo",
+        "Nudɔdɔwo tsɔtsɔ de agbatsɔʋu siwo tsɔa nudɔdɔwo yinae me",
+        "Kpekpe ɖe asisiwo ŋu woakpɔ nu le fiasea me",
+        "Nudzraɖoƒea dzi kpɔkpɔ le dzadzɛ eye wòanɔ ɖoɖo nu",
+        "Dedienɔnɔ kple xɔlɔ̃wɔwɔ ƒe nɔnɔme me léle ɖe asi na asisiwo kple dɔwɔlawo"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript ƒe nyawo",
+      "Ŋɔŋlɔdzesi Ŋlɔ",
+      "Python ƒe nɔnɔmetata",
+      "Java",
+      "C++",
+      "SQL ƒe dɔwɔwɔ"
+    ],
+    "frameworks": [
+      "Wɔ nu ɖe eŋu",
+      "Node.js ƒe ƒuƒoƒo",
+      "Ɖe eme",
+      "Django ƒe ŋkɔ",
+      "JQuery ƒe nyawo"
+    ],
+    "tools": [
+      "Git",
+      "Docker ƒe amegã",
+      "AWS",
+      "Jenkins ƒe nyawo",
+      "Google ƒe Alilikpo me Dɔwɔƒe"
+    ],
+    "databases": [
+      "PostgreSQL megbe",
+      "NyeSQL ƒe nyawo",
+      "Cassandra ƒe ŋkɔ"
+    ]
+  },
+  "languages": [
+    {
+      "name": "iŋlisi",
+      "proficiency": "Dumetᴐ"
+    },
+    {
+      "name": "Japangbe me tɔ",
+      "proficiency": "Dumetᴐ"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Dɔwɔƒe si Kpɔa Dɔwɔnyawo Gbɔ",
+      "description": "Nyatakakadzraɖoƒe si ɖoa nya ŋu si ɖea dɔwo kple aɖaŋuwo fiana to egbegbe nyatakakadzraɖoƒe mɔ̃ɖaŋununya zazã me",
+      "technologies": [
+        "Wɔ nu ɖe eŋu",
+        "CSS3",
+        "Aɖaŋu si Wowɔna Ðe Nu Ŋu"
+      ]
+    }
+  ]
+}

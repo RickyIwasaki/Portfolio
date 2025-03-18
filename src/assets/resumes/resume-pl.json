@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Inżynier oprogramowania",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Doświadczony programista oprogramowania, poszukujący nowej możliwości pracy nad dużymi projektami. Zainteresowany tworzeniem lub dodawaniem kodu do użytku innych. Uważam, że moje umiejętności są niewielkie w porównaniu z internetem, więc bardzo interesuje mnie praca z innymi narzędziami, usługami, językami programowania.",
+  "education": [
+    {
+      "degree": "Certyfikat inżynierii oprogramowania",
+      "school": "Obóz szkoleniowy Springboard",
+      "dates": "2022-2023"
+    },
+    {
+      "school": "Kalifornijski Uniwersytet Stanowy w Fullerton",
+      "location": "Fullerton, Kalifornia, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Dyplom ukończenia szkoły średniej",
+      "school": "Szkoła średnia Woodbridge",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2016-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Inżynier oprogramowania",
+      "company": "MS-ZONE Sp. z o.o.",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2023-2024",
+      "responsibilities": [
+        "Opracowywałem i wdrażałem skalowalne aplikacje internetowe przy użyciu React i Node.js",
+        "Współpraca z kierownikami ds. produktów w celu dopracowania wymagań i zapewnienia terminowej dostawy",
+        "Opracowywanie i utrzymywanie interfejsów API RESTful dla aplikacji internetowych",
+        "Opracowano skrypty automatyzujące zadania i zwiększające wydajność"
+      ]
+    },
+    {
+      "title": "Asystent trenera tenisa",
+      "company": "Miasto Irvine",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2014-2019",
+      "responsibilities": [
+        "Nauczanie techniki gry w tenisa w grupie 5-10 graczy",
+        "Uczynienie lekcji przyjemną i angażującą dla graczy",
+        "Odpowiedzialny za bezpieczeństwo graczy na boisku, zwłaszcza młodszych i starszych, np. 3-latków i 60-latków."
+      ]
+    },
+    {
+      "title": "Współpracownik ds. wyjazdów",
+      "company": "Świeże z Amazonii",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2024-2024",
+      "responsibilities": [
+        "Uzupełnianie towarów na półce",
+        "Kompletowanie zamówień dla klientów online",
+        "Pakowanie zamówień do wysyłki",
+        "Załadunek zamówień na ciężarówki dostawcze",
+        "Pomaganie klientom w znajdowaniu przedmiotów w sklepie",
+        "Utrzymywanie magazynu w czystości i porządku",
+        "Utrzymywanie bezpiecznego i przyjaznego środowiska dla klientów i pracowników"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Maszynopis",
+      "Pyton",
+      "Jawa",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Zareagować",
+      "Node.js",
+      "Wyrazić",
+      "Django",
+      "jQuery"
+    ],
+    "tools": [
+      "Git",
+      "Doker",
+      "AWS",
+      "Jenkins",
+      "Platforma Google Cloud"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Baza danych MySQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "angielski",
+      "proficiency": "Rodzinny"
+    },
+    {
+      "name": "japoński",
+      "proficiency": "Rodzinny"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Teczka",
+      "description": "Responsywna strona internetowa prezentująca projekty i umiejętności wykorzystujące nowoczesne technologie internetowe",
+      "technologies": [
+        "Zareagować",
+        "CSS3",
+        "Projekt responsywny"
+      ]
+    }
+  ]
+}

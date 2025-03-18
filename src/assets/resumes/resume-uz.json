@@ -1,0 +1,121 @@
+{
+  "name": "Rikki Ivasaki",
+  "title": "Dasturiy ta'minot muhandisi",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Tajribali dasturiy ta'minot ishlab chiqaruvchisi, yirik loyihalarda ishlash uchun yangi imkoniyat qidirmoqda. Boshqalar foydalanishi uchun kod yaratish yoki qo'shishga qiziqasiz. Men o'zimning ko'nikmalarim internetga nisbatan kichikligiga ishonaman, shuning uchun men boshqa vositalar, xizmatlar, dasturlash tillari bilan ishlashga juda qiziqaman.",
+  "education": [
+    {
+      "degree": "Dasturiy ta'minot muhandisligi sertifikati",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023 yillar"
+    },
+    {
+      "school": "Fullerton Kaliforniya shtati universiteti",
+      "location": "Fullerton, Kaliforniya, Amerika Qoʻshma Shtatlari",
+      "dates": "2021 - 2022 yillar"
+    },
+    {
+      "degree": "O'rta maktab diplomi",
+      "school": "Woodbridge o'rta maktabi",
+      "location": "Irvine, Kaliforniya, Amerika Qoʻshma Shtatlari",
+      "dates": "2016 - 2021 yillar"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Dasturiy ta'minot muhandisi",
+      "company": "MS-ZONE MChJ.",
+      "location": "Irvine, Kaliforniya, Amerika Qoʻshma Shtatlari",
+      "dates": "2023 - 2024 yillar",
+      "responsibilities": [
+        "React va Node.js yordamida kengaytiriladigan veb-ilovalar arxitekturasi va amalga oshirildi",
+        "Talablarni aniqlashtirish va o'z vaqtida yetkazib berishni ta'minlash uchun mahsulot menejerlari bilan hamkorlik qildi",
+        "Veb-ilovalar uchun RESTful API-larni ishlab chiqdi va qo'llab-quvvatladi",
+        "Vazifalarni avtomatlashtirish va samaradorlikni oshirish uchun skriptlar ishlab chiqilgan"
+      ]
+    },
+    {
+      "title": "Tennis bo'yicha murabbiy yordamchisi",
+      "company": "Irvine shahri",
+      "location": "Irvine, Kaliforniya, Amerika Qoʻshma Shtatlari",
+      "dates": "2014 - 2019 yillar",
+      "responsibilities": [
+        "5-10 o'yinchidan iborat guruhda tennis texnikasini o'rgatish",
+        "Darsni o'yinchilar uchun qiziqarli va qiziqarli qilish",
+        "Maydondagi o'yinchilarning, ayniqsa 3 yoshli va 60 yoshli yosh va katta o'yinchilarning xavfsizligi uchun javobgardir."
+      ]
+    },
+    {
+      "title": "Chiqish Assotsiatsiyasi",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kaliforniya, Amerika Qoʻshma Shtatlari",
+      "dates": "2024 - 2024 yillar",
+      "responsibilities": [
+        "Rafdagi narsalarni qayta tiklash",
+        "Onlayn mijozlar uchun buyurtmalarni tanlash",
+        "Yuk tashish uchun buyurtmalarni qadoqlash",
+        "Buyurtmalarni yuk mashinalariga yuklash",
+        "Mijozlarga do'kondagi narsalarni topishga yordam berish",
+        "Omborni toza va tartibli saqlash",
+        "Mijozlar va xodimlar uchun xavfsiz va do'stona muhitni saqlash"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reaksiya qilish",
+      "Node.js",
+      "Ekspress",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google bulutli platformasi"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Ingliz",
+      "proficiency": "Mahalliy"
+    },
+    {
+      "name": "yapon",
+      "proficiency": "Mahalliy"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfel",
+      "description": "Zamonaviy veb-texnologiyalardan foydalangan holda loyihalar va ko'nikmalarni namoyish qiluvchi sezgir veb-sayt",
+      "technologies": [
+        "Reaksiya qilish",
+        "CSS3",
+        "Javob beruvchi dizayn"
+      ]
+    }
+  ]
+}

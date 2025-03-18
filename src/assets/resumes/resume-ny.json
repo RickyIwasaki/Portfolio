@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Wopanga Mapulogalamu",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Wopanga Mapulogalamu Odziwa zambiri, kufunafuna mwayi watsopano wogwira ntchito zazikulu. Ndimakonda kupanga kapena kuwonjezera ma code kuti ena agwiritse ntchito. Ndikukhulupirira kuti luso langa ndi laling'ono poyerekeza ndi intaneti, kotero ndimakonda kwambiri kugwira ntchito ndi zida zina, mautumiki, zilankhulo za mapulogalamu.",
+  "education": [
+    {
+      "degree": "Satifiketi Yopanga Mapulogalamu",
+      "school": "Springboard Bootcamp",
+      "dates": "2022-2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021-2022"
+    },
+    {
+      "degree": "Diploma ya Sekondale",
+      "school": "Woodbridge High School",
+      "location": "Irvine, California, USA",
+      "dates": "2016-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Wopanga Mapulogalamu",
+      "company": "Malingaliro a kampani MS-ZONE LLC",
+      "location": "Irvine, California, USA",
+      "dates": "2023-2024",
+      "responsibilities": [
+        "Anapanga ndikugwiritsa ntchito mawebusayiti owopsa pogwiritsa ntchito React ndi Node.js",
+        "Kuthandizana ndi oyang'anira malonda kuti akonzenso zofunikira ndikuwonetsetsa kutumizidwa munthawi yake",
+        "Anapanga ndi kusungidwa RESTful APIs pa intaneti",
+        "Ma script adapanga kuti azisintha ntchito ndikuwongolera bwino"
+      ]
+    },
+    {
+      "title": "Mphunzitsi Wothandizira Tennis",
+      "company": "Mzinda wa Irvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014-2019",
+      "responsibilities": [
+        "Kuphunzitsa njira za tennis pagulu la osewera 5-10",
+        "Kupangitsa phunziro kukhala losangalatsa komanso losangalatsa kwa osewera",
+        "Ndiwoyang'anira chitetezo cha osewera pabwalo, makamaka osewera achichepere ndi akulu, monga azaka za 3 ndi zaka 60."
+      ]
+    },
+    {
+      "title": "Wothandizira Wotuluka",
+      "company": "Amazon Mwatsopano",
+      "location": "Irvine, California, USA",
+      "dates": "2024-2024",
+      "responsibilities": [
+        "Kusintha zinthu pa alumali",
+        "Kusankha maoda a makasitomala pa intaneti",
+        "Kuyika maoda otumizira",
+        "Kuyika maoda pamagalimoto otumizira",
+        "Kuthandiza makasitomala kupeza zinthu m'sitolo",
+        "Kusunga nyumba yosungiramo zinthu mwaukhondo ndi mwadongosolo",
+        "Kusunga malo otetezeka komanso ochezeka kwa makasitomala ndi antchito"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Yankhani",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Chingerezi",
+      "proficiency": "Mbadwa"
+    },
+    {
+      "name": "Chijapani",
+      "proficiency": "Mbadwa"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mbiri",
+      "description": "Webusayiti yoyankha yowonetsa ma projekiti ndi luso pogwiritsa ntchito matekinoloje amakono apawebusayiti",
+      "technologies": [
+        "Yankhani",
+        "Chithunzi cha CSS3",
+        "Mapangidwe Omvera"
+      ]
+    }
+  ]
+}

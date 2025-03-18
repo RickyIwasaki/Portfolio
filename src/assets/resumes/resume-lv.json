@@ -1,0 +1,121 @@
+{
+  "name": "Rikijs Ivasaki",
+  "title": "Programmatūras inženieris",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Pieredzējis programmatūras izstrādātājs, kas meklē jaunu iespēju strādāt lielos projektos. Interesē izveidot vai pievienot kodu, ko izmantot citi. Uzskatu, ka manas prasmes ir mazas salīdzinājumā ar internetu, tāpēc esmu ļoti ieinteresēts strādāt ar citiem rīkiem, pakalpojumiem, programmēšanas valodām.",
+  "education": [
+    {
+      "degree": "Programmatūras inženiera sertifikāts",
+      "school": "Tramplīna Bootcamp",
+      "dates": "2022.–2023. gads"
+    },
+    {
+      "school": "Kalifornijas štata Fullertonas universitāte",
+      "location": "Fullertona, Kalifornija, ASV",
+      "dates": "2021.–2022. gads"
+    },
+    {
+      "degree": "Vidusskolas diploms",
+      "school": "Vudbridžas vidusskola",
+      "location": "Ērvina, Kalifornija, ASV",
+      "dates": "2016.–2021. gads"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Programmatūras inženieris",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornija, ASV",
+      "dates": "2023.–2024. gads",
+      "responsibilities": [
+        "Arhitektētas un ieviestas mērogojamās tīmekļa lietojumprogrammas, izmantojot React un Node.js",
+        "Sadarbojies ar produktu menedžeriem, lai precizētu prasības un nodrošinātu savlaicīgu piegādi",
+        "Izstrādātas un uzturētas RESTful API tīmekļa lietojumprogrammām",
+        "Izstrādāti skripti, lai automatizētu uzdevumus un uzlabotu efektivitāti"
+      ]
+    },
+    {
+      "title": "Tenisa trenera palīgs",
+      "company": "Ērvinas pilsēta",
+      "location": "Irvine, Kalifornija, ASV",
+      "dates": "2014. - 2019. gads",
+      "responsibilities": [
+        "Tenisa tehnikas mācīšana 5-10 spēlētāju grupā",
+        "Padarot nodarbību jautru un aizraujošu spēlētājiem",
+        "Atbildīgs par spēlētāju drošību laukumā, jo īpaši par jaunākiem un vecākiem spēlētājiem, piemēram, 3 gadus veciem un 60 gadus veciem spēlētājiem"
+      ]
+    },
+    {
+      "title": "Izejošais partneris",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornija, ASV",
+      "dates": "2024.–2024. gads",
+      "responsibilities": [
+        "Preču krājumu papildināšana plauktā",
+        "Pasūtījumu atlase tiešsaistes klientiem",
+        "Pasūtījumu iepakošana nosūtīšanai",
+        "Pasūtījumu iekraušana piegādes mašīnās",
+        "Palīdziet klientiem atrast preces veikalā",
+        "Tīras un sakārtotas noliktavas uzturēšana",
+        "Drošas un draudzīgas vides uzturēšana klientiem un darbiniekiem"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reaģēt",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Dženkinss",
+      "Google mākoņa platforma"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "angļu valoda",
+      "proficiency": "Dzimtā"
+    },
+    {
+      "name": "japāņi",
+      "proficiency": "Dzimtā"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfelis",
+      "description": "Responsīva vietne, kas demonstrē projektus un prasmes, izmantojot modernas tīmekļa tehnoloģijas",
+      "technologies": [
+        "Reaģēt",
+        "CSS3",
+        "Responsive Design"
+      ]
+    }
+  ]
+}

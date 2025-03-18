@@ -1,0 +1,121 @@
+{
+  "name": "U-Ricky Iwasaki",
+  "title": "Unjiniyela wesofthiwe",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Umthuthukisi wesofthiwe onelwazi, ofuna ithuba elitjha lokusebenzela amaphrojekthi amakhulu. Nginentshisekelo yokwenza nofana ukungezelela ikhodi ukuze abanye bayisebenzise. Ngikholelwa bona amakghono wami mancani nayiqathaniswa ne-inthanethi, njeke nginentshisekelo yokusebenza namanye amathulusi, imisebenzi, amalimi wokuhlela.",
+  "education": [
+    {
+      "degree": "Isitifiketi sobunjiniyela be-software",
+      "school": "I-Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "I-California State University of Fullerton",
+      "location": "Fullerton, e-California, e-USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Idiploma yesikolo samabanga aphezulu",
+      "school": "I-Woodbridge High School",
+      "location": "Irvine, e-California, e-USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Unjiniyela wesofthiwe",
+      "company": "I-MS-ZONE LLC.",
+      "location": "Irvine, e-California, e-USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Yakha begodu yasebenzisa iinsetjenziswa zewebhu ezilinganisekako ngokusebenzisa i-React ne-Node.js",
+        "Sisebenzisane nabaphathi bomkhiqizo ukulungisa iimfuneko nokuqinisekisa ukulethwa ngesikhathi",
+        "Yathuthukisa begodu yagcina ama-API we-RESTful weensetjenziswa zewebhu",
+        "Yakha imitlolo yokwenza imisebenzi izenzekelayo nokwenza ngcono ukusebenza kuhle"
+      ]
+    },
+    {
+      "title": "Umsizi womqeqetshi wethenisi",
+      "company": "Idorobha le-Irvine",
+      "location": "Irvine, e-California, e-USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Ukufundisa amaqhinga wethenisi ngaphakathi kweqembu labadlali abangu-5-10",
+        "Ukwenza isifundo sibe mnandi begodu sithabise abadlali",
+        "Unomthwalo wokuphepha kwabadlali enkundleni, khulukhulu abadlali abasesebatjha nabadala, njengabaneminyaka emi-3 nabaneminyaka ema-60"
+      ]
+    },
+    {
+      "title": "Umlingani ophumako",
+      "company": "I-Amazon Fresh",
+      "location": "Irvine, e-California, e-USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Ukubuyisela izinto etjhelfini",
+        "Ukukhetha ama-oda wamakhasimende we-inthanethi",
+        "Ukupakisha ama-oda ukuze athunyelwe",
+        "Ukulayisha ama-oda emalolini wokuthutha",
+        "Ukusiza amakhasimende bona athole izinto esitolo",
+        "Ukugcina indawo yokugcina ipahla ihlanzekile begodu ihlelekile",
+        "Ukugcina indawo ephephileko nenobungani yamakhasimende nabasebenzi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "I-JavaScript",
+      "I-TypeScript",
+      "I-Python",
+      "I-Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Phendula",
+      "I-Node.js",
+      "Veza",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "I-Docker",
+      "I-AWS",
+      "Jenkins",
+      "Iplatifomu ye-Google Cloud"
+    ],
+    "databases": [
+      "I-PostgreSQL",
+      "I-MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "isiNgisi",
+      "proficiency": "Wendabuko"
+    },
+    {
+      "name": "isiJapan",
+      "proficiency": "Wendabuko"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Iphothifoliyo",
+      "description": "Iwebhusayithi ephendulako etjengisa amaphrojekthi namakghono ngokusebenzisa ithekhnoloji yesimanjemanje yewebhu",
+      "technologies": [
+        "Phendula",
+        "I-CSS3",
+        "Idizayini ephendulako"
+      ]
+    }
+  ]
+}

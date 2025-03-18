@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Programinės įrangos inžinierius",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Patyręs programinės įrangos kūrėjas, ieškantis naujų galimybių dirbti su dideliais projektais. Norite sukurti arba pridėti kodą, kurį galėtų naudoti kiti. Tikiu, kad mano įgūdžiai yra menki lyginant su internetu, todėl man labai įdomu dirbti su kitais įrankiais, paslaugomis, programavimo kalbomis.",
+  "education": [
+    {
+      "degree": "Programinės įrangos inžinerijos sertifikatas",
+      "school": "Tramplino Bootcamp",
+      "dates": "2022–2023 m"
+    },
+    {
+      "school": "Kalifornijos valstijos Fullertono universitetas",
+      "location": "Fullertonas, Kalifornija, JAV",
+      "dates": "2021–2022 m"
+    },
+    {
+      "degree": "Vidurinės mokyklos diplomas",
+      "school": "Woodbridge vidurinė mokykla",
+      "location": "Irvine, Kalifornijoje, JAV",
+      "dates": "2016–2021 m"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Programinės įrangos inžinierius",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornijoje, JAV",
+      "dates": "2023–2024 m",
+      "responsibilities": [
+        "Sukūrė ir įdiegė keičiamo dydžio žiniatinklio programas naudojant React ir Node.js",
+        "Bendradarbiavo su produktų vadybininkais, kad patikslintų reikalavimus ir užtikrintų pristatymą laiku",
+        "Sukurtos ir prižiūrimos RESTful API žiniatinklio programoms",
+        "Sukurti scenarijai, skirti automatizuoti užduotis ir pagerinti efektyvumą"
+      ]
+    },
+    {
+      "title": "Teniso trenerio asistentas",
+      "company": "Irvino miestas",
+      "location": "Irvine, Kalifornijoje, JAV",
+      "dates": "2014 - 2019 m",
+      "responsibilities": [
+        "Teniso technikų mokymas 5-10 žaidėjų grupėje",
+        "Kad pamoka būtų linksma ir įdomi žaidėjams",
+        "Atsakingas už žaidėjų saugumą aikštėje, ypač jaunesnių ir vyresnių žaidėjų, pavyzdžiui, 3 metų ir 60 metų"
+      ]
+    },
+    {
+      "title": "Išvykstamasis partneris",
+      "company": "„Amazon Fresh“.",
+      "location": "Irvine, Kalifornijoje, JAV",
+      "dates": "2024–2024 m",
+      "responsibilities": [
+        "Prekių papildymas lentynoje",
+        "Užsakymų rinkimas klientams internetu",
+        "Pakavimo užsakymai siuntimui",
+        "Užsakymų pakrovimas į pristatymo sunkvežimius",
+        "Padėti klientams surasti prekes parduotuvėje",
+        "Sandėlio švaros ir tvarkos palaikymas",
+        "Užtikrinti saugią ir draugišką aplinką klientams ir darbuotojams"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reaguoti",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Dokeris",
+      "AWS",
+      "Jenkinsas",
+      "„Google“ debesies platforma"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "anglų kalba",
+      "proficiency": "Gimtoji"
+    },
+    {
+      "name": "japonų",
+      "proficiency": "Gimtoji"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Interaktyvi svetainė, kurioje pristatomi projektai ir įgūdžiai naudojant šiuolaikines žiniatinklio technologijas",
+      "technologies": [
+        "Reaguoti",
+        "CSS3",
+        "Reaktyvus dizainas"
+      ]
+    }
+  ]
+}

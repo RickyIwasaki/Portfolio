@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Pangembang Piranti Lunak Berpengalaman, golek kesempatan anyar kanggo nggarap proyek gedhe. Kasengsem nggawe utawa nambah kode kanggo digunakake dening wong liya. Aku yakin katrampilanku cilik dibandhingake karo internet, mula aku kepengin banget nggarap alat, layanan, basa pamrograman liyane.",
+  "education": [
+    {
+      "degree": "Sertifikat Rekayasa Perangkat Lunak",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, California, Amérika Sarékat",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma SMA",
+      "school": "Sekolah Menengah Woodbridge",
+      "location": "Irvine, California, Amérika Sarékat",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, Amérika Sarékat",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arsitèktur lan dileksanakake aplikasi web skalabel nggunakake React lan Node.js",
+        "Kolaborasi karo manajer produk kanggo nyaring syarat lan njamin pangiriman pas wektune",
+        "Ngembangake lan njaga API RESTful kanggo aplikasi web",
+        "Skrip sing dikembangake kanggo ngotomatisasi tugas lan nambah efisiensi"
+      ]
+    },
+    {
+      "title": "Asisten Pelatih Tenis",
+      "company": "Kutha Irvine",
+      "location": "Irvine, California, Amérika Sarékat",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Ajar teknik tenis ing setelan klompok 5-10 pemain",
+        "Nggawe pelajaran sing nyenengake lan nyenengake para pemain",
+        "Tanggung jawab kanggo safety para pemain ing lapangan, utamane pemain sing luwih enom lan luwih tuwa, kayata 3 taun lan 60 taun."
+      ]
+    },
+    {
+      "title": "Mitra Outbound",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, Amérika Sarékat",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking item ing beting",
+        "Milih pesenan kanggo pelanggan online",
+        "Packing pesenan kanggo pengiriman",
+        "Muat pesenan menyang truk pangiriman",
+        "Ngewangi pelanggan nemokake barang ing toko",
+        "Njaga gudang resik lan diatur",
+        "Njaga lingkungan sing aman lan ramah kanggo para pelanggan lan karyawan"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Jawa",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reaksi",
+      "Node.js",
+      "Ekspres",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Inggris",
+      "proficiency": "pribumi"
+    },
+    {
+      "name": "Jepang",
+      "proficiency": "pribumi"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portofolio",
+      "description": "Situs web responsif sing nuduhake proyek lan katrampilan nggunakake teknologi web modern",
+      "technologies": [
+        "Reaksi",
+        "CSS3",
+        "Desain Responsif"
+      ]
+    }
+  ]
+}

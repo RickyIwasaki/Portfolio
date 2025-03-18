@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Insinyur software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Pamekar Parangkat Lunak Berpengalaman, milarian kasempetan énggal pikeun damel pikeun proyék-proyék ageung. Kabetot dina nyieun atawa nambahkeun kode pikeun batur ngagunakeun. Kuring yakin kaahlian abdi leutik dibandingkeun internét, jadi kuring resep pisan gawé bareng alat sejen, jasa, basa programming.",
+  "education": [
+    {
+      "degree": "Sertipikat Téknik Software",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, Kalipornia, Amérika Sarikat",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma SMA",
+      "school": "Sakola Luhur Woodbridge",
+      "location": "Irvine, Kalipornia, Amérika Sarikat",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Insinyur software",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalipornia, Amérika Sarikat",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arsiték sarta dilaksanakeun aplikasi wéb scalable maké React na Node.js",
+        "Kolaborasi sareng manajer produk pikeun nyaring syarat sareng mastikeun pangiriman tepat waktu",
+        "Dimekarkeun sareng dijaga API RESTful pikeun aplikasi wéb",
+        "Skrip dikembangkeun pikeun ngajadikeun otomatis tugas sareng ningkatkeun efisiensi"
+      ]
+    },
+    {
+      "title": "Asisten Palatih Ténis",
+      "company": "Kota Irvine",
+      "location": "Irvine, Kalipornia, Amérika Sarikat",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Ngajarkeun téknik ténis dina setting kelompok 5-10 pamaén",
+        "Nyieun palajaran senang jeung intertaining pikeun pamaén",
+        "Tanggung jawab pikeun kasalametan pamaén di lapangan, khususna pamaén ngora sareng sepuh, sapertos 3 taun sareng 60 taun."
+      ]
+    },
+    {
+      "title": "Mitra Outbound",
+      "company": "Amazon seger",
+      "location": "Irvine, Kalipornia, Amérika Sarikat",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking barang dina rak",
+        "Nyokot pesenan pikeun konsumén online",
+        "Bungkusan pesenan pikeun pengiriman barang",
+        "Ngamuat pesenan kana treuk pangiriman",
+        "Ngabantosan para nasabah mendakan barang-barang di toko",
+        "Ngajaga gudang beresih jeung diatur",
+        "Ngajaga lingkungan anu aman sareng ramah pikeun para nasabah sareng karyawan"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Jawa",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Réaksi",
+      "Node.js",
+      "Nganyatakeun",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Inggris",
+      "proficiency": "pribumi"
+    },
+    {
+      "name": "Basa Jepang",
+      "proficiency": "pribumi"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portopolio",
+      "description": "Situs wéb responsif anu nunjukkeun proyék sareng kaahlian nganggo téknologi wéb modern",
+      "technologies": [
+        "Réaksi",
+        "CSS3",
+        "Desain responsif"
+      ]
+    }
+  ]
+}

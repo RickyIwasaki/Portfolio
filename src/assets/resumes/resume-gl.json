@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Enxeñeiro de software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Un programador de software experimentado, que busca novas oportunidades para traballar para grandes proxectos. Interesado en crear ou engadir código para que outros poidan usar. Creo que as miñas habilidades son pequenas en comparación con internet, polo que estou moi interesado en traballar con outras ferramentas, servizos e linguaxes de programación.",
+  "education": [
+    {
+      "degree": "Certificado de Enxeñaría de Software",
+      "school": "Bootcamp de Springboard",
+      "dates": "2022-2023"
+    },
+    {
+      "school": "Universidade Estatal de California de Fullerton",
+      "location": "Fullerton, California, EUA",
+      "dates": "2021-2022"
+    },
+    {
+      "degree": "Diploma de Bacharelato",
+      "school": "Woodbridge High School",
+      "location": "Irvine, California, EUA",
+      "dates": "2016-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Enxeñeiro de software",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, EUA",
+      "dates": "2023-2024",
+      "responsibilities": [
+        "Arquitectou e implementou aplicacións web escalables usando React e Node.js",
+        "Colaborou cos xestores de produtos para mellorar os requisitos e garantir a entrega oportuna",
+        "Desenvolveuse e mantiña API RESTful para aplicacións web",
+        "Desenvolveuse scripts para automatizar tarefas e mellorar a eficiencia"
+      ]
+    },
+    {
+      "title": "Adestrador asistente de tenis",
+      "company": "Cidade de Irvine",
+      "location": "Irvine, California, EUA",
+      "dates": "2014-2019",
+      "responsibilities": [
+        "Ensinar técnicas de tenis nun grupo de 5-10 xogadores",
+        "Facendo que a lección sexa divertida e entretida para os xogadores",
+        "Responsable da seguridade dos xogadores na pista, especialmente dos xogadores máis novos e maiores, como os de 3 anos e os de 60 anos."
+      ]
+    },
+    {
+      "title": "Asociado de saída",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, EUA",
+      "dates": "2024-2024",
+      "responsibilities": [
+        "Reposición de artigos na estantería",
+        "Recollendo pedidos para clientes en liña",
+        "Pedidos de embalaxe para envío",
+        "Carga de pedidos nos camións de reparto",
+        "Axudar aos clientes a atopar artigos na tenda",
+        "Manter o almacén limpo e organizado",
+        "Manter un ambiente seguro e amigable para os clientes e empregados"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Xava",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reacciona",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "inglés",
+      "proficiency": "Nativo"
+    },
+    {
+      "name": "xaponés",
+      "proficiency": "Nativo"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Carteira",
+      "description": "Un sitio web responsive que mostra proxectos e habilidades utilizando tecnoloxías web modernas",
+      "technologies": [
+        "Reacciona",
+        "CSS3",
+        "Deseño Responsive"
+      ]
+    }
+  ]
+}

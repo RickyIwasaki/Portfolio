@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software-ingenieur",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "‘n Ervare software-ontwikkeleer, op zeuk nao nuie meugelikhede um veur groete projekte te wèrke. Geïnteresseerd in ‘t make of toevoege vaan code veur aandere um te gebruke. Ich geluif dat mien vaardighede klein zien in vergelieking mit ‘t internet, dus ich bin erg geïnteresseerd in ‘t wèrke mit aandere gereidsjappe, deenste, programmeertaole.",
+  "education": [
+    {
+      "degree": "Software Engineering Certificaat",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, Californië, VS",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Middelbare sjaoldiploma",
+      "school": "Woodbridge High School",
+      "location": "Irvine, Californië, VS",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software-ingenieur",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Californië, VS",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Sjaolbare webtoepassinge gebouwd en geïmplementeerd mit behulp vaan React en Node.js",
+        "Heet samegewèrk mit productmanagers um vereiste te verfijne en tiedelijke levering te verzekere",
+        "RESTful API’s veur webtoepassinge óntwikkeld en oonderhawwe",
+        "Scripts óntwikkeld um take te automatisere en de efficiëntie te verbaetere"
+      ]
+    },
+    {
+      "title": "Assistent Tenniscoach",
+      "company": "Stad Irvine",
+      "location": "Irvine, Californië, VS",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Tennistechnieke liere in un groeps vaan 5-10 speulers",
+        "De les leuk en interessant make veur de speulers",
+        "Verantweurdelek veur de veiligheid vaan de speulers op ‘t veld, veural de jongere en awwer speulers, wie 3-jaorege en 60-jaorege"
+      ]
+    },
+    {
+      "title": "Outbound Associate",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Californië, VS",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Artikels op de plank weer bewaore",
+        "Bestellinge kieze veur online klante",
+        "Bestellinge verpakke veur verzending",
+        "Bestellinge laden op de bezörgingstrucks",
+        "Klante helpe um producte in de winkel te vinde",
+        "‘t magazijn schoon en georganiseerd hawwe",
+        "‘t Behawwe vaan ‘n veilige en vriendeleke umgeving veur de klante en werknemers"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reage",
+      "Node.js",
+      "Oetdrukke",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Ingelsj",
+      "proficiency": "Oorsjpronkelik"
+    },
+    {
+      "name": "Japans",
+      "proficiency": "Oorsjpronkelik"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "‘n Responsieve website die projekte en vaardighede toent mit behulp vaan moderne webtechnologieje",
+      "technologies": [
+        "Reage",
+        "CSS3",
+        "Responsief ontwerp"
+      ]
+    }
+  ]
+}

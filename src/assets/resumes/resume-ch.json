@@ -1,0 +1,121 @@
+{
+  "name": "Si Ricky Iwasaki",
+  "title": "Inhenyeron Softwer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Un Eksperiensiåo na Software Developer, ya ha li'e' nuebu na opottunidåt para u cho'gue i dangkolo na prohektos siha. Malago' yu' hu fa'tinas pat hu addåpta i kodu para u ma'usa ni' otro taotao siha. Hu ålok na dikike' i tiningo'-hu ki i internet, pues malago' yu' chumo'gue otro na åmot siha, setbisio siha, yan lengguåhi siha put prugråma.",
+  "education": [
+    {
+      "degree": "Settipikat Inhenyero Softwer",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Unibetsedåt Fullerton giya California",
+      "location": "Fullerton, California, Estådos Unidos",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploman Eskuelan Takhilo'",
+      "school": "Eskuelan Takhilo' Woodbridge",
+      "location": "Irvine, California, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Inhenyeron Softwer",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Ha fa'tinas yan ha implementa i aplikasion siha gi i internet ni' siña ma'adelanta gi i React yan Node.js",
+        "Manma'ayuda ham yan i manehanten prudukto siha para in na'maolek i nisisidåt siha yan para in na'siguru na ma entrega gi tiempo",
+        "Ma fa'tinas yan ma na'siguru na guaha RESTful APIs para i aplikasion siha gi i web",
+        "Ma fa'tinas script siha para u ma na'automatiku i che'cho' siha yan u ma na'maolek i kinalamten"
+      ]
+    },
+    {
+      "title": "Asistente na Manma'estran Tennis",
+      "company": "Siudat Irvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Manma'estudiåyi i maneran tennis gi un gurupu ni' 5-10 na atmas",
+        "Ha na'magof yan na'magof i leksion para i manmalago'",
+        "Responsåpble para i inañadi i atmas siha gi i kanton tåsi, espesiåtmente i manhoben yan i manåmko' na atmas siha, taiguihi i tres años yan 60 años"
+      ]
+    },
+    {
+      "title": "Outbound Associate",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Manma'ayek i kosas siha gi i estanten",
+        "Manma'ayek i manma'titinas para i kustombren-ñiha gi i internet",
+        "Ma'a'atan i otden siha para u ma'apåsi",
+        "Manma'a'agang i manma'a'agang gi i truck siha ni' manma'a'agang",
+        "Ayuda i kustombre siha para u fanmana'halom gi i tienda",
+        "Manma'gåsi i bodega yan manma'gåsi",
+        "Manma'å'ñao i taotao siha ni' i kustombre yan i emplehao siha"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Chadeddek",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Ingles",
+      "proficiency": "Natibu"
+    },
+    {
+      "name": "Hapones",
+      "proficiency": "Natibu"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Un website ni' siña ha na'fanli'e' i prohektos yan i tiningo' siha ni' ma'usa i modernu na teknolohian web",
+      "technologies": [
+        "React",
+        "CSS3",
+        "Disision ni' Manresponsåpble"
+      ]
+    }
+  ]
+}

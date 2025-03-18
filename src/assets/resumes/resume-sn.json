@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Ane ruzivo rweSoftware Developer, achitsvaga mukana mutsva wekushandira mapurojekiti makuru. Kufarira kugadzira kana kuwedzera kodhi kuti vamwe vashandise. Ndinotenda hunyanzvi hwangu hudiki kana huchienzaniswa neinternet, saka ini ndinofarira zvikuru kushanda nemamwe maturusi, masevhisi, mitauro yekuronga.",
+  "education": [
+    {
+      "degree": "Software Engineering Certificate",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University yeFullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "High School Diploma",
+      "school": "Woodbridge High Chikoro",
+      "location": "Irvine, California, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Yakagadzirwa uye yakashandiswa scalable web applications uchishandisa React uye Node.js",
+        "Yakabatana nemamaneja echigadzirwa kunatsiridza zvinodiwa uye kuve nechokwadi chekutumira panguva",
+        "Yakagadzirwa uye yakachengetedzwa RESTful APIs ewebhu maapplication",
+        "Yakagadziridzwa zvinyorwa zvekugadzira otomatiki mabasa nekuvandudza kugona"
+      ]
+    },
+    {
+      "title": "Mutevedzeri weTennis Coach",
+      "company": "Guta reIrvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Kudzidzisa tenisi matekiniki muboka gadziriro yevatambi 5-10",
+        "Kuita kuti chidzidzo chinakidze uye chifadze vatambi",
+        "Inotarisira kuchengetedzwa kwevatambi vari mudare, kunyanya vatambi vechidiki nevakuru, senge 3 makore ekuzvarwa uye 60 makore ekuzvarwa."
+      ]
+    },
+    {
+      "title": "Shamwari Inobuda",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Kuisazve zvinhu pasherufu",
+        "Kutora maodha evatengi vepamhepo",
+        "Kurongedza maodha ekutumira",
+        "Kuisa maodha mumarori anotakura zvinhu",
+        "Kubatsira vatengi kuwana zvinhu muchitoro",
+        "Kuchengeta imba yekuchengetera zvinhu yakachena uye yakarongeka",
+        "Kuchengeta nharaunda yakachengeteka uye ine hushamwari kune vatengi nevashandi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Chirungu",
+      "proficiency": "Native"
+    },
+    {
+      "name": "ChiJapanese",
+      "proficiency": "Native"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Webhusaiti inopindura inoratidzira mapurojekiti uye hunyanzvi uchishandisa yemazuva ano webhu tekinoroji",
+      "technologies": [
+        "React",
+        "CSS3",
+        "Inopindura Dhizaini"
+      ]
+    }
+  ]
+}

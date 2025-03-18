@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Unjiniyela Wesoftware",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Umsunguli weSoftware Lonelwati, lofuna litfuba lelisha lekusebenta emaphrojekthi lamakhulu. Unenshisekelo yekwakha nobe kwengeta ikhodi kute labanye bayisebentise. Ngikholwa kutsi emakhono ami mancane uma acatsaniswa ne-inthanethi, ngako-ke nginenshisekelo lenkhulu yekusebenta nalamanye emathuluzi, tinsita, tilwimi tekuhlela.",
+  "education": [
+    {
+      "degree": "Sitifiketi Sebunjiniyela Be-Software",
+      "school": "Inkambu yeSpringboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Inyuvesi yaseCalifornia yaseFullerton",
+      "location": "Fullerton, eCalifornia, eMelika.",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma yesikolwa lesisetulu",
+      "school": "Sikolwa lesisetulu sase Woodbridge",
+      "location": "Irvine, eCalifornia, eMelika.",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Unjiniyela Wesoftware",
+      "company": "I-MS-INDZAWO LLC.",
+      "location": "Irvine, eCalifornia, eMelika.",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Kwakhiwe futsi kusetjentiswe tinhlelo tekusebenta tewebhu letilinganisekako kusetjentiswa i-React ne-Node.js",
+        "Kubambisane nebaphatsi bemikhicito kucolisa tidzingo kanye nekucinisekisa kuletfwa ngesikhatsi",
+        "Kutfutfukiswe futsi kugcinwe ema-API e-RESTful etinhlelo tekusebenta tewebhu",
+        "Kutfutfukisiwe imibhalo yekwenta imisebenti ngekuzenzakalela kanye nekutfutfukisa kusebenta kahle"
+      ]
+    },
+    {
+      "title": "Umceceshi Lositako We-Tennis",
+      "company": "Lidolobhakati lase-Irvine",
+      "location": "Irvine, eCalifornia, eMelika.",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Kufundzisa tindlela te-tennis ecenjini lebadlali laba-5-10",
+        "Kwenta sifundvo sibe mnandzi futsi sijabulise badlali",
+        "Umsebenti wekuphepha kwebadlali enkhundleni, ikakhulu badlali labancane nalabadzala, njengalabaneminyaka lengu 3 kanye nalabaneminyaka lengu 60"
+      ]
+    },
+    {
+      "title": "Umlingani Lophumako",
+      "company": "I-Amazon Lensha",
+      "location": "Irvine, eCalifornia, eMelika.",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Kuphindze ufake tintfo eshelufini",
+        "Kukhetsa ema-oda emakhasimende lase-inthanethi",
+        "Ema-oda ekupakisha ekutfumela",
+        "Kulayisha ema-oda kumaloli laletfwako",
+        "Kusita emakhasimende kutsi atfole tintfo esitolo",
+        "Kugcina indzawo yekugcina tintfo ihlantekile futsi ihlelekile",
+        "Kugcina indzawo lephephile nalenebungani kumakhasimende netisebenti"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "iJavaSkripthi",
+      "Luhlobo lweSkripthi",
+      "Phython",
+      "iJava",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Sabela",
+      "Inodi.js",
+      "Isho",
+      "Django",
+      "JUmbuto"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Ipulatifomu yemafu e-Google"
+    ],
+    "databases": [
+      "I-PostgreSQL",
+      "i-SQL yami",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "siNgisi",
+      "proficiency": "Kokutalwa"
+    },
+    {
+      "name": "SiJapan",
+      "proficiency": "Kokutalwa"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Iphothifoliyo",
+      "description": "Iwebhusayithi lephendvulako lekhombisa emaphrojekthi nemakhono asebentisa tebuchwepheshe besimanje bewebhu",
+      "technologies": [
+        "Sabela",
+        "CSS3",
+        "Umklamo Lophendvulako"
+      ]
+    }
+  ]
+}

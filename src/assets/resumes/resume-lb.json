@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software Ingenieur",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "En erfuerene Software Entwéckler, sicht nei Méiglechkeet fir grouss Projeten ze schaffen. Interesséiert fir Code ze kreéieren oder ze addéieren fir anerer ze benotzen. Ech gleewen datt meng Fäegkeeten kleng sinn am Verglach zum Internet, also sinn ech ganz interesséiert fir mat aneren Tools, Servicer, Programméierungssproochen ze schaffen.",
+  "education": [
+    {
+      "degree": "Software Engineering Zertifikat",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, Kalifornien, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Lycée Diplom",
+      "school": "Woodbridge High School",
+      "location": "Irvine, Kalifornien, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Ingenieur",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornien, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Architektesch an implementéiert skalierbar Webapplikatiounen mat React an Node.js",
+        "Zesummenaarbecht mat Produktmanager fir Ufuerderungen ze verfeineren an fristgerecht Liwwerung ze garantéieren",
+        "Entwéckelt an erhale RESTful APIs fir Webapplikatiounen",
+        "Entwéckelt Scripten fir Aufgaben ze automatiséieren an d'Effizienz ze verbesseren"
+      ]
+    },
+    {
+      "title": "Assistent Tennis Coach",
+      "company": "Stad Irvine",
+      "location": "Irvine, Kalifornien, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Tennis Techniken an engem Grupp Kader vun 5-10 Spiller Unterrécht",
+        "Maachen d'Lektioun Spaass an intertaining fir d'Spiller",
+        "Verantwortlech fir d'Sécherheet vun de Spiller um Terrain, besonnesch déi méi jonk an eeler Spiller, wéi 3 Joer al an 60 Joer al"
+      ]
+    },
+    {
+      "title": "Outbound Associé",
+      "company": "Amazon Frësch",
+      "location": "Irvine, Kalifornien, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking Elementer am Regal",
+        "Picking Commanden fir online Clienten",
+        "Verpakung Commanden fir Versand",
+        "Luede Bestellungen op d'Liwwer Camionen",
+        "Hëlleft Clienten Artikelen am Geschäft ze fannen",
+        "Halt de Lager propper an organiséiert",
+        "Eng sécher a frëndlech Ëmwelt fir Clienten a Mataarbechter ze halen"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagéieren",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Gitt",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Plattform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Englesch",
+      "proficiency": "Gebierteg"
+    },
+    {
+      "name": "Japanesch",
+      "proficiency": "Gebierteg"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Eng reaktiounsfäeger Websäit déi Projeten a Fäegkeeten mat modernen Webtechnologien weist",
+      "technologies": [
+        "Reagéieren",
+        "CSS 3",
+        "Responsive Design"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Enjeniere ya logiciel",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Muntu ya Me Zaba Kusala Baprograme, ke sosa dibaku ya mpa ya kusala bisalu ya nene. Kuzola kusala to kuyika bakode sambu bantu ya nkaka kusadila yo. Mono ke kwikila nde mayele na mono kele fioti kana beto fwanisa yo ti internet, yo yina mono ke zolaka mingi kusala ti bisadilu ya nkaka, bisalu, bandinga ya kusala baprograme.",
+  "education": [
+    {
+      "degree": "Mukanda ya Ingénierie ya logiciel",
+      "school": "Camp de démarrage",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Nzo-nkanda ya nene ya Californie",
+      "location": "Fullerton, na Californie, na États-Unis.",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diplome ya nzo-nkanda ya nene",
+      "school": "Nzo-nkanda ya nene ya Woodbridge",
+      "location": "Irvine, na Californie, na États-Unis.",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Enjeniere ya logiciel",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, na Californie, na États-Unis.",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Bo salaka mpi bo sadilaka bisadilu ya Internet yina bo lenda sadila React mpi Node.js .",
+        "Kusala kumosi ti bamfumu ya bima sambu na kutomisa mambu yina bo ke lombaka mpi kuzikisa nde bo ke pesa bima na ntangu ya mbote",
+        "Bo salaka mpi bo taninaka ba API ya RESTful sambu na ba application ya Internet",
+        "Bo salaka ba script sambu na kusala bisalu na mutindu mosi ya automatique mpi kutomisa mutindu ya kusala yo"
+      ]
+    },
+    {
+      "title": "Nsadisi ya nlongi ya tennis",
+      "company": "Mbanza ya Irvine",
+      "location": "Irvine, na Californie, na États-Unis.",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Kulonga mayele ya tennis na kimvuka ya bantu 5-10 .",
+        "Kusala nde dilongi kuvanda ya kusekisa mpi ya kusekisa sambu na bansaka",
+        "Mukumba ya lutaninu ya ba nsaka na kisika ya bansaka, mingi-mingi ba nsaka ya baleke ti ya bambuta, bonso bana ya bamvula 3 ti ba mvula 60 ."
+      ]
+    },
+    {
+      "title": "Nkundi ya kubasika",
+      "company": "Amazon ya mpa",
+      "location": "Irvine, na Californie, na États-Unis.",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Kuvutula bima na etagere",
+        "Kubaka bakomande sambu na bakiliya ya Internet",
+        "Kukanga bakomande sambu na kutinda",
+        "Kutula bakomande na bakamio yina ke nataka bima",
+        "Kusadisa bakiliya na kuzwa bima na butiki",
+        "Kutanina depot na bunkete mpi na ndonga",
+        "Kutanina kisika ya mbote mpi ya mbote sambu na bakiliya mpi bantu ya kisalu ."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Java",
+      "Mutindu ya kusonika",
+      "Pithon",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Kusala",
+      "Node.js",
+      "Kumonisa",
+      "Django",
+      "Ngiufula"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Plateforme ya matuti ya Google"
+    ],
+    "databases": [
+      "SQL ya nima",
+      "SQL na mono",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Anglais",
+      "proficiency": "Munkwa-bwala"
+    },
+    {
+      "name": "Kijapon",
+      "proficiency": "Munkwa-bwala"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Lutangu ya bima",
+      "description": "Site internet mosi ya ke pesa mvutu ke monisa bisalu mpi mayele ya kusadila ba teknolozi ya bilumbu yai .",
+      "technologies": [
+        "Kusala",
+        "CSS3",
+        "Design ya ke pesa mvutu"
+      ]
+    }
+  ]
+}

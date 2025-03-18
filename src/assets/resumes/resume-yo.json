@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software ẹlẹrọ",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Olùgbéejáde sọfitiwia ti o ni iriri, n wa aye tuntun lati ṣiṣẹ fun awọn iṣẹ akanṣe nla. Nife ninu ṣiṣẹda tabi fifi koodu kun fun awọn miiran lati lo. Mo gbagbọ pe awọn ọgbọn mi kere ni akawe si intanẹẹti, nitorinaa Mo nifẹ pupọ si ṣiṣẹ pẹlu awọn irinṣẹ miiran, awọn iṣẹ, awọn ede siseto.",
+  "education": [
+    {
+      "degree": "Iwe-ẹri Imọ-ẹrọ Software",
+      "school": "Springboard Bootcamp",
+      "dates": "Ọdun 2022-2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, California, Àwọn Ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà",
+      "dates": "Ọdun 2021-2022"
+    },
+    {
+      "degree": "Iwe-ẹkọ giga ile-iwe giga",
+      "school": "Ile-iwe giga Woodbridge",
+      "location": "Irvine, California, Àwọn Ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà",
+      "dates": "Ọdun 2016-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software ẹlẹrọ",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, Àwọn Ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà",
+      "dates": "Ọdun 2023-2024",
+      "responsibilities": [
+        "Ṣiṣeto ati imuse awọn ohun elo wẹẹbu iwọn lilo React ati Node.js",
+        "Ṣe ifowosowopo pẹlu awọn alakoso ọja lati ṣatunṣe awọn ibeere ati rii daju ifijiṣẹ akoko",
+        "Awọn API RESTful ti o ni idagbasoke ati titọju fun awọn ohun elo wẹẹbu",
+        "Awọn iwe afọwọkọ ti o dagbasoke lati ṣe adaṣe awọn iṣẹ ṣiṣe ati ilọsiwaju ṣiṣe"
+      ]
+    },
+    {
+      "title": "Oluranlọwọ Tennis Olukọni",
+      "company": "Ilu Irvine",
+      "location": "Irvine, California, Àwọn Ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà",
+      "dates": "Ọdun 2014-2019",
+      "responsibilities": [
+        "Awọn ilana tẹnisi ikọni ni eto ẹgbẹ kan ti awọn oṣere 5-10",
+        "Ṣiṣe awọn ẹkọ fun ati intertaining fun awọn ẹrọ orin",
+        "Lodidi fun aabo awọn oṣere lori kootu, paapaa awọn oṣere ọdọ ati agbalagba, bii awọn ọmọ ọdun mẹta ati awọn ọmọ ọdun 60"
+      ]
+    },
+    {
+      "title": "Ti njade lo Associate",
+      "company": "Amazon Alabapade",
+      "location": "Irvine, California, Àwọn Ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà",
+      "dates": "Ọdun 2024-2024",
+      "responsibilities": [
+        "Restocking awọn ohun kan lori selifu",
+        "Yiyan ibere fun online onibara",
+        "Awọn ibere iṣakojọpọ fun gbigbe",
+        "Awọn ibere ikojọpọ sori awọn oko nla ifijiṣẹ",
+        "Ṣe iranlọwọ fun awọn alabara lati wa awọn ohun kan ninu ile itaja",
+        "Mimu ile-itaja naa mọ ati ṣeto",
+        "Ntọju agbegbe ailewu ati ore fun awọn alabara ati awọn oṣiṣẹ"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C ++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Fesi",
+      "Node.js",
+      "KIAKIA",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google awọsanma Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Ilu abinibi"
+    },
+    {
+      "name": "Japanese",
+      "proficiency": "Ilu abinibi"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Oju opo wẹẹbu idahun ti n ṣafihan awọn iṣẹ akanṣe ati awọn ọgbọn nipa lilo awọn imọ-ẹrọ wẹẹbu ode oni",
+      "technologies": [
+        "Fesi",
+        "CSS3",
+        "Apẹrẹ idahun"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "softwarový inženýr",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Zkušený softwarový vývojář, který hledá nové příležitosti k práci na velkých projektech. Zájem o vytvoření nebo přidání kódu pro ostatní. Věřím, že mé dovednosti jsou ve srovnání s internetem malé, proto mě velmi zajímá práce s jinými nástroji, službami, programovacími jazyky.",
+  "education": [
+    {
+      "degree": "Certifikát softwarového inženýrství",
+      "school": "Springboard Bootcamp",
+      "dates": "2022–2023"
+    },
+    {
+      "school": "Kalifornská státní univerzita ve Fullertonu",
+      "location": "Fullerton, Kalifornie, USA",
+      "dates": "2021–2022"
+    },
+    {
+      "degree": "Středoškolský diplom",
+      "school": "Woodbridge High School",
+      "location": "Irvine, Kalifornie, USA",
+      "dates": "2016–2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "softwarový inženýr",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornie, USA",
+      "dates": "2023–2024",
+      "responsibilities": [
+        "Vytvořené a implementované škálovatelné webové aplikace využívající React a Node.js",
+        "Spolupráce s produktovými manažery na upřesnění požadavků a zajištění včasného dodání",
+        "Vyvinutá a udržovaná RESTful API pro webové aplikace",
+        "Vyvinuté skripty pro automatizaci úloh a zvýšení efektivity"
+      ]
+    },
+    {
+      "title": "Asistent tenisového trenéra",
+      "company": "Město Irvine",
+      "location": "Irvine, Kalifornie, USA",
+      "dates": "2014–2019",
+      "responsibilities": [
+        "Výuka tenisových technik ve skupině 5-10 hráčů",
+        "Aby byla lekce zábavná a zábavná pro hráče",
+        "Zodpovědnost za bezpečnost hráčů na hřišti, zejména mladších a starších hráčů, jako jsou 3letí a 60letí"
+      ]
+    },
+    {
+      "title": "Odchozí spolupracovník",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornie, USA",
+      "dates": "2024–2024",
+      "responsibilities": [
+        "Doplnění zásob na polici",
+        "Vychystávání objednávek pro online zákazníky",
+        "Balení objednávek k odeslání",
+        "Nakládání objednávek na rozvozové vozy",
+        "Pomáhá zákazníkům najít zboží v obchodě",
+        "Udržování skladu čisté a organizované",
+        "Udržování bezpečného a přátelského prostředí pro zákazníky a zaměstnance"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Krajta",
+      "Jáva",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagovat",
+      "Node.js",
+      "Vyjádřit",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Přístavní dělník",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "angličtina",
+      "proficiency": "Rodák"
+    },
+    {
+      "name": "japonský",
+      "proficiency": "Rodák"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Responzivní web představující projekty a dovednosti využívající moderní webové technologie",
+      "technologies": [
+        "Reagovat",
+        "CSS3",
+        "Responzivní design"
+      ]
+    }
+  ]
+}

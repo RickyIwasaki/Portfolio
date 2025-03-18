@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Expertus Software Developer, novam facultatem quaerens pro magnis inceptis laborandi. Interest in creando vel addendo codicem pro aliis uti. Artes meas credo parvas interrete comparatas esse, ideo valde laboro laboro cum aliis instrumentis, officiis, linguis programmandi.",
+  "education": [
+    {
+      "degree": "Software Engineering Quisque",
+      "school": "PETAURUM Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "High School Diploma",
+      "school": "Woodbridge turpis",
+      "location": "Irvine, California, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Architecta et impleta applicationes scalabiles interretiales utentes React et Node.js",
+        "Collaboraverunt cum productum actoribus excolere requisita et opportune partus curare",
+        "Evolvit et servavit APIs INQUISITOR applicationes interretiales",
+        "Scripta evoluta ad automate munia et efficientiam amplio"
+      ]
+    },
+    {
+      "title": "Assistant Tennis Coach",
+      "company": "Irvine urbs",
+      "location": "Irvine, California, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Docentes tennis ars in coetus occasum de 5-10 histriones",
+        "Faciens lectionem fun et hospitio scaenicorum",
+        "Reus pro salute scaenicorum in aula, praesertim iuniores et maiores histriones, sicut 3 annos natorum et LX annorum natorum"
+      ]
+    },
+    {
+      "title": "Outbound Associate",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking items in PLUTEUM",
+        "Legere ordines pro online customers",
+        "De naviculas ordines stipare",
+        "Loading ordines onto traditio aliquet",
+        "Auxilio customers invenire items in copia",
+        "Servans in CELLA munda et ordinata",
+        "Tutam et amicabilem ambitum pro clientibus et conductis"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Nubes Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Anglicus",
+      "proficiency": "Accuratissima Totius"
+    },
+    {
+      "name": "Iaponica",
+      "proficiency": "Accuratissima Totius"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Website responsabilis inceptis et artibus technicis interretialibus utens",
+      "technologies": [
+        "React",
+        "CSS3",
+        "Responsivum Design"
+      ]
+    }
+  ]
+}

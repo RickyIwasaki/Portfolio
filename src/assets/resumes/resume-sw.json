@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Mhandisi wa Programu",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Msanidi Programu Mwenye Uzoefu, anayetafuta fursa mpya ya kufanya kazi kwa miradi mikubwa. Ninapenda kuunda au kuongeza msimbo ili watu wengine watumie. Ninaamini ujuzi wangu ni mdogo ikilinganishwa na mtandao, kwa hiyo ninavutiwa sana kufanya kazi na zana nyingine, huduma, lugha za programu.",
+  "education": [
+    {
+      "degree": "Cheti cha Uhandisi wa Programu",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Chuo Kikuu cha Jimbo la California cha Fullerton",
+      "location": "Fullerton, California, Marekani",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma ya Shule ya Sekondari",
+      "school": "Shule ya Upili ya Woodbridge",
+      "location": "Irvine, California, Marekani",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Mhandisi wa Programu",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, Marekani",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Iliundwa na kutekelezwa programu za wavuti zinazoweza kupanuka kwa kutumia React na Node.js",
+        "Imeshirikiana na wasimamizi wa bidhaa ili kuboresha mahitaji na kuhakikisha uwasilishaji kwa wakati unaofaa",
+        "Iliyoundwa na kudumishwa RESTful API za programu za wavuti",
+        "Maandishi yaliyotengenezwa ili kubinafsisha kazi na kuboresha ufanisi"
+      ]
+    },
+    {
+      "title": "Kocha Msaidizi wa Tenisi",
+      "company": "Mji wa Irvine",
+      "location": "Irvine, California, Marekani",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Kufundisha mbinu za tenisi katika mpangilio wa kikundi wa wachezaji 5-10",
+        "Kufanya somo kuwa la kufurahisha na kuburudisha kwa wachezaji",
+        "Kuwajibika kwa usalama wa wachezaji kwenye korti, haswa wachezaji wachanga na wakubwa, kama watoto wa miaka 3 na 60."
+      ]
+    },
+    {
+      "title": "Mshirika wa Nje",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, Marekani",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Kuweka tena vitu kwenye rafu",
+        "Kuchukua maagizo kwa wateja wa mtandaoni",
+        "Maagizo ya kufunga kwa usafirishaji",
+        "Inapakia maagizo kwenye lori za usafirishaji",
+        "Kuwasaidia wateja kupata bidhaa dukani",
+        "Kuweka ghala safi na kupangwa",
+        "Kuweka mazingira salama na rafiki kwa wateja na wafanyakazi"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Chatu",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Jibu",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Doka",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Kiingereza",
+      "proficiency": "Asili"
+    },
+    {
+      "name": "Kijapani",
+      "proficiency": "Asili"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Kwingineko",
+      "description": "Tovuti sikivu inayoonyesha miradi na ujuzi kwa kutumia teknolojia za kisasa za wavuti",
+      "technologies": [
+        "Jibu",
+        "CSS3",
+        "Muundo Msikivu"
+      ]
+    }
+  ]
+}

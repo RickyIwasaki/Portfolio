@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Inġinier tas-Softwer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Żviluppatur ta' Software b'Esperjenza, li jfittex opportunità ġdida biex jaħdem għal proġetti kbar. Interessat fil-ħolqien jew iż-żieda ta' kodiċi biex jużahom oħrajn. Nemmen li l-ħiliet tiegħi huma żgħar meta mqabbla mal-internet, għalhekk jien interessat ħafna li naħdem ma 'għodod oħra, servizzi, lingwi ta' programmar.",
+  "education": [
+    {
+      "degree": "Ċertifikat ta' Inġinerija tas-Softwer",
+      "school": "Bootcamp ta' Springboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Università Statali ta' Kalifornja ta' Fullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "High School Diploma",
+      "school": "Woodbridge High School",
+      "location": "Irvine, California, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Inġinier tas-Softwer",
+      "company": "MS-ŻONA LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arkitettura u implimentata applikazzjonijiet web skalabbli bl-użu ta 'React u Node.js",
+        "Ikkollabora mal-maniġers tal-prodott biex tirfina r-rekwiżiti u tiżgura twassil f'waqtu",
+        "Żviluppati u miżmuma APIs RESTful għall-applikazzjonijiet tal-web",
+        "Skripts żviluppati biex jiġu awtomatizzati l-kompiti u jtejbu l-effiċjenza"
+      ]
+    },
+    {
+      "title": "Assistent Kowċ tat-Tennis",
+      "company": "Belt ta' Irvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "It-tagħlim tat-tekniki tat-tennis f'ambjent ta' grupp ta' 5-10 plejers",
+        "Nagħmlu l-lezzjoni pjaċevoli u intertaining għall-plejers",
+        "Responsabbli għas-sigurtà tal-plejers fil-court, speċjalment il-plejers iżgħar u anzjani, bħal dawk ta’ 3 snin u 60 sena"
+      ]
+    },
+    {
+      "title": "Assoċjat 'il barra",
+      "company": "Amazon Frisk",
+      "location": "Irvine, California, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking oġġetti fuq l-ixkaffa",
+        "Picking orders għal klijenti onlajn",
+        "Ordnijiet ta' ppakkjar għat-tbaħħir",
+        "Tagħbija ta' ordnijiet fuq it-trakkijiet tal-kunsinna",
+        "Ngħinu lill-klijenti jsibu oġġetti fil-maħżen",
+        "Inżommu l-maħżen nadif u organizzat",
+        "Inżommu ambjent sigur u faċli għall-klijenti u l-impjegati"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Irreaġixxi",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Ingliż",
+      "proficiency": "Indiġeni"
+    },
+    {
+      "name": "Ġappuniż",
+      "proficiency": "Indiġeni"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portafoll",
+      "description": "Websajt li jirreaġixxi li juri proġetti u ħiliet li juża teknoloġiji moderni tal-web",
+      "technologies": [
+        "Irreaġixxi",
+        "CSS3",
+        "Disinn li Jirrispondi"
+      ]
+    }
+  ]
+}

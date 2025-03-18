@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki rehegua",
+  "title": "Ingeniero de Software rehegua",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Peteĩ Software Desarrollador Experimentado, ohekáva pa’ũ pyahu omba’apo hag̃ua tembiapo guasúpe g̃uarã. Oñeinteresáva omoheñói térã omoĩvo código ambue tapicha oipuru hag̃ua. Aguerovia che katupyry michĩha oñembojojávo internet rehe, upévare che interesaiterei amba’apo hag̃ua ambue tembipuru, servicio, lenguaje de programación ndive.",
+  "education": [
+    {
+      "degree": "Certificado Ingeniería de Software rehegua",
+      "school": "Ñembosaraipavẽ Bootcamp rehegua",
+      "dates": "2022 - 2023 ary pukukue"
+    },
+    {
+      "school": "Universidad Estatal California-pegua, Fullerton-pe",
+      "location": "Fullerton, California, Estados Unidos-pe",
+      "dates": "2021 - 2022 ary pukukue"
+    },
+    {
+      "degree": "Diploma Escuela Secundaria rehegua",
+      "school": "Mbo’ehao Guasu Woodbridge-pegua",
+      "location": "Irvine, California, Estados Unidos-pe",
+      "dates": "2016 - 2021 ary pukukue"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ingeniero de Software rehegua",
+      "company": "MS-ZONE LLC rehegua.",
+      "location": "Irvine, California, Estados Unidos-pe",
+      "dates": "2023 - 2024 ary pukukue",
+      "responsibilities": [
+        "Oarquitecta ha omboguata umi aplicación web escalable oipurúvo React ha Node.js",
+        "Oñomoirû umi gerente de producto ndive orefina haguã umi mba'e ojejeruréva ha oasegura entrega oportuna",
+        "Omoheñói ha oñangareko API RESTful umi purupyrã web-pe g̃uarã",
+        "Ojapo script oautomatisa hag̃ua tembiapo ha omoporãve hag̃ua eficiencia"
+      ]
+    },
+    {
+      "title": "Entrenador Asistente de Tenis rehegua",
+      "company": "Táva Irvine-pe",
+      "location": "Irvine, California, Estados Unidos-pe",
+      "dates": "2014 - 2019 ary pukukue",
+      "responsibilities": [
+        "Ombo'évo técnica de tenis peteî entorno de grupo 5-10 jugador",
+        "Ojapóvo mbo’epy vy’arã ha oñembopy’aguapýva umi jugador-kuérape guarã",
+        "Responsable seguridad orekóva umi jugador cancha-pe, especialmente umi jugador imitãvéva ha tuichavéva, ha'eháicha umi 3 ary ha 60 ary"
+      ]
+    },
+    {
+      "title": "Asociado Salida rehegua",
+      "company": "Amazon Fresh rehegua",
+      "location": "Irvine, California, Estados Unidos-pe",
+      "dates": "2024 - 2024 ary pukukue",
+      "responsibilities": [
+        "Ojerestoca jey umi mba’e oĩva estante-pe",
+        "Oiporavóva pedido umi cliente en línea-pe guarã",
+        "Umi pedido de embalaje oñemondo haguã",
+        "Okargávo pedido umi camión de entrega-pe",
+        "Oipytyvõvo cliente-kuérape ojuhúvo umi mba'e tenda-pe",
+        "Oñemantene almacén ipotĩ ha oñemohenda porãva",
+        "Oñongatúvo peteî ambiente seguro ha amistoso umi cliente ha mba'apohára kuérape guarã"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript rehegua",
+      "TypeScript rehegua",
+      "Python rehegua",
+      "Java",
+      "C++ rehegua",
+      "SQL rehegua"
+    ],
+    "frameworks": [
+      "Reacciona",
+      "Nodo.js rehegua",
+      "Je'ẽpyre",
+      "Django",
+      "JQuery rehegua"
+    ],
+    "tools": [
+      "Git rehegua",
+      "Docker rehegua",
+      "AWS rehegua",
+      "Jenkins rehegua",
+      "Google Cloud Plataforma rehegua"
+    ],
+    "databases": [
+      "PostgreSQL rehegua",
+      "MySQL rehegua",
+      "Cassandra rehegua"
+    ]
+  },
+  "languages": [
+    {
+      "name": "inglés",
+      "proficiency": "Ypykuéra"
+    },
+    {
+      "name": "Japonés ñe’ẽ",
+      "proficiency": "Ypykuéra"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cartera rehegua",
+      "description": "Peteĩ página web ombohováiva ohechaukáva umi proyecto ha katupyry oiporúva tecnología web moderna",
+      "technologies": [
+        "Reacciona",
+        "CSS3",
+        "Diseño Ombohováiva"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Injinia ngwanrọ",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Onye Mmepụta Software nwere ahụmahụ, na-achọ ohere ọhụrụ iji rụọ ọrụ maka nnukwu ọrụ. Enwere mmasị ịmepụta ma ọ bụ tinye koodu maka ndị ọzọ ka ha jiri. Ekwenyere m na nkà m dị ntakịrị ma e jiri ya tụnyere ịntanetị, ya mere enwere m mmasị na-arụ ọrụ na ngwaọrụ ndị ọzọ, ọrụ, asụsụ mmemme.",
+  "education": [
+    {
+      "degree": "Asambodo Injinia Software",
+      "school": "Ogige ụgbọ mmiri Springboard",
+      "dates": "2022-2023"
+    },
+    {
+      "school": "Mahadum California State nke Fullerton",
+      "location": "Fullerton, California, Njikota Obodo Amerika",
+      "dates": "2021-2022"
+    },
+    {
+      "degree": "Diploma nke ụlọ akwụkwọ sekọndrị",
+      "school": "Ụlọ akwụkwọ sekọndrị Woodbridge",
+      "location": "Irvine, California, Njikota Obodo Amerika",
+      "dates": "2016-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Injinia ngwanrọ",
+      "company": "Ụlọ ọrụ MS-ZONE LLC.",
+      "location": "Irvine, California, Njikota Obodo Amerika",
+      "dates": "2023-2024",
+      "responsibilities": [
+        "Edebere ma mejuputa ngwa weebụ nwere ike ịbelata site na iji React na Node.js",
+        "Ejikọtara ya na ndị njikwa ngwaahịa iji mezie ihe achọrọ yana hụ na nnyefe n'oge",
+        "Emepụtara ma chekwaa API RESTful maka ngwa weebụ",
+        "Edemede emepụtara iji megharịa ihe aga-eme ma melite arụmọrụ"
+      ]
+    },
+    {
+      "title": "Onye nchịkwa Tenis",
+      "company": "Obodo Irvine",
+      "location": "Irvine, California, Njikota Obodo Amerika",
+      "dates": "2014-2019",
+      "responsibilities": [
+        "Usoro nkuzi ịkụ tenis n'ime otu ndị egwuregwu 5-10",
+        "Na-eme ka nkuzi ahụ bụrụ ihe na-atọ ụtọ ma na-adọrọ mmasị maka ndị egwuregwu",
+        "Na-ahụ maka nchekwa nke ndị egwuregwu n'ụlọ ikpe, karịsịa ndị na-eto eto na ndị okenye, dị ka ndị dị afọ 3 na ndị dị afọ 60."
+      ]
+    },
+    {
+      "title": "Onye na-apụ apụ",
+      "company": "Amazon dị ọhụrụ",
+      "location": "Irvine, California, Njikota Obodo Amerika",
+      "dates": "2024-2024",
+      "responsibilities": [
+        "Na-eweghachi ihe na shelf",
+        "Ịhọrọ iwu maka ndị ahịa n'ịntanetị",
+        "Iwu mbupu maka mbupu",
+        "Na-ebunye iwu n'ime gwongworo mbufe",
+        "Inyere ndị ahịa aka ịchọta ihe na ụlọ ahịa",
+        "Idobe ụlọ nkwakọba ihe ọcha na ịhazi ya",
+        "Debe gburugburu ebe nchekwa na enyi maka ndị ahịa na ndị ọrụ"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Javascript",
+      "Ụdị edemede",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Meghachi omume",
+      "Ọnụ.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Bekee",
+      "proficiency": "Ụmụ amaala"
+    },
+    {
+      "name": "Japanese",
+      "proficiency": "Ụmụ amaala"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pọtụfoliyo",
+      "description": "Weebụsaịtị na-anabata nke na-egosipụta ọrụ na nka site na iji teknụzụ webụ ọgbara ọhụrụ",
+      "technologies": [
+        "Meghachi omume",
+        "CSS3",
+        "Nzaghachi Design"
+      ]
+    }
+  ]
+}

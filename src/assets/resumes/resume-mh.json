@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Ri jerbal in software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Juon ri kōmman software eo elap an jelālokjen, ej bukõt ien ko rekãl ñan jerbal ñan jerbal ko relap. Ej itoklimo in kōmmane ak kobaik code ñan an ro jet maroñ in kajerbale. Ij tõmak bwe kapeel ko aõ rej dik jen internet, innem ij lukkun itoklimo in jerbal ibben kein jerbal ko jet, jerbal ko, im kajin in būrookraam ko.",
+  "education": [
+    {
+      "degree": "Peba in mālim in Software Engineering",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma in High School",
+      "school": "Woodbridge High School",
+      "location": "Irvine, California, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ri jerbal in software",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Kar kōmmane im kōjerbal scalable web application ko ilo an kajerbal React im Node.js",
+        "Kar jerbal ibben ri lale men ko ñan kōmman bwe en emmanlok men ko rej aikuji im lale bwe ren itok ilo ien eo ejejjet",
+        "Kar kōmmane im lale RESTful API ko ñan web application ko",
+        "Kar kōmmane script ko ñan kōmman jerbal ko make im kōkōmanmanlok jerbal ko"
+      ]
+    },
+    {
+      "title": "Ri jipan rikaki in tennis",
+      "company": "Jikin kwelok in Irvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Katakin kilen tennis ilo juon kumi in 5-10 ri ikkure ro",
+        "Kōmman bwe katak eo en emman im kamõnõnõ ñan ri ikkure ro",
+        "Eddo in kejbãrok ri ikkure ro ilo jikin ikkure eo, elaptata ri ikkure ro redik im rittolok, einwot 3 yio dettaer im 60 yio dettaer"
+      ]
+    },
+    {
+      "title": "Outbound Associate",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Bar likit men ko ilo shelf eo",
+        "Bōk order ko ñan ri wia ro ilo online",
+        "Kōmman order ko ñan jilkinlok",
+        "Kōmman order ko ilo truck in bōktok ko",
+        "Jipan ri wia ro ñan lo men ko ilo jikin wia eo",
+        "Kōjparok jikin wia eo bwe en erreo im jimwe",
+        "Kōjparok juon jikin eo ejjeḷọk jorrāān im em̧m̧an ñan ri-wia ro im rijerbal ro"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Kwalok",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Belle",
+      "proficiency": "An jikin"
+    },
+    {
+      "name": "Kajin Jepaan",
+      "proficiency": "An jikin"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Juon website eo ej kwalok jerbal ko im kapeel ko ilo an kajerbal kein jerbal ko rekāāl",
+      "technologies": [
+        "React",
+        "CSS3",
+        "Responsive Design"
+      ]
+    }
+  ]
+}

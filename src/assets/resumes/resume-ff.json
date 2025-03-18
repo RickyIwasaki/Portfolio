@@ -1,0 +1,121 @@
+{
+  "name": "Riki Iwasaki",
+  "title": "Injenieer lowre",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Software Developer keewɗo humpito, ɗaɓɓoowo fartaŋŋe keso ngam golloraade eɓɓooji mawɗi. Nafoore sosde walla ɓeydude kode ngam woɗɓe kuutoroo. Miɗo sikki karallaagal am ina famɗi so en ƴeewtindiima e internet, ko ɗum waɗi miɗo yiɗi no feewi gollodaade e kuutorɗe goɗɗe, sarwisaaji, ɗemɗe porogaraam.",
+  "education": [
+    {
+      "degree": "Seedantaagal Innjiniyaar Software",
+      "school": "Kampaañ Bootboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Duɗal jaaɓi haaɗtirde Kaliforni to Fullerton",
+      "location": "Fullerton, to Kaliforni, Amerik",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Dipolomaaji duɗal jaaɓi haaɗtirde",
+      "school": "Duɗal jaaɓi haaɗtirde Woodbridge",
+      "location": "Irvine, to leydi Amerik",
+      "dates": "2016 haa 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Injenieer lowre",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, to leydi Amerik",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Architecture e huutoraade kuutorɗe web baawɗe ƴellitaade kuutortooɗe React e Node.js",
+        "Wallitii e ardiiɓe geɗe ngam laaɓtinde sarɗiiji e tabitinde jokkondire e sahaa",
+        "Ƴellitaama e toppitaama APIiji RESTful ngam kuutorɗe web",
+        "Binndanɗe ƴellitiiɗe ngam otomatiseerde golle e ɓeydude kattanɗe"
+      ]
+    },
+    {
+      "title": "Balloowo coftuɗo tennis",
+      "company": "Wuro Irvine",
+      "location": "Irvine, to leydi Amerik",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Jannginde karallaagal tennis e nder fedde nde 5-10 fiyooɓe",
+        "Waɗde jannde ndee ina weltina e ina weltina fiyooɓe ɓee",
+        "Halfinaa kisal fukuyaŋkooɓe e nder dingiral hee, haa teeŋti e fukuyaŋkooɓe tokosɓe e mawɓe, hono sukaaɓe yahrooɓe e duuɓi 3 e duuɓi 60"
+      ]
+    },
+    {
+      "title": "Sehil yaltuɗo",
+      "company": "Amason keso",
+      "location": "Irvine, to leydi Amerik",
+      "dates": "2024 haa 2024",
+      "responsibilities": [
+        "Restocking geɗe e dow laylaytol",
+        "Picking yamiroore ngam soodooɓe e internet",
+        "Yamiroore packing ngam neldude",
+        "Lowde yamiroore e dow kammuuji jokkondire",
+        "Wallude soodooɓe heɓde geɗe e nder yeeyirde",
+        "Waɗde depasuuji ɗii ina laaɓi e yuɓɓo",
+        "Reende nokku kisal e sehilaagal wonande soodooɓe e gollotooɓe"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaSkript",
+      "Binndol",
+      "Piton",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Jaabo",
+      "Nokku.js",
+      "Law",
+      "Jango",
+      "JNaamnal"
+    ],
+    "tools": [
+      "Git",
+      "Doktoor",
+      "AWS",
+      "Jenkins",
+      "Lowre Google e duule"
+    ],
+    "databases": [
+      "Ɓooygol SQL",
+      "SQL am",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Inglisia",
+      "proficiency": "Lesdi mako"
+    },
+    {
+      "name": "Japonnaajo",
+      "proficiency": "Lesdi mako"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portofolio",
+      "description": "Lowre jaabtoore hollitoore eɓɓooji e karallaagal kuutortoongal karallaagal web jamaanu",
+      "technologies": [
+        "Jaabo",
+        "CSS3",
+        "Design Jaaboowo"
+      ]
+    }
+  ]
+}

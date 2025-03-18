@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki na ɔkyerɛwee",
+  "title": "Software Mfiridwumayɛfo",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Software Developer a ɔwɔ osuahu, a ɔrehwehwɛ hokwan foforo a ɔde bɛyɛ adwuma ama nnwuma akɛse. N’ani gye ho sɛ ɔbɛbɔ anaa ɔde code bɛka ho ama afoforo de adi dwuma. Megye di sɛ m’ahokokwaw sua sɛ wɔde toto intanɛt ho a, enti m’ani gye ho yiye sɛ mede nnwinnade afoforo, nnwuma, nhyehyɛe kasa bɛyɛ adwuma.",
+  "education": [
+    {
+      "degree": "Software Engineering Adansedi Krataa",
+      "school": "Springboard Bootcamp a ɛwɔ hɔ",
+      "dates": "2022 - 2023 mu"
+    },
+    {
+      "school": "California Ɔman Sukuupɔn a ɛwɔ Fullerton",
+      "location": "Fullerton, California, U.S.A., na ɔte hɔ",
+      "dates": "2021 - 2022 mu"
+    },
+    {
+      "degree": "Ntoaso Sukuu Diploma",
+      "school": "Woodbridge Ntoaso Sukuu",
+      "location": "Irvine, California, U.S.A., na ɛwɔ hɔ",
+      "dates": "2016 - 2021. Ɔde ne nsa kyerɛɛ ne so"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Mfiridwumayɛfo",
+      "company": "MS-ZONE LLC na ɛyɛ adwuma.",
+      "location": "Irvine, California, U.S.A., na ɛwɔ hɔ",
+      "dates": "2023 - 2024 mu",
+      "responsibilities": [
+        "Wɔayɛ wɛb aplikeshɔn a wotumi sesa no ho nhyehyɛe na wɔde dii dwuma denam React ne Node.js so",
+        "Wɔne nneɛma so ahwɛfo yɛɛ biako de siesiee ahwehwɛde ahorow na wɔhwɛɛ sɛ wɔde bɛkɔ bere ano",
+        "Wɔyɛɛ RESTful APIs na wɔhwɛɛ so maa wɛb aplikeshɔn",
+        "Wɔyɛɛ script ahorow a ɛbɛma nnwuma ayɛ adwuma wɔ ɔkwan a ɛyɛ adwuma so na ama adwumayɛ atu mpɔn"
+      ]
+    },
+    {
+      "title": "Tennis Ɔkyerɛkyerɛfo Boafo",
+      "company": "Irvine Kuropɔn",
+      "location": "Irvine, California, U.S.A., na ɛwɔ hɔ",
+      "dates": "2014 - 2019. Ɔde ne nsa kyerɛɛ ne so",
+      "responsibilities": [
+        "Tennis akwan a wɔbɛkyerɛkyerɛ wɔ kuw tebea a agodifo 5-10 na wɔwom mu",
+        "Adesua no a wɔbɛma ayɛ anigye na agye wɔn ani ama agodifo no",
+        "Asɛdeɛ a ɛfa agodifoɔ a wɔwɔ abɔnten so no ahobanbɔ ho, titire agofoɔ nkumaa ne wɔn a wɔanyinyin, te sɛ wɔn a wɔadi mfeɛ 3 ne wɔn a wɔadi mfeɛ 60"
+      ]
+    },
+    {
+      "title": "Ɔyɔnko a Ɔrekɔ Afiri Mu",
+      "company": "Amazon Fresh a ɛwɔ hɔ",
+      "location": "Irvine, California, U.S.A., na ɛwɔ hɔ",
+      "dates": "2024 - 2024 mu",
+      "responsibilities": [
+        "Nneɛma a wɔsan de gu shelf no so",
+        "Picking orders ma intanɛt so adetɔfo",
+        "Packing orders a wɔde bɛmena",
+        "Nneɛma a wɔkra a wɔde bɛhyɛ lɔre ahorow a wɔde nneɛma kɔma nkurɔfo no so",
+        "Adetɔfo a wɔbɛboa wɔn ma wɔahu nneɛma wɔ sotɔɔ no mu",
+        "Adekoradan no a wɔbɛma ho atew na wɔayɛ no yiye",
+        "Ahobammɔ ne adamfofa su a wɔbɛkora so ama adetɔfo ne adwumayɛfo"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript a wɔde kyerɛw nsɛm",
+      "TypeScript a wɔde kyerɛw nsɛm",
+      "Python a wɔde yɛ adwuma",
+      "Java",
+      "C++ na ɛyɛ",
+      "SQL na ɛyɛ adwuma"
+    ],
+    "frameworks": [
+      "Yɛ w’ade",
+      "Node.js",
+      "Da no adi",
+      "Django na ɔkyerɛwee",
+      "JAsɛmmisa"
+    ],
+    "tools": [
+      "Git",
+      "Docker a ɔyɛ adwuma wɔ hɔ",
+      "AWS",
+      "Jenkins na ɔkyerɛwee",
+      "Google Cloud Platform a ɛwɔ hɔ"
+    ],
+    "databases": [
+      "PostgreSQL akyi",
+      "MySQL na ɛwɔ hɔ",
+      "Cassandra na ɔkyerɛwee"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Borɔfo",
+      "proficiency": "Mani"
+    },
+    {
+      "name": "Japanfo kasa",
+      "proficiency": "Mani"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio a wɔde kyerɛw nsɛm",
+      "description": "Wɛbsaet a ɛyɛ mmuaeɛ a ɛkyerɛ nnwuma ne ahokokwaa a wɔde nnɛyi wɛb mfiridwuma di dwuma",
+      "technologies": [
+        "Yɛ w’ade",
+        "CSS3",
+        "Nsusuwii a Ɛyɛ Mmuae"
+      ]
+    }
+  ]
+}

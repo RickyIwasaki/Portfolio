@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "softvérový inžinier",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Skúsený vývojár softvéru, ktorý hľadá nové príležitosti na prácu na veľkých projektoch. Máte záujem o vytvorenie alebo pridanie kódu, ktorý môžu použiť ostatní. Verím, že moje schopnosti sú v porovnaní s internetom malé, preto ma veľmi zaujíma práca s inými nástrojmi, službami, programovacími jazykmi.",
+  "education": [
+    {
+      "degree": "Certifikát softvérového inžinierstva",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 – 2023"
+    },
+    {
+      "school": "Kalifornská štátna univerzita vo Fullertone",
+      "location": "Fullerton, Kalifornia, USA",
+      "dates": "2021 – 2022"
+    },
+    {
+      "degree": "Stredoškolský diplom",
+      "school": "Stredná škola Woodbridge",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2016 – 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "softvérový inžinier",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2023 – 2024",
+      "responsibilities": [
+        "Navrhnuté a implementované škálovateľné webové aplikácie využívajúce React a Node.js",
+        "Spolupráca s produktovými manažérmi na spresnení požiadaviek a zaistení včasného doručenia",
+        "Vyvinuté a udržiavané RESTful API pre webové aplikácie",
+        "Vyvinuté skripty na automatizáciu úloh a zvýšenie efektivity"
+      ]
+    },
+    {
+      "title": "Asistent tenisového trénera",
+      "company": "Mesto Irvine",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2014 – 2019",
+      "responsibilities": [
+        "Výučba tenisových techník v skupine 5-10 hráčov",
+        "Urobiť lekciu zábavnou a zábavnou pre hráčov",
+        "Zodpovednosť za bezpečnosť hráčov na ihrisku, najmä mladších a starších hráčov, ako sú 3-roční a 60-roční"
+      ]
+    },
+    {
+      "title": "Outbound Associate",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornia, USA",
+      "dates": "2024 – 2024",
+      "responsibilities": [
+        "Doplnenie zásob na poličku",
+        "Vychystávanie objednávok pre online zákazníkov",
+        "Balenie objednávok na odoslanie",
+        "Nakladanie objednávok na doručovacie autá",
+        "Pomáha zákazníkom nájsť položky v obchode",
+        "Udržiavanie skladu čisté a organizované",
+        "Udržiavanie bezpečného a priateľského prostredia pre zákazníkov a zamestnancov"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagovať",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "angličtina",
+      "proficiency": "Natívne"
+    },
+    {
+      "name": "japončina",
+      "proficiency": "Natívne"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfólio",
+      "description": "Responzívna webová stránka prezentujúca projekty a zručnosti využívajúce moderné webové technológie",
+      "technologies": [
+        "Reagovať",
+        "CSS3",
+        "Responzívny dizajn"
+      ]
+    }
+  ]
+}

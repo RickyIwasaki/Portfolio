@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Ingénieur ti logiciel",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Mbeni Zo so ahinga kua ti lekengo aprogramme, so ayeke gi afini lege ti sara kua ndali ti akota kua. A nzere na mo ti leke wala ti zia ambeni kode na ndo ni ti tene ambeni zo asara kua na ni. Mo mä na bê so akode ti mo ayeke kete tongana a haka ni na internet, tongaso mo yeke na nzara ti sara kua na ambeni ye nde, aservice, ayanga ti programmation.",
+  "education": [
+    {
+      "degree": "Certificat ti ingénieur ti logiciel",
+      "school": "Camp ti trampoline",
+      "dates": "ngu 2022 - 2023"
+    },
+    {
+      "school": "Kota da-mbeti ti Californie",
+      "location": "Fullerton, na Californie, na Amerika.",
+      "dates": "ngu 2021 - ngu 2022"
+    },
+    {
+      "degree": "Diplôme ti lycée",
+      "school": "Ekole ti Woodbridge",
+      "location": "Irvine, Californie, na États-Unis.",
+      "dates": "ngu 2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ingénieur ti logiciel",
+      "company": "MS-ZONE TI LO.",
+      "location": "Irvine, Californie, na États-Unis.",
+      "dates": "ngu 2023 - 2024",
+      "responsibilities": [
+        "A leke na a sala kusala na a-application ti Internet so alingbi ti kono na lege ti React nga na Node.js .",
+        "A sara kua maboko na maboko na azo so ayeke bâ lege ti aye ti leke na aye so a hunda nga ti tene a mû ni na azo na ngoi ni .",
+        "A leke na a bata a-API ti RESTful teti a-application ti Internet .",
+        "A leke ambeni script ti sara si akua ni aga automatique nga ti sara si kua ni atambela nzoni ."
+      ]
+    },
+    {
+      "title": "Wamungo maboko ti coach ti tennis",
+      "company": "Gbata ti Irvine",
+      "location": "Irvine, Californie, na États-Unis.",
+      "dates": "ngu 2014 - 2019",
+      "responsibilities": [
+        "Fango akode ti tennis na yâ ti mbeni groupe ti azo 5-10 .",
+        "Ti sara si ye ti manda ni anzere nga anzere na azo so ayeke joué ni .",
+        "A yeke na lege ni ti tene azo so ayeke joué na ndo ti terrain ni aduti nzoni, mbilimbili amaseka nga na akota zo, tongana azo so ayeke na ngu 3 nga na azo so ayeke na ngu 60 ."
+      ]
+    },
+    {
+      "title": "Associé ti gigi",
+      "company": "Amazone ti fini",
+      "location": "Irvine, Californie, na États-Unis.",
+      "dates": "ngu 2024 - 2024",
+      "responsibilities": [
+        "Ti kiri ti bata aye na ndo ti étagère .",
+        "Ti mû acommande ti aclient na lege ti Internet .",
+        "Acommande ti emballage ti tokuango ni",
+        "Ti yô acommande na yâ ti a-oto so ayeke mû ye na azo .",
+        "Ti mû maboko na aclient ti wara aye na yâ ti magazin .",
+        "Ti bata ndo ti batango aye na saleté pëpe nga ti leke ni nzoni .",
+        "Ti bata mbeni ndo so ayeke nzoni nga so ayeke sara kamarade na aclient nga na azo ti kua ."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Java",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Sara ye",
+      "Node.js",
+      "Ti fa tene",
+      "Django",
+      "JHundango tënë"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Plateforme ti nuage ti Google"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "SQL ti mbi",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Angelee",
+      "proficiency": "Zo ti kodoro"
+    },
+    {
+      "name": "Japonais",
+      "proficiency": "Zo ti kodoro"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portefeuille",
+      "description": "Mbeni site so ayeke kiri tënë nzoni so afa akua nga na akode so a sara kua na akode ti laso ti Internet .",
+      "technologies": [
+        "Sara ye",
+        "CSS3",
+        "Design so ayeke kiri tënë"
+      ]
+    }
+  ]
+}

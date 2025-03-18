@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Injiner Software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Software Developer s'earroo, ta shirrey cowrey noa dy obbraghey son p'rojektyn mooarey. Ta ymmyd jeh code y chroo ny y chur rish son feallagh elley dy uss. Credjim dy vel my scansh beggan ayns co-chaslys rish yn internet, shen-y-fa ta mee dy mooar ymmyrchagh dy obbraghey lesh obbraghyn, seirbaghyn, çhengey programming elley.",
+  "education": [
+    {
+      "degree": "Testimony Injeneyrys Software",
+      "school": "Camp Bootboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Ollooscoill Stayt California",
+      "location": "Fullerton, California, ny Stáit Unnaneysit",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma Scoill Ard-Sheer",
+      "school": "Ard-Scoill Chooish",
+      "location": "Irvine, Chalifornia, ny Steatyn Unnaneysit",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Injiner Software",
+      "company": "MS-ZONA LLC.",
+      "location": "Irvine, Chalifornia, ny Steatyn Unnaneysit",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Architect as currit ayns obbyr scalable web liorish ymmyd jeh React as Node.js",
+        "Co-obbraghey lesh stiureyderyn produit dy ghlenney riaghtyn as dy yannoo shickyr dy vel ad er nyn goyrt ayns traa",
+        "APIyn RESTful er nyn skeaylley as er nyn goadey son ymmyd web",
+        "Scriptyn jeant dy yannoo obbraghyn automaticagh as dy yannoo ymmyd jeh"
+      ]
+    },
+    {
+      "title": "Cowreyder Tennis",
+      "company": "Ard-valley Irvine",
+      "location": "Irvine, Chalifornia, ny Steatyn Unnaneysit",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Teisht skianyn tennis ayns buill 5-10 clowanyn",
+        "Ta'n lessoon jannoo s'goaill rish as s'inshley da'n chleaysh",
+        "Freggyrtagh son slaynt ny cloieyn 'sy chorree, goaill stiagh cloieyn ny s'yoarree as ny s'odjey, myr 3 bleeaney d'eash as 60 bleeaney d'eash"
+      ]
+    },
+    {
+      "title": "Co-obbree er-mayrn",
+      "company": "Amazon fresh",
+      "location": "Irvine, Chalifornia, ny Steatyn Unnaneysit",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking niartaghyn er y shelf",
+        "Taggyrt ordreeyn son lught-thie er-line",
+        "Ordynyn packaghey son shirrey",
+        "Loading ordreeyn er ny truckyn livrey",
+        "Cur cooney da lught-thie dy gheddyn reddyn ayns y staghyn",
+        "Cummal y stashoon glan as ry-eaddagh",
+        "Cummal ammys slan as cairagh son ny customeryn as ny lurg-obbree"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Screeuyn Java",
+      "Screeuyn-Sheihl",
+      "Python;",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reaghaghey",
+      "Node.js",
+      "Bieau",
+      "Django;",
+      "JCeastagh"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Plattyr cloud Google"
+    ],
+    "databases": [
+      "Postgre SQL",
+      "MySQL",
+      "Casandra;"
+    ]
+  },
+  "languages": [
+    {
+      "name": "baarlagh",
+      "proficiency": "Cheeragh"
+    },
+    {
+      "name": "Shapaanagh",
+      "proficiency": "Cheeragh"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio;",
+      "description": "Lhiannoo-lhee freggyrtagh ta soilshaghey projeectyn as skillaghyn liorish ymmyd jeh tecnologyn web y traa t'ayn",
+      "technologies": [
+        "Reaghaghey",
+        "CSS3.",
+        "Design freggyrtagh"
+      ]
+    }
+  ]
+}

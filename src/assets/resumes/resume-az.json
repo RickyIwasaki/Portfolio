@@ -1,0 +1,121 @@
+{
+  "name": "Riki İvasaki",
+  "title": "Proqram təminatı mühəndisi",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Təcrübəli Proqram Tərtibatçı, böyük layihələrdə işləmək üçün yeni fürsət axtarır. Başqalarının istifadə etməsi üçün kod yaratmaq və ya əlavə etmək maraqlıdır. İnanıram ki, internetlə müqayisədə bacarıqlarım kiçikdir, ona görə də digər alətlər, xidmətlər, proqramlaşdırma dilləri ilə işləmək mənə çox maraqlıdır.",
+  "education": [
+    {
+      "degree": "Proqram Mühəndisliyi Sertifikatı",
+      "school": "Tramplin Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Fullerton Kaliforniya Dövlət Universiteti",
+      "location": "Fullerton, Kaliforniya, Amerika Birləşmiş Ştatları",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Orta məktəb diplomu",
+      "school": "Woodbridge Liseyi",
+      "location": "Irvine, Kaliforniya, Amerika Birləşmiş Ştatları",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Proqram təminatı mühəndisi",
+      "company": "MS-ZONE MMC.",
+      "location": "Irvine, Kaliforniya, Amerika Birləşmiş Ştatları",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "React və Node.js-dən istifadə edərək miqyaslana bilən veb proqramlar tərtib edilmiş və həyata keçirilmişdir",
+        "Tələbləri dəqiqləşdirmək və vaxtında çatdırılmanı təmin etmək üçün məhsul menecerləri ilə əməkdaşlıq edir",
+        "Veb tətbiqləri üçün RESTful API-ləri işləyib hazırlayıb",
+        "Tapşırıqları avtomatlaşdırmaq və səmərəliliyi artırmaq üçün hazırlanmış skriptlər"
+      ]
+    },
+    {
+      "title": "Tennis üzrə məşqçi köməkçisi",
+      "company": "İrvine şəhəri",
+      "location": "Irvine, Kaliforniya, Amerika Birləşmiş Ştatları",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "5-10 oyunçudan ibarət qrup şəraitində tennis texnikasının öyrədilməsi",
+        "Oyunçular üçün dərsi əyləncəli və maraqlı etmək",
+        "Meydançadakı oyunçuların, xüsusən də 3 yaşlı və 60 yaşlı gənc və yaşlı oyunçuların təhlükəsizliyinə cavabdehdir."
+      ]
+    },
+    {
+      "title": "Çıxan Assosiasiya",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kaliforniya, Amerika Birləşmiş Ştatları",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Rəfdəki əşyaların yenidən yığılması",
+        "Onlayn müştərilər üçün sifarişlərin seçilməsi",
+        "Göndərmə üçün sifarişlərin qablaşdırılması",
+        "Sifarişlərin çatdırılma maşınlarına yüklənməsi",
+        "Müştərilərə mağazada əşyalar tapmağa kömək etmək",
+        "Anbarı təmiz və mütəşəkkil saxlamaq",
+        "Müştərilər və işçilər üçün təhlükəsiz və mehriban mühitin saxlanması"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reaksiya",
+      "Node.js",
+      "Ekspres",
+      "Djanqo",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Doker",
+      "AWS",
+      "Jenkins",
+      "Google Bulud Platforması"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "İngilis dili",
+      "proficiency": "Doğma"
+    },
+    {
+      "name": "yapon",
+      "proficiency": "Doğma"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Müasir veb texnologiyalarından istifadə edərək layihələri və bacarıqları nümayiş etdirən həssas veb sayt",
+      "technologies": [
+        "Reaksiya",
+        "CSS3",
+        "Cavab verən dizayn"
+      ]
+    }
+  ]
+}

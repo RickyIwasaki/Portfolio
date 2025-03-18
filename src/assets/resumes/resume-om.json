@@ -1,0 +1,121 @@
+{
+  "name": "Riikii Iwaasaakii",
+  "title": "Injinarii Sooftiweerii",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Software Developer Muuxannoo Qabu, pirojektoota gurguddoof hojjechuuf carraa haaraa barbaada. Koodii namoonni biroo akka itti fayyadamaniif uumuu ykn dabaluudhaaf fedhii qabaachuu. Dandeettii koo interneetii wajjin wal bira qabamee yoo ilaalamu xiqqaadha jedheen amana, kanaaf meeshaalee, tajaajiloota, afaanota sagantaa biroo wajjin hojjechuuf fedhii guddaan qaba.",
+  "education": [
+    {
+      "degree": "Ragaa Injinariingii Sooftiweerii",
+      "school": "Bootkaampii Springboard",
+      "dates": "2022 - 2023tti"
+    },
+    {
+      "school": "Yuunivarsiitii Kutaa Kaalifoorniyaa Fullerton",
+      "location": "Fullerton, Kaalifoorniyaa, Ameerikaa",
+      "dates": "2021 - 2022. Afaan Oromoo"
+    },
+    {
+      "degree": "Dippiloomaa Mana Barumsaa Sadarkaa Lammaffaa",
+      "school": "Mana Barumsaa Sadarkaa Lammaffaa Woodbridge",
+      "location": "Irvine, Kaalifoorniyaa, Ameerikaa",
+      "dates": "2016 - 2021. Afaan Oromoo"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Injinarii Sooftiweerii",
+      "company": "MS-ZONE LLC jedhamuun beekama.",
+      "location": "Irvine, Kaalifoorniyaa, Ameerikaa",
+      "dates": "2023 - 2024tti",
+      "responsibilities": [
+        "React fi Node.js fayyadamuun aplikeeshiniiwwan weebii guddachuu danda'an ijaaree hojiirra oolche",
+        "Hoggantoota oomishaa waliin ta’uun ulaagaalee barbaachisan fooyyessuu fi yeroon akka dhiyaatu taasiseera",
+        "API RESTful application web tiif qopheessee fi kunuunse",
+        "Hojiiwwan ofumaan hojjechuu fi gahumsa fooyyessuuf iskiriiptii hojjete"
+      ]
+    },
+    {
+      "title": "Gargaaraa Leenjisaa Teenisi",
+      "company": "Magaalaa Irvine",
+      "location": "Irvine, Kaalifoorniyaa, Ameerikaa",
+      "dates": "2014 - 2019. Afaan Oromoo",
+      "responsibilities": [
+        "Tooftaalee teenisii garee taphattoota 5-10 ta’an keessatti barsiisuu",
+        "Barumsi taphattootaaf akka nama gammachiisu fi kan nama hawwatu gochuu",
+        "Nageenya taphattoota dirree irratti, keessattuu taphattoota xiqqaa fi guddaa, akka daa'imman waggaa 3 fi umuriin isaanii waggaa 60 ta'aniif itti gaafatamummaa kan qabu"
+      ]
+    },
+    {
+      "title": "Hiriyaa Alaa",
+      "company": "Amaazoon Haaraa",
+      "location": "Irvine, Kaalifoorniyaa, Ameerikaa",
+      "dates": "2024 - 2024tti",
+      "responsibilities": [
+        "Meeshaalee sheelfii irratti argaman deebisee kuusuu",
+        "Maamiltoota toora interneetii irratti ajaja fudhachuu",
+        "Ajaja kuusaa ergaa",
+        "Ajaja konkolaataa geejjibaa irratti fe'uu",
+        "Maamiltoonni meeshaalee mana daldalaa keessatti akka argatan gargaaruu",
+        "Manni kuusaa qulqullinaa fi qindaa’aa taasisuu",
+        "Maamiltootaa fi hojjettootaaf naannoo nageenya qabuu fi michuu ta’e eeguu"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JaavaScript",
+      "Iskiriiptii Gosa",
+      "Paayitoon",
+      "Jaavaa",
+      "C++ jedhu",
+      "SQL jedhamuun beekama"
+    ],
+    "frameworks": [
+      "Deebii kenni",
+      "Noodii.js",
+      "Ibsuu",
+      "Django",
+      "JQuery jedhamuun beekama"
+    ],
+    "tools": [
+      "Git",
+      "Docker jedhamu",
+      "AWS",
+      "Jenkins jedhamuun beekama",
+      "Waltajjii Duumeessa Google"
+    ],
+    "databases": [
+      "PostgreSQL booda",
+      "MySQL",
+      "Kaasaandraa"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Afaan Ingilizii",
+      "proficiency": "Dhalataa"
+    },
+    {
+      "name": "Afaan Jaappaan",
+      "proficiency": "Dhalataa"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Poortiifooliyoo",
+      "description": "Weebsaayitii deebii kennu kan pirojektootaa fi dandeettiiwwan teeknooloojiiwwan weebii ammayyaa fayyadamuun agarsiisu",
+      "technologies": [
+        "Deebii kenni",
+        "CSS3",
+        "Dizaayinii Deebii Kennu"
+      ]
+    }
+  ]
+}

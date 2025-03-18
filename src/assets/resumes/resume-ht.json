@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Enjenyè lojisyèl",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Yon Devlopè lojisyèl ki gen eksperyans, k ap chèche nouvo opòtinite pou travay pou gwo pwojè. Enterese nan kreye oswa ajoute kòd pou lòt moun itilize. Mwen kwè konpetans mwen yo piti konpare ak entènèt la, kidonk mwen enterese anpil nan travay ak lòt zouti, sèvis, langaj pwogramasyon.",
+  "education": [
+    {
+      "degree": "Sètifika Jeni lojisyèl",
+      "school": "Sou entènèt jwèt Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Kalifòni Eta Inivèsite Fullerton",
+      "location": "Fullerton, Kalifòni, Etazini",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diplòm Lekòl Segondè",
+      "school": "Woodbridge lekòl segondè",
+      "location": "Irvine, Kalifòni, Etazini",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Enjenyè lojisyèl",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifòni, Etazini",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Achitekte ak aplike aplikasyon web évolutive lè l sèvi avèk React ak Node.js",
+        "Kolabore ak manadjè pwodwi yo rafine kondisyon epi asire livrezon alè",
+        "Devlope epi kenbe API RESTful pou aplikasyon entènèt",
+        "Devlope scripts pou otomatize travay ak amelyore efikasite"
+      ]
+    },
+    {
+      "title": "Asistan antrenè tenis",
+      "company": "Vil Irvine",
+      "location": "Irvine, Kalifòni, Etazini",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Ansèyman teknik tenis nan yon gwoup 5-10 jwè",
+        "Fè leson an amizan ak enteresan pou jwè yo",
+        "Responsab sekirite jwè yo sou teren an, espesyalman pi piti ak pi gran jwè yo, tankou timoun 3 an ak 60 an."
+      ]
+    },
+    {
+      "title": "Sortant Asosye",
+      "company": "Amazon fre",
+      "location": "Irvine, Kalifòni, Etazini",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking atik sou etajè a",
+        "Chwazi lòd pou kliyan sou entènèt",
+        "Anbalaj lòd pou anbake",
+        "Chaje lòd sou kamyon livrezon yo",
+        "Ede kliyan jwenn atik nan magazen an",
+        "Kenbe depo a pwòp epi òganize",
+        "Kenbe yon anviwònman an sekirite ak zanmitay pou kliyan yo ak anplwaye yo"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Piton",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reyaji",
+      "Node.js",
+      "Eksprime",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "angle",
+      "proficiency": "Natifnatal"
+    },
+    {
+      "name": "Japonè",
+      "proficiency": "Natifnatal"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Yon sit entènèt ki reponn a montre pwojè ak ladrès lè l sèvi avèk teknoloji entènèt modèn",
+      "technologies": [
+        "Reyaji",
+        "CSS3",
+        "Konsepsyon reponn"
+      ]
+    }
+  ]
+}

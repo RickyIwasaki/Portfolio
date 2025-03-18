@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Ivasaki",
+  "title": "Software-imik ingeniøri",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Softwaremik ineriartortitsisoq misilittagalik, suliniutinut annertuunut sulinissamut periarfissamik nutaamik ujaasisoq. Allat atorsinnaasaannik kodemik pilersitsinissaq imaluunniit ilanngussaqarnissaq soqutigisaralugu. Isumaqarpunga piginnaasakka internetimut sanilliullugit mikisut, taamaattumik atortunik allanik, sullissinernik, programmeringssproginik suliaqarnissaq assut soqutigisaraara.",
+  "education": [
+    {
+      "degree": "Software-imik ingeniøritut uppernarsaat",
+      "school": "Fringbord-imik Bootcamp-imik",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Californiami ilinniarnertuunngorniarfik Fullertonimiittoq",
+      "location": "Fullerton, Californiamiittoq, USA-miittoq",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Gymnasiami Diplom",
+      "school": "Woodbridgemi atuarfimmi",
+      "location": "Irvine, Californiamiittoq, USA-miittoq",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software-imik ingeniøri",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Californiamiittoq, USA-miittoq",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "React aamma Node.js atorlugit web-applikationit skalersinnaasut sananeqarsimapput aammalu atuutilersinneqarsimallutik",
+        "Piumasaqaatit pitsanngorsarniarlugit aamma piffissaq eqqorlugu nioqquteqarnissaq qulakkeerlugu nioqqutissanik aqutsisut suleqatigalugit",
+        "Web-applikationinut RESTful API-nik ineriartortitsisimavoq aammalu pilersorsimalluni",
+        "Suliassanik automatiseriinissamut aamma pitsaassuseq pitsanngorsarniarlugu scriptinik ineriartortitsivoq"
+      ]
+    },
+    {
+      "title": "Tennis-imi sungiusaasutut ikiorti",
+      "company": "Irvinep illoqarfia",
+      "location": "Irvine, Californiamiittoq, USA-miittoq",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Tennis-imik teknikkimik ilinniartitsineq gruppe-mi 5-10-nik sungiusaasunik",
+        "Ilinniartitsineq sungiusaasunut nuannersunngortinniarlugu intertaining-inngortinniarlugu",
+        "Arsaattarfimmi sungiusaasut isumannaallisaanissaannut akisussaasuuneq, ingammik sungiusaasut inuusuttut utoqqaanerusullu, soorlu 3-nik ukiullit aamma 60-inik ukiullit"
+      ]
+    },
+    {
+      "title": "Avatangiisinut suleqatigisaq",
+      "company": "Amazon Nutaaq",
+      "location": "Irvine, Californiamiittoq, USA-miittoq",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Nioqqutissanik illup iluani pilersuineq",
+        "Onlinekkut pisisartunut inniminniinernik tigusineq",
+        "Nassiussassanik poortorneq",
+        "Inniminniinernik nassiussassanik lastbiilinut ikkussineq",
+        "Pisiniarfimmi nioqqutissanik nassaarnissamut pisisartut ikiorneqarnerat",
+        "Lager-imik eqqiluitsumik aaqqissuussamillu ingerlatsineq",
+        "Ataasiakkaanut sulisunullu isumannaatsumik aammalu ajunngitsumik avatangiisimik pilersitsineq"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaSkript",
+      "Allattoq",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reaktion",
+      "Knude.js",
+      "Qanoq misiginermik nassuiaat",
+      "Django",
+      "JApeqqut"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkinsi",
+      "Google-ip cloudip nittartagaa"
+    ],
+    "databases": [
+      "SQL-ip kingorna",
+      "Uanga SQL",
+      "Kassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "tuluttut",
+      "proficiency": "Nunap inoqqaava"
+    },
+    {
+      "name": "Japanimiut",
+      "proficiency": "Nunap inoqqaava"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Nittartagaq akissuteqarluartoq, ullumikkut webteknologiit atorlugit suliniutinik piginnaasanillu takutitsisoq",
+      "technologies": [
+        "Reaktion",
+        "CSS3",
+        "Akissuteqarluarsinnaasumik Design"
+      ]
+    }
+  ]
+}

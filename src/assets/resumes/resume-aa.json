@@ -1,0 +1,121 @@
+{
+  "name": "Riiki Iwasaaki",
+  "title": "Softi weer mahandis",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Abak raag le softi weer dadlise, kaxxa cugaysoosah taamituh qusba saami gorrisa. gersi mari edde yantifiquh koox hadlaanam akkek ossaanamal fayxi lon. Anu innih yan numuk, internetit celsiisak, yi dudda qunxah, tohih taagah gersi silaacitte, ayfaafayitte, programming afitte luk taamitaanamih fayxi liyo.",
+  "education": [
+    {
+      "degree": "Softi weer Injineeringih sumaqta",
+      "school": "Rabbo luucih Bootkampi",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Kaliforniyah Rakaakayak Fullerton Jaamiqatak",
+      "location": "Fulerten, Kaliforniya, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Nammey haytoh caddoh barittoh buxah Diploma",
+      "school": "Woodbiriij fayyale caddoh barittoh buxa",
+      "location": "Irviin, Kaliforniya, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Softi weer mahandis",
+      "company": "MS-RASI LLC.",
+      "location": "Irviin, Kaliforniya, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "gacsi kee Node.js xoqoysimak qeedaalisso qarok-qariitâ assabaltooti xisne kee abbinotteh",
+        "murtisso saqolti lih cattiimak raqtem massoosaanam kee waktil mattacoo diggoosaanama",
+        "Qarok-qariitâ assabaltootih RESTful APIs dadlisaanam kee massoosaanam",
+        "taamoomi sissikuk abtaanam kee dudda yaysiisoonuh kutbeeba dadlisen"
+      ]
+    },
+    {
+      "title": "Tennis aydakaakanise cateyna",
+      "company": "Irviin Magaala",
+      "location": "Irviin, Kaliforniya, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "5-10 takke digir abeynit buttah addal tennis cogda barsaanam",
+        "Qasiir digir abah ruftoo kee rufto abaanama",
+        "masquuliyat amaanah digir aba cokmi buxal, baxsa luk furraynuu kee kaxxa digir aba, 3 karmat yan maraa kee 60 karmat yan mara"
+      ]
+    },
+    {
+      "title": "Iroh yawqe waklentit",
+      "company": "Amaazon Qusba",
+      "location": "Irviin, Kaliforniya, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Rooriseynal uwwayti qagitak kobxisaanama",
+        "suuquntal madruurwah amritte ugusaanam",
+        "markabisso alfentih amritte",
+        "amritte gufneh merraytut quuka",
+        "Madruurwa makaadin addat tan uwwayti geyoonuh cato abaanama",
+        "makaazin saytuniih massoosaanam",
+        "Madruurwaa kee taameyniitih amaan kee bicale dariifa dacrisaanama"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Jaava kutbe",
+      "kutbe qaynat",
+      "Payten",
+      "Jaava",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Gacsa aba",
+      "Node.js",
+      "Axciyya",
+      "Jango",
+      "Jessero"
+    ],
+    "tools": [
+      "Git",
+      "Doker",
+      "AWS",
+      "Jenkins",
+      "googil qammurreh pilaatformi"
+    ],
+    "databases": [
+      "postgreSQL",
+      "YiSQL",
+      "Kasandira"
+    ]
+  },
+  "languages": [
+    {
+      "name": "engliiz afa",
+      "proficiency": "Baaxo baxa"
+    },
+    {
+      "name": "Jabbaan af",
+      "proficiency": "Baaxo baxa"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mayballaata",
+      "description": "qasri weeb teknoloojit xoqoysimak cugaysoosa kee mehrat yaybulleem gacsa le weebsaayiti",
+      "technologies": [
+        "Gacsa aba",
+        "CSS3",
+        "Gacsa le goolisso"
+      ]
+    }
+  ]
+}

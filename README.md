@@ -37,6 +37,7 @@ npm start
 
 I'm eager to learn and grow as a developer. Feel free to reach out:
 - https://www.linkedin.com/in/ricky-iwasaki/
+- https://github.com/RickyIwasaki
 - rickyiwasaki@gmail.com
 
 ---

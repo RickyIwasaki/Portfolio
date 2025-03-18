@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki sutiyuq runa",
+  "title": "Ingeniero de Software nisqa",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Huk Yachaysapa Software Paqarichiq, musuq oportunidadta maskaspa hatun llamkanakunapaq llamk'anapaq. Hukkuna llamk'achinankupaq codigo ruwayta utaq yapayta munaspa. Creeni yachayniy huch’uylla kasqankuta internetwan tupachisqa, chayrayku anchata munani huk yanapakuykunawan, yanapakuykunawan, programacion simikunawan llamk’ayta.",
+  "education": [
+    {
+      "degree": "Software Ingeniería nisqamanta Certificado",
+      "school": "Trampolín Bootcamp nisqa",
+      "dates": "2022 watamanta 2023 watakama"
+    },
+    {
+      "school": "California suyu Fullerton Yachay Sunturnin",
+      "location": "Fullerton (California, Estados Unidos) llaqtapi",
+      "dates": "2021 watamanta 2022 watakama"
+    },
+    {
+      "degree": "Diploma de Escuela Secundaria nisqa",
+      "school": "Woodbridge hatun yachay wasi",
+      "location": "Irvine (California, Estados Unidos) llaqtapi",
+      "dates": "2016 - 2021 watakunapi"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ingeniero de Software nisqa",
+      "company": "MS-ZONE LLC nisqa.",
+      "location": "Irvine (California, Estados Unidos) llaqtapi",
+      "dates": "2023 watamanta 2024 watakama",
+      "responsibilities": [
+        "React chaymanta Node.js kaqwan web ruwanakuna escalable kaqwan ruwasqa chaymanta ruwasqa",
+        "Ruru kamachiqkunawan kuskachasqa, mañakuykunata allinchaypaq chaymanta pachanpi chayachiyta qhawanapaq",
+        "Web ruwanakunarayku RESTful APIkuna ruwasqa chaymanta waqaychasqa",
+        "Ruwaykunata kikillanmanta ruwanapaq chaymanta allin ruwayta allinchaypaq scriptkuna ruwasqa"
+      ]
+    },
+    {
+      "title": "Yanapaq Entrenador de Tenis",
+      "company": "Irvine llaqta",
+      "location": "Irvine (California, Estados Unidos) llaqtapi",
+      "dates": "2014 - 2019 watakunapi",
+      "responsibilities": [
+        "5-10 pukllaqkuna huñupi tenis yachaykunata yachachiy",
+        "Yachachiyta kusichiq, pukllaqkunapaq kusichiq ruway",
+        "Responsable kanchapi pukllaqkunapa seguridadninmanta, aswantaqa sullka hinaspa kuraq pukllaqkuna, 3 watayuq hinallataq 60 watayuq hina"
+      ]
+    },
+    {
+      "title": "Asociado Salida nisqa",
+      "company": "Amazon Fresh nisqa",
+      "location": "Irvine (California, Estados Unidos) llaqtapi",
+      "dates": "2024 watamanta 2024 watakama",
+      "responsibilities": [
+        "Estantepi kaqkunata wakmanta churay",
+        "Internetpi rantiqkunapaq pedidokunata akllay",
+        "Envío nisqapaq pedidokuna embalaje",
+        "Chay apachiq camionkunaman pedidokunata cargay",
+        "Tiendapi imakunatapas tarinankupaq rantiqkunata yanapay",
+        "Almacén nisqa limpio hinaspa organizasqa kananpaq",
+        "Clientekunapaq, llamkaqkunapaqpas seguro hinaspa amistadniyuq enviroment nisqa waqaychay"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript nisqamanta",
+      "TypeScript nisqa",
+      "Pitón nisqa",
+      "Java",
+      "C++ nisqa",
+      "SQL nisqa"
+    ],
+    "frameworks": [
+      "Reaccionay",
+      "Nodo.js",
+      "Utqay",
+      "Django",
+      "JQuery nisqa"
+    ],
+    "tools": [
+      "Git",
+      "Docker nisqa",
+      "AWS",
+      "Jenkins sutiyuq runa",
+      "Google Cloud Plataforma nisqa"
+    ],
+    "databases": [
+      "PostgreSQL nisqamanta",
+      "MySQL nisqa",
+      "Cassandra sutiyuq warmi"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Ingles Simi",
+      "proficiency": "Nativo"
+    },
+    {
+      "name": "Japonés simi",
+      "proficiency": "Nativo"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cartera nisqa",
+      "description": "Huk kutichiq web kiti proyectokunata chaymanta yachaykunata rikuchiq kunan pacha web tecnologiakuna llamk'achispa",
+      "technologies": [
+        "Reaccionay",
+        "CSS3",
+        "Diseño Responsivo nisqa"
+      ]
+    }
+  ]
+}

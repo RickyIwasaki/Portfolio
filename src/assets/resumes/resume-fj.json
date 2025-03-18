@@ -1,0 +1,121 @@
+{
+  "name": "Riki Iwasaki",
+  "title": "Idinia ni parokaramu ni komipiuta",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "E dua na dauvakatorocaketaki ni parokaramu ni komipiuta kilai levu, vakasaqara na madigi vou me cakacaka ena veicakacaka lelevu. Taleitaka na kena buli se vakacurumi na code me ra vakayagataka eso tale. Au vakabauta ni noqu kila e lailai ni vakatauvatani kei na initaneti, o koya gona au taleitaka sara vakalevu na cakacaka vata kei na iyaya ni cakacaka tale eso, veiqaravi, vosa ni parokaramu.",
+  "education": [
+    {
+      "degree": "Sitivikiti ni Idinia ni parokaramu ni komipiuta",
+      "school": "Keba ni Vakatasuasua",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Na Univesiti ni Yasana o Kalifonia",
+      "location": "Fullerton, Kalifonia, Amerika.",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Dipoloma ni vuli torocake",
+      "school": "Koronivuli torocake ni Vuli",
+      "location": "Irvine, Kalifonia, Amerika.",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Idinia ni parokaramu ni komipiuta",
+      "company": "MS-VANUA LLC.",
+      "location": "Irvine, Kalifonia, Amerika.",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Vakarautaki ka vakayacori na itukutuku ni veiqaravi ena kena vakayagataki na React kei na Node.js",
+        "Cakacaka vata kei ira na manidia ni ka e buli me vakavinakataki kina na veika e gadrevi ka vakadeitaka na kena vakau ena kena gauna dodonu .",
+        "Vakatorocaketaki ka maroroi na APIs ni RESTful me baleta na itukutuku ni veiqaravi",
+        "Vakatorocaketaki na volavola me vakayacora na cakacaka ka vakavinakataka na cakacaka"
+      ]
+    },
+    {
+      "title": "iVukevuke ni Dauveivakatavulici ni Tenisi",
+      "company": "Siti o Irvine",
+      "location": "Irvine, Kalifonia, Amerika.",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Vakavulici ni iwalewale ni tenisi ena dua na ituvatuva ni ilawalawa ni 5-10 na dauqito",
+        "Me marautaki ka veivakamarautaki na lesoni vei ira na dauqito",
+        "Vakaitavi ena nodra taqomaki na dauqito ena rara, vakabibi vei ira na dauqito gone kei na qase, me vakataki ira na yabaki 3 kei na yabaki 60 ."
+      ]
+    },
+    {
+      "title": "Veitokani ni Taudaku",
+      "company": "Amazon Vou",
+      "location": "Irvine, Kalifonia, Amerika.",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Vakavoutaka na iyaya ena katubaleka",
+        "Digitaka na ota me baleta na kasitama ena initaneti",
+        "Ota ni vakavodoki me baleta na vakau",
+        "Vakavodoki na ota ki na lori ni veisoliyaki",
+        "Vukei ira na kasitama mera kunea na iyaya ena sitoa",
+        "Me savasava qai tuvanaki vinaka na vale ni maroroi iyaya .",
+        "Maroroya e dua na vanua taqomaki ka veimaliwai vei ira na kasitama kei na tamata cakacaka ."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Javavolavola",
+      "Taipavolavola",
+      "Paitoni",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Sauma",
+      "Node.js",
+      "Vakaraitaka",
+      "Django",
+      "JTaro"
+    ],
+    "tools": [
+      "Git",
+      "Doka",
+      "AWS",
+      "Jenikini",
+      "Tuvatuva ni o ni Google"
+    ],
+    "databases": [
+      "SQL ni itukutuku",
+      "Noqu SQL",
+      "Kasadra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Vosa vakavalagi",
+      "proficiency": "Vanua"
+    },
+    {
+      "name": "Japani",
+      "proficiency": "Vanua"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Potefolio",
+      "description": "E dua na itukutuku ni veiqaravi e vakaraitaka na cakacaka kei na kila ka ena kena vakayagataki na tekinolaji ni itukutuku ni gauna oqo .",
+      "technologies": [
+        "Sauma",
+        "CSS3",
+        "Na ituvatuva ni saumitaro"
+      ]
+    }
+  ]
+}

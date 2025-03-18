@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Softverski inženjer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Iskusni programer softvera, traži novu priliku za rad na velikim projektima. Zanima me stvaranje ili dodavanje koda za korištenje drugima. Vjerujem da su moje vještine male u usporedbi s internetom, pa me jako zanima rad s drugim alatima, servisima, programskim jezicima.",
+  "education": [
+    {
+      "degree": "Certifikat softverskog inženjerstva",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Kalifornijsko državno sveučilište Fullerton",
+      "location": "Fullerton, Kalifornija, SAD",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma srednje škole",
+      "school": "Srednja škola Woodbridge",
+      "location": "Irvine, Kalifornija, SAD",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Softverski inženjer",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornija, SAD",
+      "dates": "2023 - 2024 (prikaz, stručni).",
+      "responsibilities": [
+        "Projektirao i implementirao skalabilne web aplikacije koristeći React i Node.js",
+        "Surađivao s voditeljima proizvoda kako bi se poboljšali zahtjevi i osigurala pravovremena isporuka",
+        "Razvijen i održavan RESTful API-ji za web aplikacije",
+        "Razvijene skripte za automatizaciju zadataka i poboljšanje učinkovitosti"
+      ]
+    },
+    {
+      "title": "Pomoćni teniski trener",
+      "company": "Grad Irvine",
+      "location": "Irvine, Kalifornija, SAD",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Podučavanje teniskih tehnika u grupi od 5-10 igrača",
+        "Učiniti lekciju zabavnom i zabavnom za igrače",
+        "Odgovoran za sigurnost igrača na terenu, posebno mlađih i starijih igrača, poput 3-godišnjaka i 60-godišnjaka"
+      ]
+    },
+    {
+      "title": "Odlazni suradnik",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornija, SAD",
+      "dates": "2024 - 2024 (prikaz, stručni).",
+      "responsibilities": [
+        "Obnavljanje zaliha na polici",
+        "Primanje narudžbi za online kupce",
+        "Pakiranje narudžbi za otpremu",
+        "Utovar narudžbi u kamione za dostavu",
+        "Pomaganje kupcima u pronalaženju artikala u trgovini",
+        "Održavanje skladišta čistim i organiziranim",
+        "Održavanje sigurnog i prijateljskog okruženja za kupce i zaposlenike"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Piton",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagiraj",
+      "Node.js",
+      "Izraziti",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Lučki radnik",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "engleski",
+      "proficiency": "Zavičajni"
+    },
+    {
+      "name": "japanski",
+      "proficiency": "Zavičajni"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfelj",
+      "description": "Responzivna web stranica koja prikazuje projekte i vještine korištenjem modernih web tehnologija",
+      "technologies": [
+        "Reagiraj",
+        "CSS3",
+        "Responzivni dizajn"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "In betûfte softwareûntwikkelder, op syk nei nije kâns om te wurkjen foar grutte projekten. Ynteressearre yn it meitsjen of tafoegjen fan koade foar oaren om te brûken. Ik leau dat myn feardichheden lyts binne yn ferliking mei it ynternet, dus ik bin tige ynteressearre yn it wurkjen mei oare ark, tsjinsten, programmeartalen.",
+  "education": [
+    {
+      "degree": "Software Engineering Sertifikaat",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University fan Fullerton",
+      "location": "Fullerton, California, Feriene Steaten",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "High School Diploma",
+      "school": "Woodbridge High School",
+      "location": "Irvine, California, Feriene Steaten",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, Feriene Steaten",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arsjitektearre en ymplementearre skaalbere webapplikaasjes mei React en Node.js",
+        "Gearwurke mei produktbehearders om easken te ferfine en yntiidske levering te garandearjen",
+        "Untwikkele en ûnderhâlden RESTful API's foar webapplikaasjes",
+        "Scripts ûntwikkele om taken te automatisearjen en effisjinsje te ferbetterjen"
+      ]
+    },
+    {
+      "title": "Assistint tenniscoach",
+      "company": "City of Irvine",
+      "location": "Irvine, California, Feriene Steaten",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Tennistechniken leare yn in groepsynstelling fan 5-10 spilers",
+        "It meitsjen fan de les leuk en yntertaining foar de spilers",
+        "Ferantwurdlik foar de feiligens fan de spilers op it terrein, benammen de jongere en âldere spilers, lykas 3-jierrigen en 60-jierrigen"
+      ]
+    },
+    {
+      "title": "Outbound Associate",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, Feriene Steaten",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking items op 'e planke",
+        "Bestellingen kieze foar online klanten",
+        "Ferpakking oarders foar skipfeart",
+        "It laden fan oarders op de frachtweinen",
+        "Klanten helpe items te finen yn 'e winkel",
+        "Hâld it pakhús skjin en organisearre",
+        "Hâld in feilige en freonlike omjouwing foar de klanten en meiwurkers"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaSkript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagearje",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platfoarm"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Ingelsk",
+      "proficiency": "Ynlânske"
+    },
+    {
+      "name": "Japansk",
+      "proficiency": "Ynlânske"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "In responsive webside dy't projekten en feardigens toant mei moderne webtechnologyen",
+      "technologies": [
+        "Reagearje",
+        "CSS3",
+        "Responsive Design"
+      ]
+    }
+  ]
+}

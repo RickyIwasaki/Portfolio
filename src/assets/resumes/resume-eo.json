@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Programaro Inĝeniero",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Sperta Programaro, serĉanta novan ŝancon labori por grandaj projektoj. Interesas krei aŭ aldoni kodon por aliaj uzi. Mi kredas, ke miaj kapabloj estas malgrandaj kompare kun la interreto, do mi tre interesas labori kun aliaj iloj, servoj, programlingvoj.",
+  "education": [
+    {
+      "degree": "Atestilo pri Programaro",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Kalifornia Ŝtata Universitato de Fullerton",
+      "location": "Fullerton, Kalifornio, Usono",
+      "dates": "2021-2022"
+    },
+    {
+      "degree": "Mezlerneja Diplomo",
+      "school": "Woodbridge Mezlernejo",
+      "location": "Irvine, Kalifornio, Usono",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Programaro Inĝeniero",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornio, Usono",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Arkitektis kaj efektivigis skaleblajn TTT-aplikaĵojn uzante React kaj Node.js",
+        "Kunlaboris kun produktaj administrantoj por rafini postulojn kaj certigi ĝustatempan liveron",
+        "Disvolvis kaj konservis RESTful-APIojn por TTT-aplikoj",
+        "Disvolvitaj skriptoj por aŭtomatigi taskojn kaj plibonigi efikecon"
+      ]
+    },
+    {
+      "title": "Helpa Tenistrejnisto",
+      "company": "Grandurbo de Irvine",
+      "location": "Irvine, Kalifornio, Usono",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Instruado de tenisteknikoj en grupa medio de 5-10 ludantoj",
+        "Farante la lecionon amuza kaj amuza por la ludantoj",
+        "Respondeca pri la sekureco de la ludantoj sur la tribunalo, precipe la pli junaj kaj pli maljunaj ludantoj, kiel 3-jaraj kaj 60-jaraj."
+      ]
+    },
+    {
+      "title": "Elira Asocio",
+      "company": "Amazon Freŝa",
+      "location": "Irvine, Kalifornio, Usono",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Reprovizado de aĵoj sur la breto",
+        "Elektante mendojn por interretaj klientoj",
+        "Pakado de mendoj por sendo",
+        "Ŝargado de mendoj sur la liverkamionojn",
+        "Helpi klientojn trovi erojn en la vendejo",
+        "Teni la magazenon pura kaj organizita",
+        "Tenante sekuran kaj amikan medion por la klientoj kaj dungitoj"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagi",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "la angla",
+      "proficiency": "Indiĝeno"
+    },
+    {
+      "name": "Japanoj",
+      "proficiency": "Indiĝeno"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Respondema retejo prezentanta projektojn kaj kapablojn uzante modernajn retajn teknologiojn",
+      "technologies": [
+        "Reagi",
+        "CSS3",
+        "Respondema Dezajno"
+      ]
+    }
+  ]
+}

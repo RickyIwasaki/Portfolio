@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Injineer Software",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Soo-saare Software khibrad u leh, raadinaya fursad cusub oo uu kaga shaqeeyo mashaariicda waaweyn. Waxaan xiisaynayaa abuurista ama ku darista koodka dadka kale si ay u isticmaalaan. Waxaan aaminsanahay in xirfadahaygu ay yar yihiin marka la barbardhigo internetka, sidaas darteed waxaan aad u xiiseynayaa la shaqeynta qalabka kale, adeegyada, luqadaha barnaamijyada.",
+  "education": [
+    {
+      "degree": "Shahaadada Injineerinka Software",
+      "school": "Bootcamp Springboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Jaamacadda Gobolka California ee Fullerton",
+      "location": "Fullerton, California, Mareykanka",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Shahaadada Dugsiga Sare",
+      "school": "Dugsiga Sare ee Woodbridge",
+      "location": "Irvine, California, Mareykanka",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Injineer Software",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, Mareykanka",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "La habeeyey oo la hirgeliyey codsiyada shabakadda ee la miisaami karo iyadoo la adeegsanayo React iyo Node.js",
+        "La kaashaday maamulayaasha alaabada si loo hagaajiyo shuruudaha loona hubiyo keenista waqtiga",
+        "APIs RESTful loo sameeyay oo la dayactiray ee codsiyada shabakada",
+        "Qoraallo la sameeyay si otomaatig loogu sameeyo hawlaha oo loo horumariyo hufnaanta"
+      ]
+    },
+    {
+      "title": "Kaaliyaha Tababaraha Teniska",
+      "company": "Magaalada Irvine",
+      "location": "Irvine, California, Mareykanka",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Barista farsamooyinka teniska ee koox koox ah oo ka kooban 5-10 ciyaartoy",
+        "Ka dhigista casharka mid madadaalo leh oo soo jiidasho leh ciyaartoyda",
+        "Isagoo ka mas'uul ah badbaadada ciyaartoyda maxkamadda, gaar ahaan ciyaartoyda da'da yar iyo kuwa ka weyn, sida 3 jir iyo 60 jir."
+      ]
+    },
+    {
+      "title": "Xiriiriyaha dibadda",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, Mareykanka",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Dib u soo celinta alaabta shelf",
+        "Codsiga dalabaadka macaamiisha onlaynka ah",
+        "Dalabka baakaynta ee rarida",
+        "Ku rarida dalabaadka gawaarida xamuulka qaada",
+        "Ka caawinta macaamiisha inay alaab ka helaan dukaanka",
+        "Ilaalinta nadiifinta iyo habaynta bakhaarka",
+        "U haynta jawi badbaado leh oo saaxiibtinimo leh macaamiisha iyo shaqaalaha"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Nooca Qoraalka",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Ka fal celi",
+      "Node.js",
+      "Express",
+      "DJango",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Ingiriis",
+      "proficiency": "Dhalad"
+    },
+    {
+      "name": "Jabbaan",
+      "proficiency": "Dhalad"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Websaydh jawaab celin ah oo soo bandhigaya mashaariic iyo xirfado la isticmaalayo tignoolajiyada shabakada casriga ah",
+      "technologies": [
+        "Ka fal celi",
+        "CSS3",
+        "Naqshad jawaab celin leh"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki ye baara kɛ",
+  "title": "Porozɛw ka Ɛntɛrinɛti ɲɛmɔgɔ",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Porozɛw dilannikɛla ŋana, min bɛ cogo kura ɲini ka baara kɛ porozɛbaw la. A b’a fɛ ka kode dilan walima k’a fara a kan walasa mɔgɔ wɛrɛw ka baara kɛ n’a ye. Ne dalen b’a la ko ne ka sekow ka dɔgɔ n’i y’a suma ni ɛntɛrinɛti ye, o de kama n b’a fɛ kosɛbɛ ka baara kɛ ni baarakɛminɛn wɛrɛw ye, ni baarakɛminɛn wɛrɛw ye, ni porogaramukan wɛrɛw ye.",
+  "education": [
+    {
+      "degree": "Porozɛw ka Ɛntɛrinɛti kalansɛbɛn",
+      "school": "Bootcamp ka baarakɛminɛnw",
+      "dates": "2022 - 2023 sànw"
+    },
+    {
+      "school": "Kalifɔrni jamana ka Iniwɛrisite min bɛ Fullerton",
+      "location": "Fullerton, Kalifɔrni, Etazuni jamana na",
+      "dates": "2021 - 2022 sànw na"
+    },
+    {
+      "degree": "Lise Diplôme (Diplome) min bɛ sɔrɔ Lise la",
+      "school": "Woodbridge lise la",
+      "location": "Irvine, Kalifɔrni, Etazuni jamana na",
+      "dates": "2016 - 2021 sànw"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Porozɛw ka Ɛntɛrinɛti ɲɛmɔgɔ",
+      "company": "MS-ZONE LLC ye baara kɛ.",
+      "location": "Irvine, Kalifɔrni, Etazuni jamana na",
+      "dates": "2023 - 2024 sànw na",
+      "responsibilities": [
+        "A ye ɛntɛrinɛti baarakɛminɛnw labɛn ani k’u waleya minnu bɛ se ka sɛgɛsɛgɛ ni React ni Node.js ye",
+        "A ni fɛn dilanni ɲɛmɔgɔw ye jɛkafɔ kɛ walasa ka wajibiw nɔgɔya ani ka fɛnw lase waati bɛnnen na",
+        "RESTful APIw labɛnna ani k’u ladon ɛntɛrinɛti baarakɛminɛnw kama",
+        "Scriptw labɛnna walasa ka baara kɛ otomatiki la ani ka baarakɛcogo ɲɛ"
+      ]
+    },
+    {
+      "title": "Tennis ɲɛmɔgɔ dɛmɛbaa",
+      "company": "Irvine dugu kɔnɔ",
+      "location": "Irvine, Kalifɔrni, Etazuni jamana na",
+      "dates": "2014 - 2019 sànw",
+      "responsibilities": [
+        "Tenisi fɛɛrɛw kalanni kulu kɔnɔ, ntolatanna 5-10 bɛ min kɔnɔ",
+        "Ka kalan kɛ ɲɛnajɛ ni ɲɛnajɛ ye tulonkɛlaw bolo",
+        "A ka baara ye ntolatannaw lakanani ye kɛnɛ kan, kɛrɛnkɛrɛnnenya la ntolatanna fitininw ni mɔgɔkɔrɔbaw, i n’a fɔ san 3 ni san 60 denmisɛnw"
+      ]
+    },
+    {
+      "title": "Baarakɛɲɔgɔn min bɛ bɔ kɛnɛ kan",
+      "company": "Amazon Fresh ye",
+      "location": "Irvine, Kalifɔrni, Etazuni jamana na",
+      "dates": "2024 - 2024 sànw na",
+      "responsibilities": [
+        "Fɛn minnu bɛ tabali kan, olu bilali kokura",
+        "Ka komandiw ta ɛntɛrinɛti kan kiliyanw ye",
+        "Packing komandiw ka ɲɛsin cikanw ma",
+        "Ka komandiw doni fɛnw lase kamiyɔnw kan",
+        "Ka kiliyanw dɛmɛ u ka fɛnw sɔrɔ magasa kɔnɔ",
+        "Ka fɛnmarayɔrɔ saniya ani ka a labɛn",
+        "Ka sigida lakananen ni teriya kɛ kiliyanw ni baarakɛlaw ye"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript (JavaScript) ye",
+      "TypeScript (Sɛbɛnni sɛbɛnni).",
+      "Python (Piton) ye",
+      "Java",
+      "C++ (C++) ye",
+      "SQL (SQL) ye"
+    ],
+    "frameworks": [
+      "Aw ye aw yɛrɛ minɛ",
+      "Node.js ye",
+      "Ka kuma",
+      "Django",
+      "JQuery ye"
+    ],
+    "tools": [
+      "Git",
+      "Docker (Dɔgɔtɔrɔso).",
+      "AWS (AWS) ye",
+      "Jenkins ye",
+      "Google Cloud Platform (Sankaba-yɔrɔ) ye"
+    ],
+    "databases": [
+      "PostgreSQL ka baara",
+      "MySQL ye",
+      "Cassandra ye baara kɛ"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Angilɛtɛri",
+      "proficiency": "Dugulen"
+    },
+    {
+      "name": "Zapɔnkan na",
+      "proficiency": "Dugulen"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portefeuille (portfolio) min bɛ yen",
+      "description": "Site web min bɛ jaabi di, min bɛ porozɛw ni sekow jira ni bi ɛntɛrinɛti fɛɛrɛw ye",
+      "technologies": [
+        "Aw ye aw yɛrɛ minɛ",
+        "CSS3",
+        "Dilan min bɛ jaabi di"
+      ]
+    }
+  ]
+}

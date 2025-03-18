@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "An Experienced Software Developer, seeking new opportunity to work for big projects. Interested in creating or adding code for others to use. I believe my skills are small compared to the internet, so I am very interested in working with other tools, services, programming languages.",
+  "education": [
+    {
+      "degree": "Software Engineering Certificate",
+      "school": "Springboard Bootcamp",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California State University of Fullerton",
+      "location": "Fullerton, California, USA",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "High School Diploma",
+      "school": "Woodbridge High School",
+      "location": "Irvine, California, USA",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Architected and implemented scalable web applications using React and Node.js",
+        "Collaborated with product managers to refine requirements and ensure timely delivery",
+        "Developed and maintained RESTful APIs for web applications",
+        "Developed scripts to automate tasks and improve efficiency"
+      ]
+    },
+    {
+      "title": "Assistant Tennis Coach",
+      "company": "City of Irvine",
+      "location": "Irvine, California, USA",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Teaching tennis techniques in a group setting of 5-10 players",
+        "Making the lesson fun and intertaining for the players",
+        "Responsible for the safety of the players on the court, especially the younger and older players, like 3 year olds and 60 year olds"
+      ]
+    },
+    {
+      "title": "Outbound Associate",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, USA",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Restocking items on the shelf",
+        "Picking orders for online customers",
+        "Packing orders for shipping",
+        "Loading orders onto the delivery trucks",
+        "Helping customers find items in the store",
+        "Keeping the warehouse clean and organized",
+        "Keeping a safe and friendly enviroment for the customers and employees"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Express",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Native"
+    },
+    {
+      "name": "Japanese",
+      "proficiency": "Native"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "A responsive website showcasing projects and skills using modern web technologies",
+      "technologies": [
+        "React",
+        "CSS3",
+        "Responsive Design"
+      ]
+    }
+  ]
+}

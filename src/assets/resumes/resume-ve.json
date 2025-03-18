@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Muinzhiniyara wa Sofuthiwee",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Mubveledzi wa Software a re na tshenzhemo, a tshi ṱoḓa tshikhala tshiswa tsha u shuma kha phurojeke khulwane. U vha na dzangalelo ḽa u sika kana u engedza khoudu uri vhaṅwe vha kone u i shumisa. Ndi tenda uri vhukoni hanga ndi vhuṱuku musi ndi tshi vhambedza na inthanethe, ngauralo ndi na dzangalelo ḽihulwane ḽa u shuma na zwiṅwe zwishumiswa, tshumelo, nyambo dza u phurogirema.",
+  "education": [
+    {
+      "degree": "Ṱhanziela ya Vhuinzhiniere ha Sofuthiwee",
+      "school": "Bootcamp ya tshipiringibodo",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Yunivesithi ya Muvhuso wa California ya Fullerton",
+      "location": "Fullerton, California, U.S.A.",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma ya Tshikolo tsha Nṱha",
+      "school": "Tshikolo tsha Nṱha tsha Woodbridge",
+      "location": "Irvine, ngei California, U.S.A.",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Muinzhiniyara wa Sofuthiwee",
+      "company": "MS-ZUNU LLC.",
+      "location": "Irvine, ngei California, U.S.A.",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "U fhaṱa na u shumisa tshumiso dza webusaithi dzine dza nga linganiswa hu tshi shumiswa React na Node.js .",
+        "Ro shumisana na vhalanguli vha zwibveledzwa u khwinisa ṱhoḓea na u vhona uri zwi ḓiswa nga tshifhinga",
+        "Vho bveledza na u ṱhogomela RESTful APIs dza tshumiso dza webusaithi",
+        "Ho bveledzwa maṅwalo a u ḓiitela mishumo na u khwinisa vhukoni"
+      ]
+    },
+    {
+      "title": "Muthusi wa Mugudisi wa Thenisi",
+      "company": "Ḓorobo ya Irvine",
+      "location": "Irvine, ngei California, U.S.A.",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "U funza thekhinikha dza thenisi kha tshigwada tsha vhatambi vha 5-10",
+        "U ita uri ngudo i takadze na u takadza vhatambi",
+        "U vha na vhudifhinduleli ha tsireledzo ya vhatambi vha re khothe, nga maanda vhatambi vhatuku na vhahulwane, sa vhatambi vha minwaha ya 3 na vha minwaha ya 60"
+      ]
+    },
+    {
+      "title": "Mufarisani wa nnḓa",
+      "company": "Amazon ntswa",
+      "location": "Irvine, ngei California, U.S.A.",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "U vhuedzedza zwithu kha shelufu",
+        "U dzhia oda dza vharengi vha inthanethe",
+        "U paka oda dza u rumela",
+        "U hwala oda kha malori a u isa zwithu",
+        "U thusa vharengi u wana zwithu vhengeleni",
+        "U dzudza vhupo ha u vhulungela zwithu ho kuna nahone ho dzudzanyea",
+        "U vhulunga vhupo ho tsireledzeaho na vhukonani kha vharengi na vhashumi ."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Lushaka lwaScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Fhindulani",
+      "Node.js",
+      "Vhuḓipfi",
+      "Django",
+      "JMbudziso"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Puḽatifomo ya Google ya Gole"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "SQL yanga",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Tshiisimane",
+      "proficiency": "Ngwaniwapo"
+    },
+    {
+      "name": "Tshidzhapani",
+      "proficiency": "Ngwaniwapo"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Phothifoḽio",
+      "description": "Webusaithi ine ya fhindula i sumbedzaho phurojeke na zwikili hu tshi shumiswa thekinoḽodzhi dza musalauno dza webusaithi .",
+      "technologies": [
+        "Fhindulani",
+        "CSS3",
+        "Dizaini i fhindulaho"
+      ]
+    }
+  ]
+}

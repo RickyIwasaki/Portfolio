@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Kỹ sư phần mềm",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Một nhà phát triển phần mềm giàu kinh nghiệm, đang tìm kiếm cơ hội mới để làm việc cho các dự án lớn. Quan tâm đến việc tạo hoặc thêm mã để người khác sử dụng. Tôi tin rằng kỹ năng của tôi còn nhỏ so với internet, vì vậy tôi rất quan tâm đến việc làm việc với các công cụ, dịch vụ, ngôn ngữ lập trình khác.",
+  "education": [
+    {
+      "degree": "Chứng chỉ Kỹ thuật phần mềm",
+      "school": "Trại huấn luyện Springboard",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Đại học Tiểu bang California Fullerton",
+      "location": "Fullerton, California, Hoa Kỳ",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Bằng tốt nghiệp trung học phổ thông",
+      "school": "Trường trung học Woodbridge",
+      "location": "Irvine, California, Hoa Kỳ",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Kỹ sư phần mềm",
+      "company": "Công ty TNHH MS-ZONE",
+      "location": "Irvine, California, Hoa Kỳ",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Thiết kế và triển khai các ứng dụng web có thể mở rộng bằng React và Node.js",
+        "Hợp tác với các nhà quản lý sản phẩm để tinh chỉnh các yêu cầu và đảm bảo giao hàng đúng hạn",
+        "Phát triển và duy trì API RESTful cho các ứng dụng web",
+        "Đã phát triển các tập lệnh để tự động hóa các tác vụ và cải thiện hiệu quả"
+      ]
+    },
+    {
+      "title": "Trợ lý huấn luyện viên quần vợt",
+      "company": "Thành phố Irvine",
+      "location": "Irvine, California, Hoa Kỳ",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Dạy các kỹ thuật chơi quần vợt trong nhóm 5-10 người chơi",
+        "Làm cho bài học trở nên thú vị và hấp dẫn đối với người chơi",
+        "Chịu trách nhiệm về sự an toàn của người chơi trên sân, đặc biệt là người chơi trẻ tuổi và lớn tuổi, như trẻ 3 tuổi và người 60 tuổi"
+      ]
+    },
+    {
+      "title": "Cộng tác viên Outbound",
+      "company": "Amazon tươi",
+      "location": "Irvine, California, Hoa Kỳ",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Sắp xếp lại hàng hóa trên kệ",
+        "Chọn đơn hàng cho khách hàng trực tuyến",
+        "Đóng gói đơn hàng để vận chuyển",
+        "Đang tải đơn hàng lên xe tải giao hàng",
+        "Giúp khách hàng tìm kiếm sản phẩm trong cửa hàng",
+        "Giữ kho sạch sẽ và ngăn nắp",
+        "Duy trì môi trường an toàn và thân thiện cho khách hàng và nhân viên"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Kiểu chữ",
+      "Trăn",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Phản ứng",
+      "Node.js",
+      "Thể hiện",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Người lái tàu",
+      "AWS",
+      "Jenkins",
+      "Nền tảng đám mây của Google"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Tiếng Anh",
+      "proficiency": "Tự nhiên"
+    },
+    {
+      "name": "Tiếng Nhật",
+      "proficiency": "Tự nhiên"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Danh mục đầu tư",
+      "description": "Một trang web phản hồi giới thiệu các dự án và kỹ năng sử dụng công nghệ web hiện đại",
+      "technologies": [
+        "Phản ứng",
+        "CSS3",
+        "Thiết kế đáp ứng"
+      ]
+    }
+  ]
+}

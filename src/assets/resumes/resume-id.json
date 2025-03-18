@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Insinyur Perangkat Lunak",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Pengembang Perangkat Lunak Berpengalaman, mencari peluang baru untuk bekerja di proyek besar. Tertarik untuk membuat atau menambahkan kode agar dapat digunakan orang lain. Saya yakin keterampilan saya terbatas jika dibandingkan dengan internet, jadi saya sangat tertarik untuk bekerja dengan alat, layanan, dan bahasa pemrograman lain.",
+  "education": [
+    {
+      "degree": "Sertifikat Rekayasa Perangkat Lunak",
+      "school": "Kamp Pelatihan Springboard",
+      "dates": "Tahun 2022 - 2023"
+    },
+    {
+      "school": "Universitas Negeri California Fullerton",
+      "location": "Fullerton, California, Amerika Serikat",
+      "dates": "Tahun 2021 - 2022"
+    },
+    {
+      "degree": "Ijazah Sekolah Menengah Atas",
+      "school": "Sekolah Menengah Atas Woodbridge",
+      "location": "Irvine, California, Amerika Serikat",
+      "dates": "Tahun 2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Insinyur Perangkat Lunak",
+      "company": "Perusahaan MS-ZONE.",
+      "location": "Irvine, California, Amerika Serikat",
+      "dates": "Tahun 2023 - 2024",
+      "responsibilities": [
+        "Merancang dan mengimplementasikan aplikasi web yang dapat diskalakan menggunakan React dan Node.js",
+        "Berkolaborasi dengan manajer produk untuk menyempurnakan persyaratan dan memastikan pengiriman tepat waktu",
+        "Mengembangkan dan memelihara RESTful API untuk aplikasi web",
+        "Mengembangkan skrip untuk mengotomatiskan tugas dan meningkatkan efisiensi"
+      ]
+    },
+    {
+      "title": "Asisten Pelatih Tenis",
+      "company": "Kota Irvine",
+      "location": "Irvine, California, Amerika Serikat",
+      "dates": "Tahun 2014 - 2019",
+      "responsibilities": [
+        "Mengajarkan teknik tenis dalam kelompok yang terdiri dari 5-10 pemain",
+        "Menjadikan pelajaran menyenangkan dan menghibur bagi para pemain",
+        "Bertanggung jawab atas keselamatan pemain di lapangan, terutama pemain muda dan tua, seperti pemain berusia 3 tahun dan 60 tahun"
+      ]
+    },
+    {
+      "title": "Rekan Kerja Outbound",
+      "company": "Amazon Segar",
+      "location": "Irvine, California, Amerika Serikat",
+      "dates": "Tahun 2024 - 2024",
+      "responsibilities": [
+        "Mengisi kembali barang di rak",
+        "Memilih pesanan untuk pelanggan online",
+        "Mengemas pesanan untuk pengiriman",
+        "Memuat pesanan ke truk pengiriman",
+        "Membantu pelanggan menemukan barang di toko",
+        "Menjaga gudang tetap bersih dan teratur",
+        "Menjaga lingkungan yang aman dan ramah bagi pelanggan dan karyawan"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Bahasa Indonesia: JavaScript",
+      "TypeScript",
+      "Ular piton",
+      "Jawa",
+      "Bahasa Inggris C++",
+      "Bahasa Indonesia: SQL"
+    ],
+    "frameworks": [
+      "Bereaksi",
+      "Bahasa pemrograman Node.js",
+      "Cepat",
+      "Bahasa Indonesia: Django",
+      "jQuery adalah bahasa pemrograman yang digunakan untuk membuat website."
+    ],
+    "tools": [
+      "Bahasa Indonesia: Git",
+      "Buruh pelabuhan",
+      "Bahasa Indonesia: AWS",
+      "Jenkins",
+      "Platform Awan Google"
+    ],
+    "databases": [
+      "Bahasa pemrograman PostgreSQL",
+      "Bahasa Indonesia: MySQL",
+      "Kasandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Bahasa inggris",
+      "proficiency": "Warga asli"
+    },
+    {
+      "name": "Jepang",
+      "proficiency": "Warga asli"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portofolio",
+      "description": "Situs web responsif yang memamerkan proyek dan keterampilan menggunakan teknologi web modern",
+      "technologies": [
+        "Bereaksi",
+        "Bahasa Inggris CSS3",
+        "Desain Responsif"
+      ]
+    }
+  ]
+}

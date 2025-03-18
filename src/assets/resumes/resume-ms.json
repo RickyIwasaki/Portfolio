@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Jurutera Perisian",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Pembangun Perisian Berpengalaman, mencari peluang baharu untuk bekerja untuk projek besar. Berminat untuk mencipta atau menambah kod untuk digunakan oleh orang lain. Saya percaya kemahiran saya kecil berbanding dengan internet, jadi saya sangat berminat untuk bekerja dengan alat lain, perkhidmatan, bahasa pengaturcaraan.",
+  "education": [
+    {
+      "degree": "Sijil Kejuruteraan Perisian",
+      "school": "Perkhemahan papan anjal",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Universiti Negeri California Fullerton",
+      "location": "Fullerton, California, Amerika Syarikat",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Diploma Sekolah Menengah",
+      "school": "Sekolah Menengah Woodbridge",
+      "location": "Irvine, California, Amerika Syarikat",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Jurutera Perisian",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, Amerika Syarikat",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "Mengabina dan melaksanakan aplikasi web berskala menggunakan React dan Node.js",
+        "Bekerjasama dengan pengurus produk untuk memperhalusi keperluan dan memastikan penghantaran tepat pada masanya",
+        "Membangunkan dan mengekalkan API RESTful untuk aplikasi web",
+        "Skrip yang dibangunkan untuk mengautomasikan tugas dan meningkatkan kecekapan"
+      ]
+    },
+    {
+      "title": "Penolong Jurulatih Tenis",
+      "company": "Bandar Irvine",
+      "location": "Irvine, California, Amerika Syarikat",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "Mengajar teknik tenis dalam kumpulan 5-10 pemain",
+        "Menjadikan pelajaran menyeronokkan dan menghiburkan para pemain",
+        "Bertanggungjawab atas keselamatan pemain di gelanggang, terutamanya pemain yang lebih muda dan lebih tua, seperti 3 tahun dan 60 tahun."
+      ]
+    },
+    {
+      "title": "Rakan Sekerja Keluar",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, Amerika Syarikat",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Menyimpan semula barang di rak",
+        "Memilih pesanan untuk pelanggan dalam talian",
+        "Pesanan pembungkusan untuk penghantaran",
+        "Memuatkan pesanan ke trak penghantaran",
+        "Membantu pelanggan mencari barang di kedai",
+        "Menjaga gudang bersih dan teratur",
+        "Menjaga persekitaran yang selamat dan mesra untuk pelanggan dan pekerja"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Ular sawa",
+      "Jawa",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Bertindak balas",
+      "Node.js",
+      "Ekspres",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Platform Awan Google"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Inggeris",
+      "proficiency": "Orang asli"
+    },
+    {
+      "name": "Jepun",
+      "proficiency": "Orang asli"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Laman web responsif yang mempamerkan projek dan kemahiran menggunakan teknologi web moden",
+      "technologies": [
+        "Bertindak balas",
+        "CSS3",
+        "Reka Bentuk Responsif"
+      ]
+    }
+  ]
+}

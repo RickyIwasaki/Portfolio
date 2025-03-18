@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Yazılım Mühendisi",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Deneyimli bir Yazılım Geliştiricisi, büyük projelerde çalışmak için yeni fırsatlar arıyor. Başkalarının kullanması için kod oluşturmak veya eklemekle ilgileniyorum. İnternete kıyasla becerilerimin küçük olduğuna inanıyorum, bu yüzden diğer araçlar, hizmetler ve programlama dilleriyle çalışmakla çok ilgileniyorum.",
+  "education": [
+    {
+      "degree": "Yazılım Mühendisliği Sertifikası",
+      "school": "Tramplen Eğitim Kampı",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "California Fullerton Eyalet Üniversitesi",
+      "location": "Fullerton, Kaliforniya, ABD",
+      "dates": "2021 - 2022"
+    },
+    {
+      "degree": "Lise Diploması",
+      "school": "Woodbridge Lisesi",
+      "location": "Irvine, Kaliforniya, ABD",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Yazılım Mühendisi",
+      "company": "MS-ZONE Ltd.",
+      "location": "Irvine, Kaliforniya, ABD",
+      "dates": "2023 - 2024",
+      "responsibilities": [
+        "React ve Node.js kullanarak ölçeklenebilir web uygulamaları tasarladı ve uyguladı",
+        "Gereksinimleri iyileştirmek ve zamanında teslimatı sağlamak için ürün yöneticileriyle işbirliği yapıldı",
+        "Web uygulamaları için RESTful API'leri geliştirdi ve sürdürdü",
+        "Görevleri otomatikleştirmek ve verimliliği artırmak için geliştirilen betikler"
+      ]
+    },
+    {
+      "title": "Yardımcı Tenis Antrenörü",
+      "company": "Irvine Şehri",
+      "location": "Irvine, Kaliforniya, ABD",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "5-10 kişilik gruplarda tenis tekniklerinin öğretilmesi",
+        "Dersi oyuncular için eğlenceli ve ilgi çekici hale getirmek",
+        "Özellikle 3 yaşındaki ve 60 yaşındakiler gibi genç ve yaşlı oyuncuların sahadaki güvenliğinden sorumludur."
+      ]
+    },
+    {
+      "title": "Giden Ortak",
+      "company": "Amazon Taze",
+      "location": "Irvine, Kaliforniya, ABD",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Raflardaki ürünlerin yeniden stoklanması",
+        "Çevrimiçi müşteriler için sipariş toplama",
+        "Gönderim için paketleme siparişleri",
+        "Siparişlerin teslimat kamyonlarına yüklenmesi",
+        "Müşterilerin mağazada ürün bulmalarına yardımcı olmak",
+        "Depoyu temiz ve düzenli tutmak",
+        "Müşteriler ve çalışanlar için güvenli ve dostça bir ortam sağlamak"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "Yazılı metin",
+      "piton",
+      "Cava",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Tepki vermek",
+      "Düğüm.js",
+      "İfade etmek",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Liman işçisi",
+      "AWS",
+      "Jenkins",
+      "Google Bulut Platformu"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "İngilizce",
+      "proficiency": "Yerli"
+    },
+    {
+      "name": "Japonca",
+      "proficiency": "Yerli"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portföy",
+      "description": "Modern web teknolojilerini kullanarak projeleri ve becerileri sergileyen duyarlı bir web sitesi",
+      "technologies": [
+        "Tepki vermek",
+        "CSS3",
+        "Duyarlı Tasarım"
+      ]
+    }
+  ]
+}

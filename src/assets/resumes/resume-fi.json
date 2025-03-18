@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Ohjelmistoinsinööri",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Kokenut ohjelmistokehittäjä, joka etsii uusia mahdollisuuksia työskennellä suurissa projekteissa. Kiinnostaako koodin luominen tai lisääminen muiden käyttöön. Uskon, että taitoni ovat pienet verrattuna Internetiin, joten olen erittäin kiinnostunut työskentelemään muiden työkalujen, palveluiden ja ohjelmointikielten parissa.",
+  "education": [
+    {
+      "degree": "Ohjelmistotekniikan todistus",
+      "school": "Ponnahduslauta Bootcamp",
+      "dates": "2022-2023"
+    },
+    {
+      "school": "Kalifornian osavaltion Fullertonin yliopisto",
+      "location": "Fullerton, Kalifornia, Yhdysvallat",
+      "dates": "2021-2022"
+    },
+    {
+      "degree": "Lukion tutkinto",
+      "school": "Woodbridgen lukio",
+      "location": "Irvine, Kalifornia, Yhdysvallat",
+      "dates": "2016-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Ohjelmistoinsinööri",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, Kalifornia, Yhdysvallat",
+      "dates": "2023-2024",
+      "responsibilities": [
+        "Suunniteltu ja toteutettu skaalautuvia verkkosovelluksia Reactin ja Node.js:n avulla",
+        "Yhteistyötä tuotepäälliköiden kanssa tarkentamaan vaatimuksia ja varmistamaan oikea-aikaiset toimitukset",
+        "Kehitetty ja ylläpidetty RESTful API:t verkkosovelluksille",
+        "Kehitetty skriptejä tehtävien automatisoimiseksi ja tehokkuuden parantamiseksi"
+      ]
+    },
+    {
+      "title": "Apulaistennisvalmentaja",
+      "company": "Irvinen kaupunki",
+      "location": "Irvine, Kalifornia, Yhdysvallat",
+      "dates": "2014-2019",
+      "responsibilities": [
+        "Tennistekniikoiden opetusta 5-10 pelaajan ryhmässä",
+        "Tee oppitunnista hauskaa ja viihdyttävää pelaajille",
+        "Vastaa pelaajien turvallisuudesta kentällä, erityisesti nuorempien ja vanhempien pelaajien, kuten 3-vuotiaiden ja 60-vuotiaiden, turvallisuudesta"
+      ]
+    },
+    {
+      "title": "Lähtevä yhteistyökumppani",
+      "company": "Amazon Fresh",
+      "location": "Irvine, Kalifornia, Yhdysvallat",
+      "dates": "2024-2024",
+      "responsibilities": [
+        "Tavaroiden varastointi hyllylle",
+        "Tilausten kerääminen verkkoasiakkaille",
+        "Pakkaustilaukset lähetystä varten",
+        "Tilausten lastaus jakeluautoihin",
+        "Auttaa asiakkaita löytämään tavarat kaupasta",
+        "Varaston pitäminen siistinä ja järjestyksessä",
+        "Turvallisen ja ystävällisen ympäristön ylläpitäminen asiakkaille ja työntekijöille"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reagoi",
+      "Node.js",
+      "Ilmaista",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Satamatyöläinen",
+      "AWS",
+      "Jenkins",
+      "Google Cloud Platform"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "englanti",
+      "proficiency": "Alkuperäinen"
+    },
+    {
+      "name": "japanilainen",
+      "proficiency": "Alkuperäinen"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Responsiivinen verkkosivusto, joka esittelee projekteja ja taitoja modernin verkkoteknologian avulla",
+      "technologies": [
+        "Reagoi",
+        "CSS3",
+        "Responsiivinen muotoilu"
+      ]
+    }
+  ]
+}

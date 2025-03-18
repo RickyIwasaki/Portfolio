@@ -1,0 +1,121 @@
+{
+  "name": "Riki Iwasaki",
+  "title": "Programma üpjünçiligi inereneri",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Uly taslamalarda işlemek üçin täze mümkinçilik gözleýän, Tejribeli programma üpjünçisi. Başgalaryň ulanmagy üçin kod döretmek ýa-da goşmak isleýärsiňiz. Ussatlygymyň internet bilen deňeşdirilende azdygyna ynanýaryn, şonuň üçin beýleki gurallar, hyzmatlar, programmirleme dilleri bilen işlemek meni gaty gyzyklandyrýar.",
+  "education": [
+    {
+      "degree": "Programma üpjünçiligi in Engineeringenerçilik şahadatnamasy",
+      "school": "Bahar tagtasy",
+      "dates": "2022 - 2023"
+    },
+    {
+      "school": "Kaliforniýa Fullerton döwlet uniwersiteti",
+      "location": "Fullerton, Kaliforniýa, ABŞ",
+      "dates": "2021 - 2022-nji ýyllar"
+    },
+    {
+      "degree": "Orta mekdep diplomy",
+      "school": "Wudbrij orta mekdebi",
+      "location": "Irwine, Kaliforniýa, ABŞ",
+      "dates": "2016 - 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Programma üpjünçiligi inereneri",
+      "company": "MS-ZONE LLC.",
+      "location": "Irwine, Kaliforniýa, ABŞ",
+      "dates": "2023 - 2024-nji ýyllar",
+      "responsibilities": [
+        "React we Node.js ulanyp ulaldylan web programmalaryny arhitektura we durmuşa geçirdi",
+        "Talaplary takyklamak we wagtynda eltilmegini üpjün etmek üçin önüm dolandyryjylary bilen hyzmatdaşlyk etdi",
+        "Web programmalary üçin RESTful API-ler döredildi we goldanyldy",
+        "Işleri awtomatlaşdyrmak we netijeliligi ýokarlandyrmak üçin işlenip düzülen skriptler"
+      ]
+    },
+    {
+      "title": "Tennis tälimçisiniň kömekçisi",
+      "company": "Irwine şäheri",
+      "location": "Irwine, Kaliforniýa, ABŞ",
+      "dates": "2014 - 2019",
+      "responsibilities": [
+        "5-10 oýunçydan ybarat toparda tennis usullaryny öwretmek",
+        "Sapagy gyzykly etmek we oýunçylar üçin gyzykly etmek",
+        "Kazyýetdäki oýunçylaryň, esasanam 3 ýaşly we 60 ýaşly ýaly ýaş we uly oýunçylaryň howpsuzlygy üçin jogapkärdir."
+      ]
+    },
+    {
+      "title": "Çykýan kärdeş",
+      "company": "Amazon Fresh",
+      "location": "Irwine, Kaliforniýa, ABŞ",
+      "dates": "2024 - 2024-nji ýyllar",
+      "responsibilities": [
+        "Tekstdäki zatlary gaýtadan dikeltmek",
+        "Onlaýn müşderiler üçin sargyt saýlamak",
+        "Ippingük daşamak üçin sargytlary gaplamak",
+        "Getirýän awtoulaglara sargyt ýüklemek",
+        "Müşderilere dükanda zatlar tapmaga kömek etmek",
+        "Ammary arassa we tertipli saklamak",
+        "Müşderiler we işgärler üçin howpsuz we dostlukly gurşaw saklamak"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C ++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reaksiýa",
+      "Node.js",
+      "Ekspress",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Doker",
+      "AWS",
+      "Jenkins",
+      "Google Bulut platformasy"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Kassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "Iňlis",
+      "proficiency": "Ativeerli"
+    },
+    {
+      "name": "Japaneseaponlar",
+      "proficiency": "Ativeerli"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "Döwrebap web tehnologiýalaryny ulanyp, taslamalary we başarnyklary görkezýän täsirli web sahypasy",
+      "technologies": [
+        "Reaksiýa",
+        "CSS3",
+        "Jogapkärçilikli dizaýn"
+      ]
+    }
+  ]
+}

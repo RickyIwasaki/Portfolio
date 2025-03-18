@@ -1,0 +1,121 @@
+{
+  "name": "Ricky Iwasaki",
+  "title": "Tarkvarainsener",
+  "contact": {
+    "email": "rickyiwasaki@gmail.com",
+    "phone": "+1 (949) 228-0083",
+    "location": "Las Vegas, Nevada, USA",
+    "linkedin": "linkedin.com/in/ricky-iwasaki",
+    "github": "github.com/RickyIwasaki",
+    "website": "https://ricky-iwasaki.com"
+  },
+  "summary": "Kogenud tarkvaraarendaja, kes otsib uusi võimalusi suurte projektide jaoks. Huvitatud koodi loomisest või lisamisest teistele kasutamiseks. Usun, et minu oskused on Internetiga võrreldes väikesed, seega olen väga huvitatud muude tööriistade, teenuste ja programmeerimiskeeltega töötamisest.",
+  "education": [
+    {
+      "degree": "Tarkvarainseneri tunnistus",
+      "school": "Springboard Bootcamp",
+      "dates": "2022–2023"
+    },
+    {
+      "school": "California osariigi Fullertoni ülikool",
+      "location": "Fullerton, California, USA",
+      "dates": "2021–2022"
+    },
+    {
+      "degree": "Keskkooli diplom",
+      "school": "Woodbridge'i keskkool",
+      "location": "Irvine, California, USA",
+      "dates": "2016–2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Tarkvarainsener",
+      "company": "MS-ZONE LLC.",
+      "location": "Irvine, California, USA",
+      "dates": "2023–2024",
+      "responsibilities": [
+        "Reacti ja Node.js-i abil arhitektuur ja juurutatud skaleeritavad veebirakendused",
+        "Koostööd tootejuhtidega, et täpsustada nõudeid ja tagada õigeaegne kohaletoimetamine",
+        "Veebirakenduste jaoks välja töötatud ja hooldatud RESTful API-d",
+        "Välja töötatud skriptid ülesannete automatiseerimiseks ja tõhususe parandamiseks"
+      ]
+    },
+    {
+      "title": "Tennisetreeneri abi",
+      "company": "Irvine'i linn",
+      "location": "Irvine, California, USA",
+      "dates": "2014–2019",
+      "responsibilities": [
+        "Tennisetehnikate õpetamine 5-10 mängijaga rühmas",
+        "Muutke tund mängijatele lõbusaks ja põnevaks",
+        "Vastutab mängijate ohutuse eest väljakul, eriti nooremate ja vanemate mängijate, nagu 3-aastased ja 60-aastased, ohutuse eest"
+      ]
+    },
+    {
+      "title": "Väljaminev kaastöötaja",
+      "company": "Amazon Fresh",
+      "location": "Irvine, California, USA",
+      "dates": "2024–2024",
+      "responsibilities": [
+        "Kaupade taastamine riiulil",
+        "Tellimuste komplekteerimine veebiklientidele",
+        "Tellimuste pakkimine saatmiseks",
+        "Tellimuste laadimine tarneautodele",
+        "Aidake klientidel poes kaupu leida",
+        "Lao puhtuse ja korras hoidmine",
+        "Klientidele ja töötajatele turvalise ja sõbraliku keskkonna hoidmine"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "frameworks": [
+      "Reageerige",
+      "Node.js",
+      "Ekspress",
+      "Django",
+      "JQuery"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Google'i pilveplatvorm"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra"
+    ]
+  },
+  "languages": [
+    {
+      "name": "inglise keel",
+      "proficiency": "Native"
+    },
+    {
+      "name": "Jaapani",
+      "proficiency": "Native"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfell",
+      "description": "Responsiivne veebisait, mis tutvustab kaasaegseid veebitehnoloogiaid kasutavaid projekte ja oskusi",
+      "technologies": [
+        "Reageerige",
+        "CSS3",
+        "Vastupidav disain"
+      ]
+    }
+  ]
+}
