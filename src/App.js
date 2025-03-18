@@ -1,6 +1,8 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Resume from './pages/Resume/Resume';
+import Contacts from './pages/Contacts/Contacts';
+import Footer from './components/Footer/Footer';
 import { RateLimitProvider } from './context/RateLimitContext';
 import RateLimitAlert from './components/RateLimitAlert';
 
@@ -19,20 +21,27 @@ function App() {
     <RateLimitProvider>
       <Router>
         <div className="App">
-          <nav className="main-nav">
-            <ul>
-              <li><Link to="/">Home</Link></li>
-              <li><Link to="/resume">Resume</Link></li>
-            </ul>
-          </nav>
+          <div className="main-content">
+            <nav className="main-nav">
+              <ul>
+                <li><Link to="/">Home</Link></li>
+                <li><Link to="/resume">Resume</Link></li>
+                <li><Link to="/contacts">Contacts</Link></li>
+              </ul>
+            </nav>
 
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/resume" element={<Resume />} />
-          </Routes>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/resume" element={<Resume />} />
+              <Route path="/contacts" element={<Contacts />} />
+            </Routes>
+            
+            {/* Rate limit alert component */}
+            <RateLimitAlert />
+          </div>
           
-          {/* Rate limit alert component */}
-          <RateLimitAlert />
+          {/* Footer component */}
+          <Footer />
         </div>
       </Router>
     </RateLimitProvider>
