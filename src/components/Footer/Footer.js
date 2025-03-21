@@ -10,7 +10,6 @@ const Footer = () => {
     setContacts(contactsData);
   }, []);
 
-  // Function to get appropriate icon for contact type
   const getIcon = (type) => {
     switch (type) {
       case 'phone number': return <FaPhone />;
@@ -27,7 +26,6 @@ const Footer = () => {
     }
   };
 
-  // Function to get proper href for links
   const getHref = (type, value) => {
     switch (type) {
       case 'phone number': return `tel:${value}`;
@@ -44,7 +42,6 @@ const Footer = () => {
     }
   };
 
-  // Display only selected social media in the footer to keep it compact
   const footerDisplayContacts = ['email', 'linkedin', 'github', 'x', 'instagram'];
 
   return (

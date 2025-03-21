@@ -1,11 +1,5 @@
 import rateLimiter from './rateLimiter';
 
-/**
- * Wrapper for fetch API with built-in rate limiting
- * @param {string} url - The URL to fetch
- * @param {Object} options - Fetch options
- * @returns {Promise} - Promise from the fetch call
- */
 export const fetchWithRateLimit = async (url, options = {}) => {
   const method = options.method || 'GET';
   const endpoint = `${method}:${url}`;
@@ -29,12 +23,6 @@ export const fetchWithRateLimit = async (url, options = {}) => {
   }
 };
 
-/**
- * GET request with rate limiting
- * @param {string} url - The URL to fetch
- * @param {Object} options - Additional fetch options
- * @returns {Promise} - Promise with parsed JSON response
- */
 export const get = async (url, options = {}) => {
   const response = await fetchWithRateLimit(url, {
     method: 'GET',
@@ -44,13 +32,6 @@ export const get = async (url, options = {}) => {
   return response.json();
 };
 
-/**
- * POST request with rate limiting
- * @param {string} url - The URL to fetch
- * @param {Object} data - The data to send
- * @param {Object} options - Additional fetch options
- * @returns {Promise} - Promise with parsed JSON response
- */
 export const post = async (url, data, options = {}) => {
   const response = await fetchWithRateLimit(url, {
     method: 'POST',
@@ -65,13 +46,6 @@ export const post = async (url, data, options = {}) => {
   return response.json();
 };
 
-/**
- * PUT request with rate limiting
- * @param {string} url - The URL to fetch
- * @param {Object} data - The data to send
- * @param {Object} options - Additional fetch options
- * @returns {Promise} - Promise with parsed JSON response
- */
 export const put = async (url, data, options = {}) => {
   const response = await fetchWithRateLimit(url, {
     method: 'PUT',
@@ -86,12 +60,6 @@ export const put = async (url, data, options = {}) => {
   return response.json();
 };
 
-/**
- * DELETE request with rate limiting
- * @param {string} url - The URL to fetch
- * @param {Object} options - Additional fetch options
- * @returns {Promise} - Promise with parsed JSON response
- */
 export const del = async (url, options = {}) => {
   const response = await fetchWithRateLimit(url, {
     method: 'DELETE',

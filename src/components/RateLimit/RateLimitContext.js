@@ -1,16 +1,11 @@
 import React, { createContext, useState, useContext, useCallback } from 'react';
 import rateLimiter from '../../utils/rateLimiter';
 
-// Create context
 const RateLimitContext = createContext();
 
-/**
- * Provider component that makes rate limit functionality available to all child components
- */
 export const RateLimitProvider = ({ children }) => {
   const [rateLimitErrors, setRateLimitErrors] = useState({});
 
-  // Function to handle rate limit errors
   const handleRateLimitError = useCallback((endpoint, error) => {
     setRateLimitErrors(prev => ({
       ...prev,
@@ -20,7 +15,6 @@ export const RateLimitProvider = ({ children }) => {
       }
     }));
 
-    // Clear the error after the rate limit resets
     const retryAfter = rateLimiter.getTimeUntilReset(endpoint) * 1000;
     setTimeout(() => {
       setRateLimitErrors(prev => {
@@ -31,7 +25,6 @@ export const RateLimitProvider = ({ children }) => {
     }, retryAfter);
   }, []);
 
-  // Check if a request can be made and handle the error if not
   const checkRateLimit = useCallback((endpoint) => {
     try {
       const canProceed = rateLimiter.canMakeRequest(endpoint);
@@ -50,7 +43,6 @@ export const RateLimitProvider = ({ children }) => {
     }
   }, [handleRateLimitError]);
 
-  // Reset rate limit for a specific endpoint or all endpoints
   const resetRateLimit = useCallback((endpoint = null) => {
     rateLimiter.reset(endpoint);
     
@@ -65,7 +57,6 @@ export const RateLimitProvider = ({ children }) => {
     }
   }, []);
 
-  // The context value that will be passed to consuming components
   const value = {
     rateLimitErrors,
     checkRateLimit,
@@ -80,9 +71,6 @@ export const RateLimitProvider = ({ children }) => {
   );
 };
 
-/**
- * Custom hook to use the rate limit context
- */
 export const useRateLimit = () => {
   const context = useContext(RateLimitContext);
   if (!context) {

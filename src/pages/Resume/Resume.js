@@ -3,7 +3,6 @@ import { jsPDF } from "jspdf";
 import "jspdf-autotable";
 import './Resume.css';
 
-// Import resume data dynamically
 const resumeDataMap = {};
 const languageCodes = [
   'en', 'ja', 'fr', 'es', 'zh', 'ko', 'ru', 'de', 'it', 'pt', 'ar', 'hi', 'tr', 'vi', 'th',
@@ -16,27 +15,38 @@ const languageCodes = [
   'mr', 've', 'bo', 'tw'
 ];
 
-// Import all resume data files
-languageCodes.forEach(code => {
-  try {
-    resumeDataMap[code] = require(`../../assets/resumes/resume-${code}.json`);
-  } catch (error) {
-    console.warn(`Failed to load resume for language: ${code}`);
-  }
-});
 
-// Resume component styles
+try {
+  // Always ensure English resume is loaded first as fallback
+  resumeDataMap['en'] = require('../../assets/resumes/resume-en.json');
+  
+  // Then try to load other languages
+  languageCodes.forEach(code => {
+    if (code !== 'en') { // Skip English as we already loaded it
+      try {
+        resumeDataMap[code] = require(`../../assets/resumes/resume-${code}.json`);
+      } catch (error) {
+        console.warn(`Failed to load resume for language: ${code}`);
+      }
+    }
+  });
+} catch (error) {
+  console.error('Failed to load English resume file. This is a critical error:', error);
+}
+
+
 const styles = {
   minimal: 'resume-style-minimal',
   modern: 'resume-style-modern',
-  creative: 'resume-style-creative',
+  vibrant: 'resume-style-vibrant',
   professional: 'resume-style-professional',
   technical: 'resume-style-technical',
   compact: 'resume-style-compact',
-  elegant: 'resume-style-elegant'
+  elegant: 'resume-style-elegant',
+  onepage: 'resume-style-onepage'
 };
 
-// Map of language codes to language names
+
 const languageNames = {
   'en': 'English',
   'ja': '日本語',
@@ -150,15 +160,15 @@ const languageNames = {
 };
 
 const Resume = () => {
-  // State for resume language and style
+  
   const [language, setLanguage] = useState('en');
-  const [uiLanguage, setUiLanguage] = useState('en'); // UI language (for website interface text)
+  const [uiLanguage, setUiLanguage] = useState('en'); 
   const [style, setStyle] = useState('modern');
-  const [resumeData, setResumeData] = useState(resumeDataMap['en']);
+  const [resumeData, setResumeData] = useState(resumeDataMap['en'] || {});
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState(null);
   const [languageSearchQuery, setLanguageSearchQuery] = useState('');
-  const contentRef = useRef(); // Add the contentRef for the entire resume view
+  const contentRef = useRef(); 
   const headerContentRef = useRef();
   const summaryContentRef = useRef();
   const educationContentRef = useRef();
@@ -167,7 +177,7 @@ const Resume = () => {
   const languagesContentRef = useRef();
   const projectsContentRef = useRef();
 
-  // Filtered language options based on search
+  
   const filteredLanguages = useMemo(() => {
     if (!languageSearchQuery.trim()) return Object.entries(languageNames);
     
@@ -177,32 +187,54 @@ const Resume = () => {
     );
   }, [languageSearchQuery]);
 
-  // Update resume data when language changes
+  
   useEffect(() => {
     setResumeData(resumeDataMap[language] || resumeDataMap['en']);
-    setSearchQuery(''); // Reset search when language changes
+    setSearchQuery(''); 
     setSearchResults(null);
     
-    // Set UI language based on selected resume language
+    
     setUiLanguage(language === 'ja' ? 'ja' : 'en');
   }, [language]);
 
-  // Function to handle language change
+  
   const handleLanguageChange = (e) => {
     setLanguage(e.target.value);
   };
   
-  // Function to handle language search input change
+  
   const handleLanguageSearch = (e) => {
     setLanguageSearchQuery(e.target.value);
   };
 
-  // Function to handle style change
+  
   const handleStyleChange = (newStyle) => {
-    setStyle(newStyle);
+    // First set the state to empty temporarily to ensure clean switching
+    setStyle('');
+    
+    // Clean up any potential style leftovers, especially for vibrant style
+    if (contentRef.current) {
+      const element = contentRef.current;
+      // Remove any animations or transitions temporarily
+      element.style.animation = 'none';
+      element.style.transition = 'none';
+      
+      // Force a reflow to apply the changes immediately
+      void element.offsetHeight;
+    }
+    
+    // Use setTimeout to ensure the DOM has time to update and remove all previous styles
+    setTimeout(() => {
+      setStyle(newStyle);
+      // Restore animations after new style is applied
+      if (contentRef.current) {
+        contentRef.current.style.animation = '';
+        contentRef.current.style.transition = '';
+      }
+    }, 20);
   };
 
-  // Function to handle search
+  
   const handleSearch = (e) => {
     const query = e.target.value;
     setSearchQuery(query);
@@ -212,7 +244,7 @@ const Resume = () => {
       return;
     }
     
-    // Search through the resume data for matches
+    
     const results = {
       summary: query && resumeData.summary.toLowerCase().includes(query.toLowerCase()) ? [resumeData.summary] : [],
       education: query ? resumeData.education.filter(edu => 
@@ -244,7 +276,7 @@ const Resume = () => {
       ) : []
     };
     
-    // Only set results if we have any matches
+    
     const hasResults = results.summary.length > 0 || 
                        results.education.length > 0 || 
                        results.experience.length > 0 || 
@@ -254,32 +286,32 @@ const Resume = () => {
     setSearchResults(hasResults ? results : null);
   };
 
-  // Function to clear search
+  
   const clearSearch = () => {
     setSearchQuery('');
     setSearchResults(null);
   };
   
-  // Function to clear language search
+  
   const clearLanguageSearch = () => {
     setLanguageSearchQuery('');
   };
 
-  // Function to handle resume JSON download
+  
   const handleJsonDownload = () => {
-    // Create a hidden link element
+    
     const element = document.createElement('a');
     
-    // Create a Blob with the resume data
+    
     const resumeBlob = new Blob(
       [JSON.stringify(resumeData, null, 2)], 
       { type: 'application/json' }
     );
     
-    // Create download URL
+    
     const url = URL.createObjectURL(resumeBlob);
     
-    // Set up download attributes
+    
     element.href = url;
     if(uiLanguage === 'en') {
       element.download = `Resume-Ricky-Iwasaki-${language}.json`;
@@ -287,11 +319,11 @@ const Resume = () => {
       element.download = `履歴書-岩崎力樹.json`;
     }
     
-    // Simulate click to trigger download
+    
     document.body.appendChild(element);
     element.click();
     
-    // Clean up
+    
     document.body.removeChild(element);
     URL.revokeObjectURL(url);
   };
@@ -305,7 +337,11 @@ const Resume = () => {
 
     // Create a temporary container to combine all sections
     const tempContainer = document.createElement('div');
-    tempContainer.className = `resume-view ${styles[style]}`;
+    tempContainer.className = `resume-view ${style ? styles[style] : ''}`;
+    
+    // Ensure any vibrant style specific elements are properly reset
+    tempContainer.style.animation = 'none';
+    tempContainer.style.transition = 'none';
     
     // Clone and append each section if it exists and should be shown
     if (headerContentRef.current) {
@@ -364,7 +400,7 @@ const Resume = () => {
         windowWidth: tempContainer.offsetWidth,
         autoPaging: 'text',
         html2canvas: {
-          scale: 0.24,
+          scale: 0.25,
           letterRendering: true,
         }
       });
@@ -390,109 +426,175 @@ const Resume = () => {
           letterRendering: true,
         }
       });
-    } else if(style === 'creative') {
-      tempContainer.style.width = '850px';
-      tempContainer.style.backgroundColor = '#ffffff';
-      tempContainer.style.color = '#333333';
-      tempContainer.style.borderRadius = '0';
+    } else if(style === 'vibrant') {
+      // Set specific width for the vibrant style
+      tempContainer.style.width = '900px';
+      tempContainer.style.position = 'relative';
+      tempContainer.style.zIndex = '1';
       
-      // Apply colors that match the HTML view
-      const headings = tempContainer.querySelectorAll('.summary h3, .education h3, .experience h3, .skills h3, .projects h3, .languages h3');
+      // Enhance the vibrant effects for PDF output
+      tempContainer.style.background = 'linear-gradient(135deg, #111 0%, #222 100%)';
+      tempContainer.style.padding = '20px'; // Add padding to ensure content doesn't overlap with border
       
-      // Apply the different colors to different section headers
-      headings.forEach((heading, index) => {
-        const colors = ['#3F51B5', '#FF5E7D', '#FFB74D', '#66BB6A', '#26C6DA', '#9C27B0'];
-        const color = colors[index % colors.length];
-        heading.style.backgroundColor = color;
-        heading.style.color = '#ffffff';
-        heading.style.boxShadow = 'none';
-        heading.style.borderRadius = '50px';
-        heading.style.padding = '0.6rem 1.5rem';
-        heading.style.display = 'inline-block';
-        heading.style.fontWeight = '600';
-        heading.style.textTransform = 'uppercase';
-        heading.style.letterSpacing = '1px';
-        heading.style.border = 'none';
-        heading.style.textShadow = 'none';
-        heading.style.webkitFontSmoothing = 'antialiased';
-        heading.style.outline = 'none';
-      });
+      // Remove animation that won't work in PDF and enhance static effects
+      const beforeElement = document.createElement('div');
+      beforeElement.style.position = 'absolute';
+      beforeElement.style.inset = '0';
+      beforeElement.style.borderRadius = '11px';
+      beforeElement.style.padding = '2px';
+      beforeElement.style.background = 'linear-gradient(45deg, #ff00e0, #00f0ff, #00ff9d, #ff0058)';
+      beforeElement.style.pointerEvents = 'none';
+      beforeElement.style.zIndex = '-1';
       
-      // Style the sections to match HTML view
+      // Insert the static gradient border as the first child
+      tempContainer.insertBefore(beforeElement, tempContainer.firstChild);
+      
+      // Add a content wrapper to ensure proper positioning
+      const contentWrapper = document.createElement('div');
+      contentWrapper.style.position = 'relative';
+      contentWrapper.style.zIndex = '2';
+      
+      // Move all children to the wrapper
+      while (tempContainer.children.length > 1) { // Skip the first child (beforeElement)
+        contentWrapper.appendChild(tempContainer.children[1]);
+      }
+      
+      // Add the wrapper back to the container
+      tempContainer.appendChild(contentWrapper);
+      
+      // Set background of sections
       const sections = tempContainer.querySelectorAll('section');
-      sections.forEach((section, index) => {
+      sections.forEach(section => {
+        section.style.background = 'rgba(0, 0, 0, 0.2)';
+        section.style.borderBottom = '1px solid rgba(255, 255, 255, 0.1)';
         section.style.padding = '2rem';
         section.style.marginBottom = '0';
-        section.style.borderBottom = '1px solid #f0f0f0';
-        section.style.backgroundColor = index % 2 === 0 ? '#fcfcfc' : '#ffffff';
       });
       
-      // Style the experience items
-      const experienceItems = tempContainer.querySelectorAll('.experience-item');
-      experienceItems.forEach(item => {
-        item.style.borderRadius = '12px';
-        item.style.background = '#fff';
-        item.style.boxShadow = '0 5px 15px rgba(0, 0, 0, 0.05)';
-        item.style.padding = '1.5rem';
-        item.style.marginBottom = '2rem';
-        item.style.position = 'relative';
-        item.style.borderTop = '3px solid #f0f0f0';
-        // Create left border with color
-        const leftBorder = document.createElement('div');
-        leftBorder.style.position = 'absolute';
-        leftBorder.style.left = '0';
-        leftBorder.style.top = '0';
-        leftBorder.style.height = '100%';
-        leftBorder.style.width = '7px';
-        leftBorder.style.backgroundColor = '#3F51B5';
-        leftBorder.style.borderRadius = '7px 0 0 7px';
-        item.insertBefore(leftBorder, item.firstChild);
+      // Special styling for the header
+      const header = tempContainer.querySelector('header');
+      if (header) {
+        header.style.background = 'rgba(0, 0, 0, 0.5)';
+        header.style.padding = '2rem';
+        header.style.borderBottom = '1px solid rgba(255, 255, 255, 0.1)';
+        header.style.marginBottom = '0';
+      }
+      
+      // Enhance text shadows and effects for better PDF rendering
+      const headings = tempContainer.querySelectorAll('h1, h2, h3, h4');
+      headings.forEach(heading => {
+        if (heading.tagName === 'H1') {
+          heading.style.textShadow = '0 0 10px #00f0ff, 0 0 20px rgba(0, 240, 255, 0.5)';
+          heading.style.color = '#fff';
+          heading.style.fontSize = '2.5rem';
+          heading.style.fontWeight = '700';
+          heading.style.letterSpacing = '1px';
+        } else if (heading.tagName === 'H2') {
+          heading.style.textShadow = '0 0 8px rgba(0, 240, 255, 0.7)';
+          heading.style.color = '#00f0ff';
+          heading.style.fontSize = '1.3rem';
+          heading.style.fontWeight = '400';
+          heading.style.letterSpacing = '0.5px';
+        } else if (heading.tagName === 'H3') {
+          heading.style.textShadow = '0 0 8px rgba(255, 0, 224, 0.7)';
+          heading.style.color = '#ff00e0';
+          heading.style.fontSize = '1.5rem';
+          heading.style.fontWeight = '600';
+          heading.style.letterSpacing = '1px';
+          heading.style.paddingBottom = '0.6rem';
+          heading.style.position = 'relative';
+          
+          // Add the gradient line under section headings
+          const afterElement = document.createElement('div');
+          afterElement.style.position = 'absolute';
+          afterElement.style.bottom = '0';
+          afterElement.style.left = '0';
+          afterElement.style.width = '60px';
+          afterElement.style.height = '3px';
+          afterElement.style.background = 'linear-gradient(90deg, #ff00e0, #00f0ff)';
+          afterElement.style.boxShadow = '0 0 10px rgba(255, 0, 224, 0.7)';
+          heading.appendChild(afterElement);
+        }
       });
       
-      // Style the education items
-      const educationItems = tempContainer.querySelectorAll('.education-item');
-      educationItems.forEach(item => {
-        item.style.borderRadius = '12px';
-        item.style.background = '#fff';
-        item.style.boxShadow = '0 5px 15px rgba(0, 0, 0, 0.05)';
-        item.style.padding = '1.5rem';
-        item.style.marginBottom = '2rem';
-        item.style.position = 'relative';
-        item.style.borderTop = '3px solid #f0f0f0';
-        // Create left border with color
-        const leftBorder = document.createElement('div');
-        leftBorder.style.position = 'absolute';
-        leftBorder.style.left = '0';
-        leftBorder.style.top = '0';
-        leftBorder.style.height = '100%';
-        leftBorder.style.width = '7px';
-        leftBorder.style.backgroundColor = '#FF5E7D';
-        leftBorder.style.borderRadius = '7px 0 0 7px';
-        item.insertBefore(leftBorder, item.firstChild);
+      // Enhance the contact info boxes
+      const contactInfo = tempContainer.querySelectorAll('.contact-info p');
+      contactInfo.forEach(p => {
+        p.style.background = 'rgba(0, 0, 0, 0.3)';
+        p.style.padding = '0.5rem 1rem';
+        p.style.borderRadius = '30px';
+        p.style.boxShadow = '0 0 10px rgba(0, 240, 255, 0.2)';
+        p.style.border = '1px solid rgba(0, 240, 255, 0.3)';
+        p.style.color = 'rgba(255, 255, 255, 0.8)';
       });
       
-      // Style the project items
-      const projectItems = tempContainer.querySelectorAll('.project-item');
-      projectItems.forEach(item => {
-        item.style.borderRadius = '12px';
-        item.style.background = '#fff';
-        item.style.boxShadow = '0 5px 15px rgba(0, 0, 0, 0.05)';
-        item.style.padding = '1.5rem';
-        item.style.marginBottom = '2rem';
-        item.style.position = 'relative';
-        item.style.borderTop = '3px solid #f0f0f0';
-        // Create left border with color
-        const leftBorder = document.createElement('div');
-        leftBorder.style.position = 'absolute';
-        leftBorder.style.left = '0';
-        leftBorder.style.top = '0';
-        leftBorder.style.height = '100%';
-        leftBorder.style.width = '7px';
-        leftBorder.style.backgroundColor = '#FFB74D';
-        leftBorder.style.borderRadius = '7px 0 0 7px';
-        item.insertBefore(leftBorder, item.firstChild);
+      // Enhance experience, education and project items
+      const items = tempContainer.querySelectorAll('.experience-item, .education-item, .project-item');
+      items.forEach(item => {
+        item.style.background = 'rgba(0, 0, 0, 0.4)';
+        item.style.borderRadius = '8px';
+        item.style.border = 'none';
+        item.style.borderLeft = '3px solid #00ff9d';
+        item.style.boxShadow = '0 5px 15px rgba(0, 0, 0, 0.3), 0 0 10px rgba(0, 255, 157, 0.2)';
+        item.style.padding = '1.2rem';
+        item.style.marginBottom = '1.8rem';
       });
-
+      
+      // Style the experience item titles
+      const itemHeadings = tempContainer.querySelectorAll('.experience-item h4, .education-item h4, .project-item h4');
+      itemHeadings.forEach(heading => {
+        heading.style.fontWeight = '600';
+        heading.style.color = '#00ff9d';
+        heading.style.fontSize = '1.2rem';
+        heading.style.marginBottom = '0.8rem';
+        heading.style.textShadow = '0 0 8px rgba(0, 255, 157, 0.5)';
+      });
+      
+      // Enhance skill groups
+      const skillGroups = tempContainer.querySelectorAll('.skills-group');
+      skillGroups.forEach(group => {
+        const heading = group.querySelector('h4');
+        if (heading) {
+          heading.style.fontWeight = '600';
+          heading.style.color = '#ff0058';
+          heading.style.marginBottom = '0.8rem';
+          heading.style.fontSize = '1.1rem';
+          heading.style.textShadow = '0 0 8px rgba(255, 0, 88, 0.6)';
+        }
+        
+        const paragraph = group.querySelector('p');
+        if (paragraph) {
+          paragraph.style.background = 'rgba(0, 0, 0, 0.4)';
+          paragraph.style.padding = '1rem';
+          paragraph.style.borderRadius = '8px';
+          paragraph.style.color = 'rgba(255, 255, 255, 0.9)';
+          paragraph.style.border = '1px solid rgba(255, 0, 88, 0.3)';
+          paragraph.style.boxShadow = '0 0 10px rgba(255, 0, 88, 0.2)';
+        }
+      });
+      
+      // Style list items and markers
+      const lists = tempContainer.querySelectorAll('ul');
+      lists.forEach(list => {
+        list.style.listStyleType = 'disc';
+        list.style.paddingLeft = '1.2rem';
+        list.style.margin = '0.8rem 0';
+        
+        const listItems = list.querySelectorAll('li');
+        listItems.forEach(item => {
+          item.style.marginBottom = '0.7rem';
+          item.style.color = 'rgba(255, 255, 255, 0.75)';
+          
+          // Can't style ::marker directly in inline styles, so add a span before each item
+          const markerSpan = document.createElement('span');
+          markerSpan.textContent = '• ';
+          markerSpan.style.color = '#00f0ff';
+          markerSpan.style.textShadow = '0 0 5px #00f0ff';
+          
+          item.insertBefore(markerSpan, item.firstChild);
+        });
+      });
+      
       doc.html(tempContainer, {
         callback: function (doc) {
           document.body.removeChild(tempContainer);
@@ -503,13 +605,16 @@ const Resume = () => {
             doc.save(`履歴書-岩崎力樹.pdf`);
           }
         },
-        margin: [10, 0, 10, 0], 
         width: doc.internal.pageSize.getWidth(),
         windowWidth: tempContainer.offsetWidth,
         autoPaging: 'text',
         html2canvas: {
-          scale: 0.23,
+          scale: 0.235,
           letterRendering: true,
+          backgroundColor: '#111', // Ensure dark background
+          logging: false, // Disable logging
+          allowTaint: true, // Allow custom styling
+          useCORS: true, // Use CORS to handle cross-origin content
         }
       });
     }
@@ -566,12 +671,11 @@ const Resume = () => {
             doc.save(`履歴書-岩崎力樹.pdf`);
           }
         },
-        margin: [10, 10, 10, 10],
         width: doc.internal.pageSize.getWidth(),
         windowWidth: tempContainer.offsetWidth,
         autoPaging: 'text',
         html2canvas: {
-          scale: 0.185,
+          scale: 0.234,
           letterRendering: true,
         }
       });
@@ -594,14 +698,98 @@ const Resume = () => {
         windowWidth: tempContainer.offsetWidth,
         autoPaging: 'text',
         html2canvas: {
-          scale: 0.194,
+          scale: 0.223,
+          letterRendering: true,
+        }
+      });
+    }
+    else if(style === 'onepage') {
+      // Set a specific width to ensure it fits on a single PDF page
+      tempContainer.style.width = '800px';
+      
+      // Add additional styling for PDF output
+      tempContainer.style.padding = '10px';
+      
+      // For headings
+      const headings = tempContainer.querySelectorAll('h1, h2, h3, h4');
+      headings.forEach(heading => {
+        heading.style.margin = '0.1rem 0';
+        heading.style.lineHeight = '1.2';
+      });
+      
+      // For lists
+      const lists = tempContainer.querySelectorAll('ul');
+      lists.forEach(list => {
+        list.style.margin = '0.1rem 0';
+        list.style.paddingLeft = '1rem';
+      });
+      
+      // For list items - potentially truncate long descriptions
+      const listItems = tempContainer.querySelectorAll('li');
+      listItems.forEach(item => {
+        item.style.margin = '0';
+        item.style.fontSize = '8px';
+        item.style.lineHeight = '1.1';
+        
+        // Truncate longer list items if needed
+        if (item.textContent.length > 100) {
+          item.textContent = item.textContent.substring(0, 97) + '...';
+        }
+      });
+      
+      // For paragraphs and other text elements
+      const paragraphs = tempContainer.querySelectorAll('p');
+      paragraphs.forEach(p => {
+        p.style.margin = '0.05rem 0';
+        p.style.fontSize = '8px';
+        p.style.lineHeight = '1.1';
+      });
+      
+      // Handle experience items - limit bullet points if there are too many
+      const experienceItems = tempContainer.querySelectorAll('.experience-item');
+      experienceItems.forEach(item => {
+        const bullets = item.querySelectorAll('li');
+        if (bullets.length > 3) {
+          // Keep only the first 3 bullet points for each experience to save space
+          for (let i = 3; i < bullets.length; i++) {
+            bullets[i].style.display = 'none';
+          }
+        }
+      });
+      
+      // Special handling for skills section
+      const skillsGroups = tempContainer.querySelectorAll('.skills-group');
+      skillsGroups.forEach(group => {
+        const skillsText = group.querySelector('p');
+        if (skillsText && skillsText.textContent.length > 120) {
+          // Truncate very long skill lists
+          skillsText.textContent = skillsText.textContent.substring(0, 117) + '...';
+        }
+      });
+      
+      // Add smaller margins for PDF to fit on a single page
+      doc.html(tempContainer, {
+        callback: function (doc) {
+          document.body.removeChild(tempContainer);
+  
+          if(uiLanguage === 'en') {
+            doc.save(`Resume-Ricky-Iwasaki-${language}.pdf`);
+          } else {
+            doc.save(`履歴書-岩崎力樹.pdf`);
+          }
+        },
+        margin: [5, 5, 5, 5], // Minimal margins [top, left, bottom, right]
+        width: doc.internal.pageSize.getWidth(),
+        windowWidth: tempContainer.offsetWidth,
+        autoPaging: false, // Disable auto-paging to keep on one page
+        html2canvas: {
+          scale: 0.263, // Precise scaling to fit content on a single page
           letterRendering: true,
         }
       });
     }
   };
-
-  // Section visibility flags based on search results
+  
   const showSummary = !searchResults || searchResults.summary.length > 0;
   const showEducation = !searchResults || searchResults.education.length > 0;
   const showExperience = !searchResults || searchResults.experience.length > 0;
@@ -612,112 +800,148 @@ const Resume = () => {
     <div className="resume-container">
       <h1>{uiLanguage === 'en' ? 'My Resume' : '履歴書'}</h1>
       
-      {/* Controls area */}
+      
       <div className="resume-controls">
-        <div className="resume-search">
-          <input
-            type="text"
-            placeholder={uiLanguage === 'en' ? "Search resume..." : "履歴書を検索..."}
-            value={searchQuery}
-            onChange={handleSearch}
-            className="search-input"
-          />
-          {searchQuery && (
-            <button className="clear-search" onClick={clearSearch}>
-              ✕
-            </button>
-          )}
-        </div>
-        
-        <div className="resume-options-row">
-          <div className="resume-language-switcher">
-            <label htmlFor="language-select">{uiLanguage === 'en' ? 'Language:' : '言語:'} </label>
-            <div className="language-selection-container">
-              <div className="language-search-wrapper">
+        <div className="resume-controls-panel">
+          
+          <div className="controls-panel">
+            <div className="panel-header">
+              <h3>{uiLanguage === 'en' ? 'Search' : '検索'}</h3>
+            </div>
+            <div className="panel-content">
+              <div className="resume-search">
                 <input
                   type="text"
-                  placeholder={uiLanguage === 'en' ? "Search languages..." : "言語を検索..."}
-                  value={languageSearchQuery}
-                  onChange={handleLanguageSearch}
-                  className="language-search-input"
+                  placeholder={uiLanguage === 'en' ? "Search resume..." : "履歴書を検索..."}
+                  value={searchQuery}
+                  onChange={handleSearch}
+                  className="search-input"
                 />
-                {languageSearchQuery && (
-                  <button className="clear-language-search" onClick={clearLanguageSearch}>
+                {searchQuery && (
+                  <button className="clear-search" onClick={clearSearch}>
                     ✕
                   </button>
                 )}
               </div>
-              <select 
-                id="language-select"
-                value={language} 
-                onChange={handleLanguageChange}
-                className="language-select"
-              >
-                {filteredLanguages.map(([code, name]) => (
-                  <option key={code} value={code}>{name}</option>
-                ))}
-              </select>
             </div>
           </div>
           
-          <div className="resume-style-switcher">
-            <span>{uiLanguage === 'en' ? 'Style:' : 'スタイル:'} </span>
-            <button 
-              className={style === 'minimal' ? 'active' : ''}
-              onClick={() => handleStyleChange('minimal')}
-            >
-              {uiLanguage === 'en' ? 'Simple' : 'シンプル'}
-            </button>
-            <button 
-              className={style === 'modern' ? 'active' : ''}
-              onClick={() => handleStyleChange('modern')}
-            >
-              {uiLanguage === 'en' ? 'Modern' : 'モダン'}
-            </button>
-            <button 
-              className={style === 'creative' ? 'active' : ''}
-              onClick={() => handleStyleChange('creative')}
-            >
-              {uiLanguage === 'en' ? 'Creative' : 'クリエイティブ'}
-            </button>
-            <button 
-              className={style === 'professional' ? 'active' : ''}
-              onClick={() => handleStyleChange('professional')}
-            >
-              {uiLanguage === 'en' ? 'Professional' : 'プロフェッショナル'}
-            </button>
-            <button 
-              className={style === 'technical' ? 'active' : ''}
-              onClick={() => handleStyleChange('technical')}
-            >
-              {uiLanguage === 'en' ? 'Technical' : '技術的'}
-            </button>
-            <button 
-              className={style === 'compact' ? 'active' : ''}
-              onClick={() => handleStyleChange('compact')}
-            >
-              {uiLanguage === 'en' ? 'Compact' : 'コンパクト'}
-            </button>
-            <button 
-              className={style === 'elegant' ? 'active' : ''}
-              onClick={() => handleStyleChange('elegant')}
-            >
-              {uiLanguage === 'en' ? 'Elegant' : 'エレガント'}
-            </button>
+          
+          <div className="controls-panel">
+            <div className="panel-header">
+              <h3>{uiLanguage === 'en' ? 'Language' : '言語'}</h3>
+            </div>
+            <div className="panel-content">
+              <div className="resume-language-switcher">
+                <div className="language-selection-container">
+                  <div className="language-search-wrapper">
+                    <input
+                      type="text"
+                      placeholder={uiLanguage === 'en' ? "Search languages..." : "言語を検索..."}
+                      value={languageSearchQuery}
+                      onChange={handleLanguageSearch}
+                      className="language-search-input"
+                    />
+                    {languageSearchQuery && (
+                      <button className="clear-language-search" onClick={clearLanguageSearch}>
+                        ✕
+                      </button>
+                    )}
+                  </div>
+                  <select 
+                    id="language-select"
+                    value={language} 
+                    onChange={handleLanguageChange}
+                    className="language-select"
+                  >
+                    {filteredLanguages.map(([code, name]) => (
+                      <option key={code} value={code}>{name}</option>
+                    ))}
+                  </select>
+                </div>
+              </div>
+            </div>
           </div>
-        </div>
-        
-        <div className="download-options">
-          <button className="download-button" onClick={handleJsonDownload}>
-            {uiLanguage === 'en' ? 'Download JSON' : 'JSONをダウンロード'}
-          </button>
-          <button className="download-button" onClick={handlePdfDownload}>
-            {uiLanguage === 'en' ? 'Download PDF' : 'PDFをダウンロード'}
-          </button>
+          
+          
+          <div className="controls-panel">
+            <div className="panel-header">
+              <h3>{uiLanguage === 'en' ? 'Style' : 'スタイル'}</h3>
+            </div>
+            <div className="panel-content">
+              <div className="resume-style-grid">
+                <button 
+                  className={style === 'minimal' ? 'active' : ''}
+                  onClick={() => handleStyleChange('minimal')}
+                >
+                  {uiLanguage === 'en' ? 'Simple' : 'シンプル'}
+                </button>
+                <button 
+                  className={style === 'modern' ? 'active' : ''}
+                  onClick={() => handleStyleChange('modern')}
+                >
+                  {uiLanguage === 'en' ? 'Modern' : 'モダン'}
+                </button>
+                <button 
+                  className={style === 'vibrant' ? 'active' : ''}
+                  onClick={() => handleStyleChange('vibrant')}
+                >
+                  {uiLanguage === 'en' ? 'Vibrant' : 'バイブラント'}
+                </button>
+                <button 
+                  className={style === 'professional' ? 'active' : ''}
+                  onClick={() => handleStyleChange('professional')}
+                >
+                  {uiLanguage === 'en' ? 'Professional' : 'プロフェッショナル'}
+                </button>
+                <button 
+                  className={style === 'technical' ? 'active' : ''}
+                  onClick={() => handleStyleChange('technical')}
+                >
+                  {uiLanguage === 'en' ? 'Technical' : '技術的'}
+                </button>
+                <button 
+                  className={style === 'compact' ? 'active' : ''}
+                  onClick={() => handleStyleChange('compact')}
+                >
+                  {uiLanguage === 'en' ? 'Compact' : 'コンパクト'}
+                </button>
+                <button 
+                  className={style === 'elegant' ? 'active' : ''}
+                  onClick={() => handleStyleChange('elegant')}
+                >
+                  {uiLanguage === 'en' ? 'Elegant' : 'エレガント'}
+                </button>
+                <button 
+                  className={style === 'onepage' ? 'active' : ''}
+                  onClick={() => handleStyleChange('onepage')}
+                >
+                  {uiLanguage === 'en' ? 'One-Page' : '1ページ'}
+                </button>
+              </div>
+            </div>
+          </div>
+          
+          
+          <div className="controls-panel">
+            <div className="panel-header">
+              <h3>{uiLanguage === 'en' ? 'Download' : 'ダウンロード'}</h3>
+            </div>
+            <div className="panel-content">
+              <div className="download-options">
+                <button className="download-button" onClick={handleJsonDownload}>
+                  {uiLanguage === 'en' ? 'JSON Format' : 'JSON形式'}
+                </button>
+                <button className="download-button" onClick={handlePdfDownload}>
+                  {uiLanguage === 'en' ? 'PDF Format' : 'PDF形式'}
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       
-      {/* Search results indicator */}
+      
       {searchQuery && (
         <div className="search-indicator">
           {searchResults ? (
@@ -736,7 +960,7 @@ const Resume = () => {
         </div>
       )}
       
-      <div className={`resume-view ${styles[style]}`} ref={contentRef}>
+      <div className={`resume-view ${style ? styles[style] : ''}`} ref={contentRef}>
         <header ref={headerContentRef}>
           <h1>{resumeData.name}</h1>
           <h2>{resumeData.title}</h2>

@@ -11,7 +11,7 @@ const Contacts = () => {
     setContacts(contactsData);
   }, []);
 
-  // Function to handle copying to clipboard
+  
   const copyToClipboard = (text, type) => {
     navigator.clipboard.writeText(text)
       .then(() => {
@@ -23,7 +23,7 @@ const Contacts = () => {
       });
   };
 
-  // Function to get appropriate icon for contact type
+  
   const getIcon = (type) => {
     switch (type) {
       case 'phone number': return <FaPhone />;
@@ -40,17 +40,17 @@ const Contacts = () => {
     }
   };
 
-  // Function to get display text (for social media, remove domain part)
+  
   const getDisplayText = (type, value) => {
     if (['linkedin', 'github', 'instagram', 'x'].includes(type)) {
-      // Extract username part from social links
+      
       const parts = value.split('/');
       return parts[parts.length - 1];
     }
     return value;
   };
 
-  // Function to get proper href for links
+  
   const getHref = (type, value) => {
     switch (type) {
       case 'phone number': return `tel:${value}`;

@@ -1,0 +1,703 @@
+/* Base styling with enhanced background */
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #f5f7fa 0%, #e4eaff 100%);
+    position: relative;
+    overflow-x: hidden;
+}
+
+/* Add floating shapes in background */
+body::before, body::after {
+    content: '';
+    position: fixed;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(106, 17, 203, 0.05) 0%, rgba(37, 117, 252, 0.02) 70%, transparent 100%);
+    z-index: -1;
+    animation: float 15s infinite ease-in-out;
+}
+
+body::before {
+    top: -100px;
+    left: -100px;
+    animation-delay: 0s;
+}
+
+body::after {
+    bottom: -100px;
+    right: -100px;
+    width: 400px;
+    height: 400px;
+    animation-delay: -7s;
+}
+
+@keyframes float {
+    0%, 100% {
+        transform: translate(0, 0) rotate(0deg);
+    }
+    25% {
+        transform: translate(50px, 50px) rotate(5deg);
+    }
+    50% {
+        transform: translate(0, 100px) rotate(0deg);
+    }
+    75% {
+        transform: translate(-50px, 50px) rotate(-5deg);
+    }
+}
+
+/* Parallax layers */
+.parallax-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.layer-1 {
+    background-image: radial-gradient(circle at 20% 30%, rgba(106, 17, 203, 0.03) 0%, transparent 50%);
+    opacity: 0.7;
+}
+
+.layer-2 {
+    background-image: radial-gradient(circle at 80% 70%, rgba(37, 117, 252, 0.03) 0%, transparent 50%);
+    opacity: 0.5;
+}
+
+.beliefs-container {
+    max-width: 900px;
+    margin: 0 auto 2rem auto;
+    padding: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    min-height: auto;
+    width: 100%;
+    box-sizing: border-box;
+    color: #333;
+    position: relative;
+    z-index: 1;
+    --scroll-position: 0;
+}
+
+/* Add background pattern */
+.beliefs-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: 
+        radial-gradient(circle at 10% 20%, rgba(106, 17, 203, 0.03) 0%, transparent 8%),
+        radial-gradient(circle at 90% 40%, rgba(37, 117, 252, 0.03) 0%, transparent 6%),
+        radial-gradient(circle at 60% 80%, rgba(106, 17, 203, 0.03) 0%, transparent 10%),
+        radial-gradient(circle at 30% 60%, rgba(37, 117, 252, 0.03) 0%, transparent 7%);
+    z-index: -1;
+    opacity: 0.8;
+}
+
+.beliefs-title {
+    text-align: center;
+    margin-bottom: 2.5rem;
+    color: #333;
+    font-size: 2.5rem;
+    font-weight: 700;
+    position: relative;
+    padding-bottom: 0.8rem;
+}
+
+.beliefs-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 160px;
+    height: 3px;
+    background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+    border-radius: 3px;
+}
+
+/* Enhanced title with decorative elements */
+.beliefs-title::before {
+    content: '';
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: radial-gradient(circle, rgba(106, 17, 203, 0.15) 0%, transparent 70%);
+    border-radius: 50%;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: -1;
+}
+
+.beliefs-disclaimer {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #666;
+    font-size: 1.1rem;
+    font-style: italic;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+    background-color: rgba(106, 17, 203, 0.05);
+    padding: 1.2rem;
+    border-radius: 12px;
+    position: relative;
+    border: 1px solid rgba(106, 17, 203, 0.1);
+    box-shadow: 0 5px 15px rgba(106, 17, 203, 0.05);
+}
+
+/* Add decorative quotes to disclaimer */
+.beliefs-disclaimer::before,
+.beliefs-disclaimer::after {
+    content: '"';
+    position: absolute;
+    font-size: 3rem;
+    color: rgba(106, 17, 203, 0.1);
+    line-height: 1;
+}
+
+.beliefs-disclaimer::before {
+    top: 0;
+    left: 10px;
+}
+
+.beliefs-disclaimer::after {
+    bottom: -15px;
+    right: 10px;
+}
+
+.beliefs-tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+    gap: 1rem;
+    position: relative;
+}
+
+/* Add a decorative line behind tabs */
+.beliefs-tabs::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(90deg, 
+        transparent 0%, 
+        rgba(106, 17, 203, 0.1) 20%, 
+        rgba(37, 117, 252, 0.1) 50%, 
+        rgba(106, 17, 203, 0.1) 80%, 
+        transparent 100%);
+    z-index: -1;
+}
+
+.tab-button {
+    padding: 0.8rem 1.5rem;
+    background: #f5f5f5;
+    border: none;
+    border-radius: 30px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #666;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.tab-button:hover {
+    background: #eaeaea;
+    transform: translateY(-2px);
+}
+
+.tab-button.active {
+    background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+    color: white;
+    box-shadow: 0 4px 15px rgba(106, 17, 203, 0.3);
+}
+
+/* Add shimmer effect to active tab */
+.tab-button.active::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        to right,
+        rgba(255, 255, 255, 0) 0%,
+        rgba(255, 255, 255, 0.3) 50%,
+        rgba(255, 255, 255, 0) 100%
+    );
+    transform: rotate(30deg);
+    animation: shimmer 2s infinite;
+    z-index: -1;
+}
+
+@keyframes shimmer {
+    from {
+        transform: translateX(-100%) rotate(30deg);
+    }
+    to {
+        transform: translateX(100%) rotate(30deg);
+    }
+}
+
+.beliefs-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    position: relative;
+}
+
+/* Add floating decorative elements */
+.beliefs-content::before,
+.beliefs-content::after {
+    content: '';
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    z-index: -1;
+    opacity: 0.1;
+}
+
+.beliefs-content::before {
+    background: #6a11cb;
+    top: 10%;
+    right: -40px;
+    animation: morphShape 10s infinite alternate ease-in-out;
+}
+
+.beliefs-content::after {
+    background: #2575fc;
+    bottom: 10%;
+    left: -40px;
+    animation: morphShape 10s infinite alternate-reverse ease-in-out;
+}
+
+@keyframes morphShape {
+    0%, 100% {
+        border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    }
+    25% {
+        border-radius: 58% 42% 75% 25% / 76% 46% 54% 24%;
+    }
+    50% {
+        border-radius: 50% 50% 33% 67% / 55% 27% 73% 45%;
+    }
+    75% {
+        border-radius: 33% 67% 58% 42% / 63% 68% 32% 37%;
+    }
+}
+
+.category-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.belief-section {
+    margin-bottom: 1rem;
+    animation: fadeIn 0.5s ease-in-out;
+    animation-fill-mode: both;
+}
+
+.belief-section h2 {
+    color: #444;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    position: relative;
+    padding-left: 1rem;
+    border-left: 4px solid;
+    border-image: linear-gradient(to bottom, #6a11cb, #2575fc) 1;
+}
+
+.belief-card {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    position: relative;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    cursor: pointer;
+    backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+/* Add gradient border on hover */
+.belief-card::after {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background-size: 200% 200%;
+    z-index: -1;
+    border-radius: 14px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    animation: gradientFlow 3s ease infinite;
+}
+
+.belief-card:hover::after {
+    opacity: 1;
+}
+
+@keyframes gradientFlow {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Add subtle pattern to cards */
+.belief-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+        repeating-linear-gradient(
+            -45deg,
+            transparent,
+            transparent 5px,
+            rgba(106, 17, 203, 0.01) 5px,
+            rgba(106, 17, 203, 0.01) 10px
+        );
+    z-index: -1;
+    opacity: 0.5;
+}
+
+.belief-card:hover {
+    transform: translateY(-3px) scale(1.01);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+}
+
+.belief-card.expanded {
+    box-shadow: 0 15px 40px rgba(106, 17, 203, 0.15);
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.card-summary {
+    flex: 1;
+    margin: 0;
+    font-weight: 500;
+    color: #555;
+    line-height: 1.4;
+}
+
+.belief-icon {
+    font-size: 2rem;
+    margin-left: 1.5rem;
+    opacity: 0.8;
+    min-width: 40px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+/* Add glow effect to icons */
+.belief-icon::after {
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: radial-gradient(circle, rgba(106, 17, 203, 0.15) 0%, transparent 70%);
+    border-radius: 50%;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.expand-icon {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    color: #6a11cb;
+    font-weight: bold;
+    line-height: 1;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: rgba(106, 17, 203, 0.1);
+    transition: all 0.3s ease;
+}
+
+.belief-card:hover .expand-icon {
+    transform: rotate(90deg);
+    background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+    color: white;
+}
+
+.card-content {
+    padding-top: 1.5rem;
+    margin-top: 1.5rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    animation: expandContent 0.3s ease-in-out;
+}
+
+.card-content p {
+    margin: 0;
+    line-height: 1.7;
+    color: #444;
+    text-align: justify;
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes expandContent {
+    from {
+        opacity: 0;
+        max-height: 0;
+        padding-top: 0;
+        margin-top: 0;
+    }
+    to {
+        opacity: 1;
+        max-height: 1000px;
+        padding-top: 1.5rem;
+        margin-top: 1.5rem;
+    }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .beliefs-container {
+        padding: 1.5rem;
+    }
+    
+    .beliefs-tabs {
+        flex-wrap: wrap;
+    }
+    
+    .tab-button {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.9rem;
+    }
+    
+    .belief-card {
+        padding: 1.2rem;
+    }
+    
+    .card-summary {
+        font-size: 0.95rem;
+    }
+    
+    .belief-icon {
+        font-size: 1.8rem;
+        margin-left: 1rem;
+    }
+    
+    .expand-icon {
+        font-size: 1.2rem;
+        width: 22px;
+        height: 22px;
+    }
+    
+    /* Adjust background elements for smaller screens */
+    .beliefs-content::before,
+    .beliefs-content::after {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+@media (max-width: 600px) {
+    .beliefs-container {
+        padding: 1rem;
+    }
+    
+    .beliefs-title {
+        font-size: 2rem;
+    }
+    
+    .card-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .card-summary {
+        margin-bottom: 1rem;
+        width: 100%;
+    }
+    
+    .belief-icon {
+        position: absolute;
+        top: 0;
+        right: 20px;
+        margin-left: 0;
+    }
+    
+    .expand-icon {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+    
+    /* Hide some decorative elements on very small screens */
+    .beliefs-content::before,
+    .beliefs-content::after {
+        display: none;
+    }
+}
+
+/* For dark mode compatibility */
+@media (prefers-color-scheme: dark) {
+    body {
+        background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    }
+    
+    .beliefs-container {
+        color: #e0e0e0;
+    }
+    
+    .beliefs-title {
+        color: #f0f0f0;
+    }
+    
+    .beliefs-disclaimer {
+        color: #c0c0c0;
+        background-color: rgba(106, 17, 203, 0.1);
+        border: 1px solid rgba(106, 17, 203, 0.2);
+    }
+    
+    .belief-card {
+        background-color: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    
+    .card-summary {
+        color: #d0d0d0;
+    }
+    
+    .belief-section h2,
+    .card-content p {
+        color: #e0e0e0;
+    }
+    
+    .tab-button {
+        background: #2a2a3a;
+        color: #d0d0d0;
+    }
+    
+    .tab-button:hover {
+        background: #3a3a4a;
+    }
+}
+
+/* Loading and error styles */
+.beliefs-container.loading,
+.beliefs-container.error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+}
+
+.loading-spinner {
+    margin-top: 2rem;
+    width: 60px;
+    height: 60px;
+    border: 6px solid rgba(106, 17, 203, 0.1);
+    border-left-color: rgba(106, 17, 203, 0.8);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.error-message {
+    color: #d32f2f;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid rgba(211, 47, 47, 0.2);
+    border-radius: 8px;
+    background-color: rgba(211, 47, 47, 0.05);
+    max-width: 600px;
+}
+
+.no-content {
+    padding: 2rem;
+    text-align: center;
+    color: #666;
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+
+.retry-button {
+    margin-top: 1.5rem;
+    padding: 0.8rem 1.5rem;
+    background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(106, 17, 203, 0.3);
+}
+
+.retry-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(106, 17, 203, 0.4);
+}
+
+.retry-button:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 10px rgba(106, 17, 203, 0.3);
+}

@@ -2,19 +2,11 @@ import './App.css';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Resume from './pages/Resume/Resume';
 import Contacts from './pages/Contacts/Contacts';
+import Home from './pages/home/home';
+import Beliefs from './pages/Beliefs/Beliefs';
 import Footer from './components/Footer/Footer';
 import { RateLimitProvider } from './components/RateLimit/RateLimitContext';
 import RateLimitAlert from './components/RateLimit/RateLimitAlert';
-
-// Home component 
-const Home = () => (
-  <div>
-    <h1>Ricky Iwasaki</h1>
-    <p>Welcome to my portfolio!</p>
-  </div>
-);
-
-// Resume page will be imported from a separate file once we create it
 
 function App() {
   return (
@@ -25,6 +17,7 @@ function App() {
             <nav className="main-nav">
               <ul>
                 <li><Link to="/">Home</Link></li>
+                <li><Link to="/beliefs">Beliefs</Link></li>
                 <li><Link to="/resume">Resume</Link></li>
                 <li><Link to="/contacts">Contacts</Link></li>
               </ul>
@@ -32,16 +25,17 @@ function App() {
 
             <Routes>
               <Route path="/" element={<Home />} />
+              <Route path="/beliefs" element={<Beliefs />} />
               <Route path="/resume" element={<Resume />} />
               <Route path="/contacts" element={<Contacts />} />
             </Routes>
             
             {/* Rate limit alert component */}
             <RateLimitAlert />
+            
+            {/* Footer component - moved inside main-content */}
+            <Footer />
           </div>
-          
-          {/* Footer component */}
-          <Footer />
         </div>
       </Router>
     </RateLimitProvider>

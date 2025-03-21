@@ -2,9 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { useRateLimit } from './RateLimitContext';
 import './RateLimitAlert.css';
 
-/**
- * Component to display rate limit warnings/errors to the user
- */
 const RateLimitAlert = () => {
   const { rateLimitErrors } = useRateLimit();
   const [visible, setVisible] = useState(false);
@@ -14,7 +11,6 @@ const RateLimitAlert = () => {
     const errorEntries = Object.entries(rateLimitErrors);
     
     if (errorEntries.length > 0) {
-      // Get the most recent error
       const [endpoint, error] = errorEntries.reduce((latest, current) => {
         return current[1].timestamp > latest[1].timestamp ? current : latest;
       }, errorEntries[0]);
@@ -26,7 +22,6 @@ const RateLimitAlert = () => {
       
       setVisible(true);
       
-      // Auto-hide after 5 seconds
       const timer = setTimeout(() => {
         setVisible(false);
       }, 5000);
