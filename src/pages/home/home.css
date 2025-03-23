@@ -9,12 +9,11 @@ html, body, #root, .App, .main-content, .home-container {
     background-color: #f8f9fa;
 }
 
-/* Main container */
 .home-container {
     position: relative;
     width: 100%;
     overflow-x: hidden;
-    overflow-y: auto;
+    overflow-y: scroll;
     background-color: #f8f9fa;
     perspective: 1000px;
     scroll-snap-type: y mandatory;
@@ -25,6 +24,8 @@ html, body, #root, .App, .main-content, .home-container {
     box-sizing: border-box;
     scrollbar-width: none; 
     -ms-overflow-style: none; 
+    height: 100vh;
+    -webkit-overflow-scrolling: touch; /* For better iOS scrolling */
 }
 
 .home-container::-webkit-scrollbar {
@@ -43,6 +44,7 @@ html, body, #root, .App, .main-content, .home-container {
     align-items: center;
     justify-content: center;
     scroll-snap-align: start;
+    scroll-snap-stop: always;
     transition: transform 0.5s ease-out;
     margin: 0;
     padding: 0;
@@ -207,7 +209,6 @@ html, body, #root, .App, .main-content, .home-container {
     transform: translateY(-5px);
 }
 
-/* Ensure contact section (last section) has correct height */
 .contact-section {
     background-color: #49373e;
     color: white;
@@ -237,7 +238,6 @@ html, body, #root, .App, .main-content, .home-container {
     transform: scale(1.05);
 }
 
-/* Section headings */
 .section h2 {
     font-size: 3rem;
     margin-bottom: 1.5rem;
@@ -259,7 +259,6 @@ html, body, #root, .App, .main-content, .home-container {
     animation: expandWidth 1s ease-out 0.5s forwards;
 }
 
-/* Section icons */
 .section-icon {
     font-size: 3rem;
     margin-bottom: 1.5rem;
@@ -272,7 +271,6 @@ html, body, #root, .App, .main-content, .home-container {
     transform: translate(0, 4px);
 }
 
-/* Animated rings around icons */
 .section-icon::before {
     content: '';
     position: absolute;
@@ -287,7 +285,6 @@ html, body, #root, .App, .main-content, .home-container {
     animation: ringPulse 2s infinite;
 }
 
-/* Section details */
 .section-details {
     margin-top: 2rem;
     padding: 1.5rem;
@@ -300,7 +297,6 @@ html, body, #root, .App, .main-content, .home-container {
     overflow: hidden;
 }
 
-/* Animated gradient border */
 .section-details::before {
     content: '';
     position: absolute;
@@ -331,7 +327,6 @@ html, body, #root, .App, .main-content, .home-container {
     margin-bottom: 1.5rem;
 }
 
-/* Button styling */
 .section-button {
     display: inline-block;
     padding: 0.8rem 2rem;
@@ -369,7 +364,6 @@ html, body, #root, .App, .main-content, .home-container {
     width: 100%;
 }
 
-/* Scroll down indicator */
 .scroll-down {
     position: absolute;
     bottom: 0px;
@@ -397,7 +391,6 @@ html, body, #root, .App, .main-content, .home-container {
     opacity: 1;
 }
 
-/* Navigation dots */
 .section-dots {
     position: fixed;
     top: calc(50% + 35px);
@@ -429,7 +422,6 @@ html, body, #root, .App, .main-content, .home-container {
     transform: scale(1.3);
 }
 
-/* Add tooltips for navigation dots */
 .dot::before {
     content: attr(data-tooltip);
     position: absolute;
@@ -453,7 +445,6 @@ html, body, #root, .App, .main-content, .home-container {
     right: 30px;
 }
 
-/* Add arrow for tooltip */
 .dot::after {
     content: '';
     position: absolute;
@@ -474,7 +465,6 @@ html, body, #root, .App, .main-content, .home-container {
     right: 25px;
 }
 
-/* Animations */
 @keyframes fadeInUp {
     from {
         opacity: 0;
@@ -596,7 +586,6 @@ html, body, #root, .App, .main-content, .home-container {
     }
 }
 
-/* Media queries for responsiveness */
 @media screen and (max-width: 768px) {
     .hero-title {
         font-size: 3rem;
@@ -624,9 +613,28 @@ html, body, #root, .App, .main-content, .home-container {
         align-items: center;
         gap: 1rem;
     }
+    
+    .resume-features li {
+        background-color: rgba(255, 255, 255, 0.2);
+        color: white;
+        text-shadow: 0 0 3px rgba(0, 0, 0, 0.8);
+        font-weight: 500;
+    }
+    
+    .section-details {
+        background-color: rgba(255, 255, 255, 0.15);
+    }
+    
+    .section-details p {
+        color: white;
+        text-shadow: 0 0 3px rgba(0, 0, 0, 0.8);
+    }
+    
+    .section h2, .section p {
+        text-shadow: 0 0 5px rgba(0, 0, 0, 0.9);
+    }
 }
 
-/* Handle scroll behavior */
 html {
     scroll-behavior: smooth;
 }

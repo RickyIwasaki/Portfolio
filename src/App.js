@@ -30,10 +30,7 @@ function App() {
               <Route path="/contacts" element={<Contacts />} />
             </Routes>
             
-            {/* Rate limit alert component */}
             <RateLimitAlert />
-            
-            {/* Footer component - moved inside main-content */}
             <Footer />
           </div>
         </div>

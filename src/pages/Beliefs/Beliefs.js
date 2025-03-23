@@ -4,12 +4,11 @@ import BackgroundShapes from '../../components/BackgroundShapes';
 import Particles from '../../components/Particles';
 import beliefsData from '../../assets/beliefs.json';
 
-// Simulate an API fetch with a delay
 const fetchBeliefsData = () => {
     return new Promise((resolve) => {
         setTimeout(() => {
             resolve(beliefsData);
-        }, 800); // Simulate network delay
+        }, 800); 
     });
 };
 
@@ -22,7 +21,6 @@ const Beliefs = () => {
     const [isLoading, setIsLoading] = useState(true);
     const [error, setError] = useState(null);
 
-    // Load data
     useEffect(() => {
         const loadData = async () => {
             try {
@@ -41,7 +39,6 @@ const Beliefs = () => {
         loadData();
     }, []);
 
-    // Handle parallax effect
     useEffect(() => {
         const handleScroll = () => {
             setScrollPosition(window.scrollY);
@@ -60,7 +57,7 @@ const Beliefs = () => {
         setIsCategoryChanging(true);
         setTimeout(() => {
             setActiveCategory(category);
-            setExpandedCards(new Set()); // Reset expanded cards when changing categories
+            setExpandedCards(new Set()); 
             setIsCategoryChanging(false);
         }, 300);
     };
@@ -76,7 +73,6 @@ const Beliefs = () => {
             return newExpandedCards;
         });
         
-        // Scroll to the card if it's being expanded
         if (!expandedCards.has(cardId)) {
             setTimeout(() => {
                 const element = document.getElementById(cardId);
@@ -120,7 +116,6 @@ const Beliefs = () => {
         ));
     };
 
-    // Show loading state
     if (isLoading) {
         return (
             <div className="beliefs-container loading">
@@ -132,7 +127,6 @@ const Beliefs = () => {
         );
     }
 
-    // Show error if data not available
     if (error || !data) {
         return (
             <div className="beliefs-container error">

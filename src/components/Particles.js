@@ -50,7 +50,6 @@ const Particles = () => {
       }
     }
     
-    // Create particles
     const init = () => {
       particlesArray = [];
       const numberOfParticles = Math.min(Math.floor(canvas.width * canvas.height / 15000), 60);
@@ -60,7 +59,6 @@ const Particles = () => {
       }
     };
     
-    // Animation loop
     const animate = () => {
       ctx.clearRect(0, 0, canvas.width, canvas.height);
       
@@ -69,13 +67,11 @@ const Particles = () => {
         particlesArray[i].draw();
       }
       
-      // Connect particles with lines
       connectParticles();
       
       animationFrameId = requestAnimationFrame(animate);
     };
     
-    // Connect nearby particles with lines
     const connectParticles = () => {
       const maxDistance = 150;
       

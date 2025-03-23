@@ -1,4 +1,3 @@
-/* General styles */
 .App {
   display: flex;
   flex-direction: column;
@@ -8,7 +7,6 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  /* Ensure the scrollbar is visible on top of all content */
   position: relative;
 }
 
@@ -19,32 +17,25 @@
   position: relative;
   margin: 0;
   padding: 0;
-  /* Allow scrolling by default for non-home pages */
   overflow: visible;
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* Ensure main-content takes full viewport height */
+  min-height: 100vh;
 }
 
-/* Only hide overflow when home-container is present */
 .main-content:has(.home-container) {
   padding: 0;
   max-width: 100%;
   margin: 0;
-  /* Change from visible to auto to ensure proper scrolling */
   overflow: auto;
   height: 100vh;
-  
-  /* Hide scrollbar for Firefox */
   scrollbar-width: none;
 }
 
-/* Hide scrollbar for Chrome, Safari and Opera */
 .main-content:has(.home-container)::-webkit-scrollbar {
   display: none;
 }
 
-/* Make the body also not show scrollbar when on home page */
 body:has(.home-container) {
   scrollbar-width: none;
 }
@@ -58,12 +49,10 @@ body:has(.home-container)::-webkit-scrollbar {
   max-width: 1200px;
   margin: 0 auto;
   padding: 1rem;
-  padding-bottom: 4rem; /* Additional bottom padding to prevent content from being hidden behind footer */
+  padding-bottom: 4rem;
 }
 
-/* Navigation */
 .main-nav {
-  /* Change back from fixed to sticky positioning */
   position: sticky;
   top: 0;
   left: 0;
@@ -104,23 +93,18 @@ body:has(.home-container)::-webkit-scrollbar {
   background-color: rgba(74, 108, 247, 0.1);
 }
 
-/* For pages other than home */
 .App:has(.main-content > *:not(.home-container)) .main-content {
   margin-top: 0;
-  /* Remove padding-bottom as footer is now part of content flow */
-  /* padding-bottom: 8rem; Removed */
-  /* Remove bottom margin, use padding instead */
   margin-bottom: 0;
 }
 
-/* Footer */
 footer {
   width: 100%;
   background-color: #f8f9fa;
   text-align: center;
   padding: 1rem;
   box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
-  margin-top: auto; /* Push footer to bottom of content */
+  margin-top: auto; 
 }
 
 /* Position footer for non-home pages */
@@ -128,8 +112,8 @@ footer {
   width: 100%;
   left: 0;
   bottom: 0;
-  z-index: 10; /* Ensure footer is above other content */
-  position: relative; /* Change to relative positioning */
+  z-index: 10; 
+  position: relative; 
 }
 
 /* Hide footer on home page */
@@ -142,7 +126,6 @@ footer {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* Make sure the rate limit alert is visible */
 .rate-limit-alert {
   position: fixed;
   bottom: 20px;
@@ -150,7 +133,6 @@ footer {
   z-index: 1001;
 }
 
-/* Media queries for responsive design */
 @media (max-width: 768px) {
   .main-nav ul {
     justify-content: center;
@@ -168,11 +150,9 @@ footer {
   }
 }
 
-/* Make sure body scrollbar is always on top */
 body {
   overflow-y: auto;
   overflow-x: hidden;
-  /* Ensure the scrollbar has highest priority */
   z-index: 9999;
   position: relative;
 }

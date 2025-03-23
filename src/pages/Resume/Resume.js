@@ -17,12 +17,10 @@ const languageCodes = [
 
 
 try {
-  // Always ensure English resume is loaded first as fallback
   resumeDataMap['en'] = require('../../assets/resumes/resume-en.json');
   
-  // Then try to load other languages
   languageCodes.forEach(code => {
-    if (code !== 'en') { // Skip English as we already loaded it
+    if (code !== 'en') {
       try {
         resumeDataMap[code] = require(`../../assets/resumes/resume-${code}.json`);
       } catch (error) {
@@ -41,7 +39,6 @@ const styles = {
   vibrant: 'resume-style-vibrant',
   professional: 'resume-style-professional',
   technical: 'resume-style-technical',
-  compact: 'resume-style-compact',
   elegant: 'resume-style-elegant',
   onepage: 'resume-style-onepage'
 };
@@ -209,24 +206,18 @@ const Resume = () => {
 
   
   const handleStyleChange = (newStyle) => {
-    // First set the state to empty temporarily to ensure clean switching
     setStyle('');
     
-    // Clean up any potential style leftovers, especially for vibrant style
     if (contentRef.current) {
       const element = contentRef.current;
-      // Remove any animations or transitions temporarily
       element.style.animation = 'none';
       element.style.transition = 'none';
       
-      // Force a reflow to apply the changes immediately
       void element.offsetHeight;
     }
     
-    // Use setTimeout to ensure the DOM has time to update and remove all previous styles
     setTimeout(() => {
       setStyle(newStyle);
-      // Restore animations after new style is applied
       if (contentRef.current) {
         contentRef.current.style.animation = '';
         contentRef.current.style.transition = '';
@@ -335,15 +326,12 @@ const Resume = () => {
       format: "a4"
     });
 
-    // Create a temporary container to combine all sections
     const tempContainer = document.createElement('div');
     tempContainer.className = `resume-view ${style ? styles[style] : ''}`;
     
-    // Ensure any vibrant style specific elements are properly reset
     tempContainer.style.animation = 'none';
     tempContainer.style.transition = 'none';
     
-    // Clone and append each section if it exists and should be shown
     if (headerContentRef.current) {
       const headerClone = headerContentRef.current.cloneNode(true);
       tempContainer.appendChild(headerClone);
@@ -400,7 +388,7 @@ const Resume = () => {
         windowWidth: tempContainer.offsetWidth,
         autoPaging: 'text',
         html2canvas: {
-          scale: 0.25,
+          scale: 0.238,
           letterRendering: true,
         }
       });
@@ -422,7 +410,7 @@ const Resume = () => {
         windowWidth: tempContainer.offsetWidth,
         autoPaging: 'text',
         html2canvas: {
-          scale: 0.198,
+          scale: 0.212,
           letterRendering: true,
         }
       });
@@ -704,40 +692,33 @@ const Resume = () => {
       });
     }
     else if(style === 'onepage') {
-      // Set a specific width to ensure it fits on a single PDF page
       tempContainer.style.width = '800px';
       
-      // Add additional styling for PDF output
       tempContainer.style.padding = '10px';
       
-      // For headings
       const headings = tempContainer.querySelectorAll('h1, h2, h3, h4');
       headings.forEach(heading => {
         heading.style.margin = '0.1rem 0';
         heading.style.lineHeight = '1.2';
       });
       
-      // For lists
       const lists = tempContainer.querySelectorAll('ul');
       lists.forEach(list => {
         list.style.margin = '0.1rem 0';
         list.style.paddingLeft = '1rem';
       });
       
-      // For list items - potentially truncate long descriptions
       const listItems = tempContainer.querySelectorAll('li');
       listItems.forEach(item => {
         item.style.margin = '0';
         item.style.fontSize = '8px';
         item.style.lineHeight = '1.1';
         
-        // Truncate longer list items if needed
         if (item.textContent.length > 100) {
           item.textContent = item.textContent.substring(0, 97) + '...';
         }
       });
       
-      // For paragraphs and other text elements
       const paragraphs = tempContainer.querySelectorAll('p');
       paragraphs.forEach(p => {
         p.style.margin = '0.05rem 0';
@@ -745,7 +726,6 @@ const Resume = () => {
         p.style.lineHeight = '1.1';
       });
       
-      // Handle experience items - limit bullet points if there are too many
       const experienceItems = tempContainer.querySelectorAll('.experience-item');
       experienceItems.forEach(item => {
         const bullets = item.querySelectorAll('li');
@@ -757,7 +737,6 @@ const Resume = () => {
         }
       });
       
-      // Special handling for skills section
       const skillsGroups = tempContainer.querySelectorAll('.skills-group');
       skillsGroups.forEach(group => {
         const skillsText = group.querySelector('p');
@@ -767,7 +746,6 @@ const Resume = () => {
         }
       });
       
-      // Add smaller margins for PDF to fit on a single page
       doc.html(tempContainer, {
         callback: function (doc) {
           document.body.removeChild(tempContainer);
@@ -778,12 +756,12 @@ const Resume = () => {
             doc.save(`履歴書-岩崎力樹.pdf`);
           }
         },
-        margin: [5, 5, 5, 5], // Minimal margins [top, left, bottom, right]
+        margin: [5, 5, 5, 5], 
         width: doc.internal.pageSize.getWidth(),
         windowWidth: tempContainer.offsetWidth,
-        autoPaging: false, // Disable auto-paging to keep on one page
+        autoPaging: false, 
         html2canvas: {
-          scale: 0.263, // Precise scaling to fit content on a single page
+          scale: 0.263,
           letterRendering: true,
         }
       });
@@ -899,12 +877,6 @@ const Resume = () => {
                   onClick={() => handleStyleChange('technical')}
                 >
                   {uiLanguage === 'en' ? 'Technical' : '技術的'}
-                </button>
-                <button 
-                  className={style === 'compact' ? 'active' : ''}
-                  onClick={() => handleStyleChange('compact')}
-                >
-                  {uiLanguage === 'en' ? 'Compact' : 'コンパクト'}
                 </button>
                 <button 
                   className={style === 'elegant' ? 'active' : ''}

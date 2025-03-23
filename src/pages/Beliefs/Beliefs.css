@@ -7,7 +7,6 @@ body {
     overflow-x: hidden;
 }
 
-/* Add floating shapes in background */
 body::before, body::after {
     content: '';
     position: fixed;
@@ -48,7 +47,6 @@ body::after {
     }
 }
 
-/* Parallax layers */
 .parallax-layer {
     position: absolute;
     top: 0;
@@ -84,7 +82,6 @@ body::after {
     --scroll-position: 0;
 }
 
-/* Add background pattern */
 .beliefs-container::before {
     content: '';
     position: absolute;
@@ -123,7 +120,6 @@ body::after {
     border-radius: 3px;
 }
 
-/* Enhanced title with decorative elements */
 .beliefs-title::before {
     content: '';
     position: absolute;
@@ -155,7 +151,6 @@ body::after {
     box-shadow: 0 5px 15px rgba(106, 17, 203, 0.05);
 }
 
-/* Add decorative quotes to disclaimer */
 .beliefs-disclaimer::before,
 .beliefs-disclaimer::after {
     content: '"';
@@ -183,7 +178,6 @@ body::after {
     position: relative;
 }
 
-/* Add a decorative line behind tabs */
 .beliefs-tabs::before {
     content: '';
     position: absolute;
@@ -227,7 +221,6 @@ body::after {
     box-shadow: 0 4px 15px rgba(106, 17, 203, 0.3);
 }
 
-/* Add shimmer effect to active tab */
 .tab-button.active::before {
     content: '';
     position: absolute;
@@ -262,7 +255,6 @@ body::after {
     position: relative;
 }
 
-/* Add floating decorative elements */
 .beliefs-content::before,
 .beliefs-content::after {
     content: '';
@@ -339,7 +331,6 @@ body::after {
     border: 1px solid rgba(255, 255, 255, 0.7);
 }
 
-/* Add gradient border on hover */
 .belief-card::after {
     content: '';
     position: absolute;
@@ -371,7 +362,6 @@ body::after {
     }
 }
 
-/* Add subtle pattern to cards */
 .belief-card::before {
     content: '';
     position: absolute;
@@ -425,7 +415,6 @@ body::after {
     z-index: 1;
 }
 
-/* Add glow effect to icons */
 .belief-icon::after {
     content: '';
     position: absolute;
@@ -505,7 +494,6 @@ body::after {
     }
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
     .beliefs-container {
         padding: 1.5rem;
@@ -539,7 +527,6 @@ body::after {
         height: 22px;
     }
     
-    /* Adjust background elements for smaller screens */
     .beliefs-content::before,
     .beliefs-content::after {
         width: 60px;
@@ -579,14 +566,12 @@ body::after {
         right: 0;
     }
     
-    /* Hide some decorative elements on very small screens */
     .beliefs-content::before,
     .beliefs-content::after {
         display: none;
     }
 }
 
-/* For dark mode compatibility */
 @media (prefers-color-scheme: dark) {
     body {
         background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
@@ -630,7 +615,6 @@ body::after {
     }
 }
 
-/* Loading and error styles */
 .beliefs-container.loading,
 .beliefs-container.error {
     display: flex;

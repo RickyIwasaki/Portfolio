@@ -11,7 +11,6 @@ const Home = () => {
     const containerRef = useRef(null);
     
     useEffect(() => {
-        // Handle scroll to show/hide navigation
         const handleScroll = () => {
             if (containerRef.current) {
                 if (window.scrollY > 100) {
@@ -26,17 +25,14 @@ const Home = () => {
 
         window.addEventListener('scroll', handleScroll);
         
-        // Initialize Intersection Observer
         observerRef.current = new IntersectionObserver(
             (entries) => {
                 entries.forEach((entry) => {
                     if (entry.isIntersecting) {
-                        // Find the index of the section that is currently in view
                         const index = sectionRefs.findIndex(ref => ref.current === entry.target);
                         if (index !== -1) {
                             setActiveSection(index);
                             
-                            // Add active class to the current section and remove from others
                             sectionRefs.forEach((ref, i) => {
                                 if (i === index) {
                                     ref.current.classList.add('active');
@@ -49,24 +45,21 @@ const Home = () => {
                 });
             },
             { 
-                threshold: 0.3, // Lower threshold to 30% visibility
-                rootMargin: '-70px 0px 0px 0px' // Updated offset for the navigation bar
+                threshold: 0.5,
+                rootMargin: '-20px 0px -20px 0px'
             }
         );
 
-        // Observe all sections
         sectionRefs.forEach(ref => {
             if (ref.current) {
                 observerRef.current.observe(ref.current);
             }
         });
 
-        // Set first section as active initially
         if (sectionRefs[0].current) {
             sectionRefs[0].current.classList.add('active');
         }
 
-        // Clean up observer on unmount
         return () => {
             if (observerRef.current) {
                 sectionRefs.forEach(ref => {
@@ -80,19 +73,14 @@ const Home = () => {
     }, []);
 
     useEffect(() => {
-        // Fix for potential white space at bottom
         const fixContainerHeight = () => {
             if (containerRef.current) {
-                // Ensure the last section exactly fills the remaining space
                 const lastSection = sectionRefs[3].current;
                 if (lastSection) {
-                    // Force recalculation of heights
                     const navHeight = 70;
                     const windowHeight = window.innerHeight;
-                    // Calculate exact heights for sections
                     const sectionHeight = windowHeight - navHeight;
                     
-                    // Apply consistent heights to all sections
                     sectionRefs.forEach(ref => {
                         if (ref.current) {
                             ref.current.style.height = `${sectionHeight}px`;
@@ -103,7 +91,6 @@ const Home = () => {
             }
         };
         
-        // Call initially and on resize
         fixContainerHeight();
         window.addEventListener('resize', fixContainerHeight);
         
@@ -114,17 +101,9 @@ const Home = () => {
 
     const scrollToNextSection = (index) => {
         if (index < sectionRefs.length - 1 && sectionRefs[index + 1].current) {
-            // Use scrollIntoView with the containing element as the scrolling container
-            const navHeight = 70; // Updated height of the navigation bar
-            const nextSectionTop = sectionRefs[index + 1].current.offsetTop - navHeight;
-            
-            // Ensure we don't scroll beyond the container
-            const maxScroll = containerRef.current.scrollHeight - containerRef.current.clientHeight;
-            const safeScrollTop = Math.min(nextSectionTop, maxScroll);
-            
-            containerRef.current.scrollTo({
-                top: safeScrollTop,
-                behavior: 'smooth'
+            sectionRefs[index + 1].current.scrollIntoView({ 
+                behavior: 'smooth',
+                block: 'start'
             });
         }
     };
@@ -132,7 +111,6 @@ const Home = () => {
     return (
         <>
             <div ref={containerRef} className="home-container">
-                {/* Hero Section */}
                 <section ref={sectionRefs[0]} className="section hero-section">
                     <div className="content">
                         <h1 className="hero-title">Ricky Iwasaki</h1>
@@ -143,8 +121,6 @@ const Home = () => {
                         </div>
                     </div>
                 </section>
-
-                {/* Beliefs Section */}
                 <section ref={sectionRefs[1]} className="section beliefs-section">
                     <div className="content">
                         <div className="section-icon">
@@ -161,8 +137,6 @@ const Home = () => {
                         </div>
                     </div>
                 </section>
-
-                {/* Resume Section */}
                 <section ref={sectionRefs[2]} className="section resume-section">
                     <div className="content">
                         <div className="section-icon">
@@ -184,8 +158,6 @@ const Home = () => {
                         </div>
                     </div>
                 </section>
-
-                {/* Contact Section */}
                 <section ref={sectionRefs[3]} className="section contact-section">
                     <div className="content">
                         <div className="section-icon">
@@ -201,7 +173,6 @@ const Home = () => {
                 </section>
             </div>
             
-            {/* Navigation dots - moved outside container */}
             <div className="section-dots">
                 {[0, 1, 2, 3].map((index) => (
                     <div 
@@ -210,10 +181,9 @@ const Home = () => {
                         data-tooltip={index === 0 ? 'Home' : index === 1 ? 'Beliefs' : index === 2 ? 'Resume' : 'Contact'}
                         onClick={() => {
                             if (sectionRefs[index].current) {
-                                const navHeight = 70; // Updated height of the navigation bar
-                                containerRef.current.scrollTo({
-                                    top: sectionRefs[index].current.offsetTop - navHeight,
-                                    behavior: 'smooth'
+                                sectionRefs[index].current.scrollIntoView({
+                                    behavior: 'smooth',
+                                    block: 'start'
                                 });
                             }
                         }}
